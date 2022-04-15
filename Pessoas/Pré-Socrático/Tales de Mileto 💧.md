@@ -7,4 +7,4 @@ Tales de Mileto foi um grande marco, foi a partir dele que temos o pensamento co
 
 <p style="text-align: center;">"A água é o que cria a vida"</p>
 
-kkk
+

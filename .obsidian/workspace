@@ -128,6 +128,14 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "01ecff457f5aed1f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
