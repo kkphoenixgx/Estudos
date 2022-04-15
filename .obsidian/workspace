@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Espaço e Região.md",
+            "file": "Conceitos/Geografia.md",
             "mode": "source",
             "source": false
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Espaço e Região.md",
+                "file": "Conceitos/Geografia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Espaço e Região.md",
+                "file": "Conceitos/Geografia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,6 +138,7 @@
   },
   "active": "fdf1eab20e0ca5b8",
   "lastOpenFiles": [
+    "Conceitos/Geografia.md",
     "Conceitos/Espaço e Região.md",
     "Pessoas/Alemanha/Friedrich Ratzel.md",
     "Lugares/Ocidente/Europa/Alemanha.md",
@@ -146,7 +147,6 @@
     "Pessoas/Pré-Socrático/Tales de Mileto 💧.md",
     "Pessoas/Pré-Socrático/Empidocles 🔥💧🌬🗻.md",
     "Pessoas/Pré-Socrático/Anaximenedes 🌫.md",
-    "Pessoas/Pré-Socrático/Anaximandro🌀.md",
-    "Pessoas/Pré-Socrático/Anaximenedes.md"
+    "Pessoas/Pré-Socrático/Anaximandro🌀.md"
   ]
 }
