@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7c90f4a4ba9e0900",
+        "id": "80119fc3f8398d4d",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "graph",
           "state": {},
           "pinned": true
-        }
-      },
-      {
-        "id": "6de249622a39c4e6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Pessoas/Pré-Socrático/Tales de Mileto 💧.md",
-            "mode": "source"
-          }
         }
       }
     ],
@@ -97,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pessoas/Pré-Socrático/Tales de Mileto 💧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,18 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pessoas/Pré-Socrático/Tales de Mileto 💧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "074cda627175ca95",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ]
@@ -135,8 +114,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6de249622a39c4e6",
+  "active": "80119fc3f8398d4d",
   "lastOpenFiles": [
+    "2022-04-15.md",
     "Pessoas/Pré-Socrático/Tales de Mileto 💧.md",
     "Pessoas/Pós-Socrasticos/Sócrates.md",
     "Lugares/Ocidente/América/América do Norte/EUA.md",
@@ -145,7 +125,6 @@
     "Acontecimentos/5- Contemporânea/Revolução Digital.md",
     "Acontecimentos/5- Contemporânea/Programação.md",
     "Acontecimentos/5- Contemporânea/Fisica.md",
-    "Pessoas/Inglaterra/Newton.md",
-    "Pessoas/Itália/Galileu.md"
+    "Pessoas/Inglaterra/Newton.md"
   ]
 }
