@@ -3,5 +3,12 @@
   "calendar",
   "obsidian-outliner",
   "obsidian-mind-map",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-style-settings",
+  "tag-wrangler",
+  "buttons",
+  "obsidian-icon-folder",
+  "obsidian-collapse-all-plugin",
+  "obsidian-code-block-enhancer",
+  "obsidian-kanban"
 ]

@@ -77,14 +77,6 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "0e62f4b31288f799",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ]
       }
@@ -106,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pessoas/Pré-Socrático/Tales de Mileto 💧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pessoas/Pré-Socrático/Tales de Mileto 💧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,14 +128,14 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "fdf1eab20e0ca5b8",
+  "active": "80119fc3f8398d4d",
   "lastOpenFiles": [
     "Pessoas/Pré-Socrático/Tales de Mileto 💧.md",
     "2022-04-15.md",
