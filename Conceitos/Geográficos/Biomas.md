@@ -13,7 +13,7 @@ Os rios podem ser divididos em 3 partes
 * Curso Médio = tudo que tá entre o começo e o final
 * Foz = onde acaba
 
-
+![[Rio.png]]
 
 ### Riachos
 
