@@ -1,0 +1,123 @@
+{
+  "workspaces": {
+    "Estudos Gerais": {
+      "main": {
+        "id": "d12e855422103afa",
+        "type": "split",
+        "children": [
+          {
+            "id": "80119fc3f8398d4d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "d6a5d9279af59e13",
+        "type": "split",
+        "children": [
+          {
+            "id": "a1c4b7f2c853ba67",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c7f1036188dabcfd",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "4d25c09d2ebfece8",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "ee6bfe23909d3553",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "4bc88cb1e60447c5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 251
+      },
+      "right": {
+        "id": "9e25cca9212e7705",
+        "type": "split",
+        "children": [
+          {
+            "id": "2ea49873ca7b06d5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "456da733f5b8f9ff",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "114ae50a03798c73",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "80119fc3f8398d4d"
+    }
+  },
+  "active": "Estudos Gerais"
+}
