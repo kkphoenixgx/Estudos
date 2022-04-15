@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:IMPORTANT",
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 2113497
       }
+    },
+    {
+      "query": "path:Conceitos",
+      "color": {
+        "a": 1,
+        "rgb": 8454282
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +53,6 @@
   "repelStrength": 16.6666666666667,
   "linkStrength": 1,
   "linkDistance": 95,
-  "scale": 0.27268601985406854,
+  "scale": 0.3823011362980402,
   "close": true
 }

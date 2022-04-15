@@ -5,7 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🎵"
+      "⏳",
+      "🚶🏻‍♂️",
+      "🌆",
+      "🎵",
+      "🏠"
     ],
     "recentlyUsedIconsSize": 5,
     "extraPadding": {
@@ -15,5 +19,10 @@
       "left": 2
     }
   },
-  "Audio": "🎵"
+  "Audio": "🎵",
+  "img": "🌆",
+  "Lugares": "🏠",
+  "Pessoas": "🚶🏻‍♂️",
+  "Conceitos": "🏛",
+  "Sec": "⏳"
 }
