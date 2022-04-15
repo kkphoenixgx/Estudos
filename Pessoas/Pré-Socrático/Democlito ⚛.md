@@ -1,4 +1,4 @@
 # Democlíto de Abdera
-#pré-srcrático 
+#pré-srcráticos
 
-Democlito nasceu na polis de [[Abdera]] na [[Grécia Antiga]]
+Democlito nasceu na polis de [[Abdera]] na [[Grécia Antiga]], ele, assim como todos os #pré-srcráticos, se 

@@ -1,5 +1,5 @@
 # Tales de Mileto
-#pré-srcrático
+#pré-srcráticos 
 
 * **Arche** = Origem
 

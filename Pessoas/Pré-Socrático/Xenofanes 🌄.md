@@ -1,4 +1,4 @@
 # Xenofanes de Cólofon
-#pré-srcrático  
+#pré-srcráticos
 
 Xenofanes de Cólofon nasceu em Cólofon, na [[Grécia Antiga]]
