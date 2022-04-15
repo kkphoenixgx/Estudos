@@ -14,12 +14,12 @@
         }
       },
       {
-        "id": "fdf1eab20e0ca5b8",
+        "id": "c180eec92ceba0ff",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pessoas/Pré-Socrático/Mileto/Heródoto.md",
+            "file": "Conceitos/Geográficos/Biomas.md",
             "mode": "source",
             "source": false
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pessoas/Pré-Socrático/Mileto/Heródoto.md",
+                "file": "Conceitos/Geográficos/Biomas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pessoas/Pré-Socrático/Mileto/Heródoto.md",
+                "file": "Conceitos/Geográficos/Biomas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fdf1eab20e0ca5b8",
+  "active": "c180eec92ceba0ff",
   "lastOpenFiles": [
-    "Pessoas/Pré-Socrático/Mileto/Heródoto.md",
+    "Conceitos/Geográficos/Biomas.md",
     "Conceitos/Geografia.md",
+    "Pessoas/Pré-Socrático/Mileto/Heródoto.md",
     "Conceitos/Geográficos/Espaço e Região.md",
     "Pessoas/Brasil/Milton Santos.md",
     "Pessoas/França/Henrri Lefreb.md",
     "Conceitos/Sociologia.md",
     "Pessoas/Alemanha/Friedrich Ratzel.md",
     "Lugares/Ocidente/Europa/Alemanha.md",
-    "Pessoas/Pré-Socrático/Democlito ⚛.md",
-    "Pessoas/Pré-Socrático/Xenofanes 🌄.md"
+    "Pessoas/Pré-Socrático/Democlito ⚛.md"
   ]
 }
