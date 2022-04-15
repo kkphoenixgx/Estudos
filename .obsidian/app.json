@@ -1,0 +1,13 @@
+{
+  "legacyEditor": true,
+  "livePreview": true,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "tabSize": 2,
+  "vimMode": false,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "defaultViewMode": "source",
+  "alwaysUpdateLinks": true
+}

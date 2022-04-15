@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:IMPORTANT",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#sec",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#Locate",
+      "color": {
+        "a": 1,
+        "rgb": 14248205
+      }
+    },
+    {
+      "query": "path:Acontecimentos",
+      "color": {
+        "a": 1,
+        "rgb": 2113497
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.35416666666667,
+  "lineSizeMultiplier": 1.35416666666667,
+  "collapse-forces": false,
+  "centerStrength": 0.648809523809524,
+  "repelStrength": 16.6666666666667,
+  "linkStrength": 1,
+  "linkDistance": 95,
+  "scale": 0.13873223932666115,
+  "close": true
+}
