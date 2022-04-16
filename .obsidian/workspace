@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Linguagens/Português/Portugês do Brasil.md",
+            "file": "Conceitos/Linguagens/Português/Sintexe/Sintaxe.md",
             "mode": "source",
             "source": false
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Linguagens/Português/Portugês do Brasil.md",
+                "file": "Conceitos/Linguagens/Português/Sintexe/Sintaxe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Linguagens/Português/Portugês do Brasil.md",
+                "file": "Conceitos/Linguagens/Português/Sintexe/Sintaxe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,15 +140,15 @@
   },
   "active": "d3ef2d69fd69b44c",
   "lastOpenFiles": [
+    "Conceitos/Linguagens/Português/Sintexe/Sintaxe.md",
+    "Conceitos/Linguagens/Português/Morfologia/Morfologia.md",
+    "Conceitos/Linguagens/Português/Português.md",
+    "Conceitos/Linguagens/Português/Semantica/Semantica.md",
     "Conceitos/Linguagens/Português/Portugês do Brasil.md",
     "Conceitos/Linguagens/Latim.md",
     "Lugares/Ocidente/Europa/Roma.md",
     "Lugares/Ocidente/Mediterrâneo.md",
     "img/Mediterrâneo na Grécia.png",
-    "Lugares/Oriente/Mesopotâmia/MESOPOTAMIA.md",
-    "Lugares/Oriente/Mesopotâmia/Suméria.md",
-    "Conceitos/Linguagens/Português/Português.md",
-    "Conceitos/Linguagens.md",
-    "Conceitos/Geográficos/Biomas.md"
+    "Lugares/Oriente/Mesopotâmia/MESOPOTAMIA.md"
   ]
 }
