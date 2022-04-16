@@ -12,4 +12,4 @@ Os tipos textuais são estudados pela [[Semântica]] , eles delimitam quais são
 
 * **Explicativo** (**Injuntivo**) = Que ordena você a realizar uma série de comandos, como uma receita. Tem a intenção de fazer você aprender, intenção de te explicar. 
 
-Importante frizar que 
+Importante frizar que os generos textuais, diferentemente dos generos textuais, sofrem mudança, os tipos sociais não mudam de acordo com o momento.
