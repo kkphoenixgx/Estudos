@@ -9,5 +9,7 @@
   "obsidian-icon-folder",
   "obsidian-collapse-all-plugin",
   "obsidian-code-block-enhancer",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-smarter-md-hotkeys",
+  "find-and-replace-in-selection"
 ]
