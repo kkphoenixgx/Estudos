@@ -3,7 +3,7 @@
 
 Os verbos essenciais são um conjunto de verbos categorizados assim pela [[Morfologia]]
 
-eles são
+eles criam um teor de análise, indicam aprofundamento
 
 1. Permitir
 2. Possibilitar
@@ -24,4 +24,5 @@ eles são
 17. Aprofundar
 18. Agravar
 
+![[Verbos para Problematização.webm]]
 
