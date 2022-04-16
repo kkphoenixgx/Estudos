@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sec/Divisões/Pré-história/1.Paleolítico.md",
+            "file": "Sec/Divisões/Pré-história/2.Idade da pedra (Neolítico).md",
             "mode": "source",
             "source": false
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sec/Divisões/Pré-história/1.Paleolítico.md",
+                "file": "Sec/Divisões/Pré-história/2.Idade da pedra (Neolítico).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sec/Divisões/Pré-história/1.Paleolítico.md",
+                "file": "Sec/Divisões/Pré-história/2.Idade da pedra (Neolítico).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,6 +138,7 @@
   },
   "active": "6287f991ade21911",
   "lastOpenFiles": [
+    "Sec/Divisões/Pré-história/2.Idade da pedra (Neolítico).md",
     "Sec/Divisões/Pré-história/1.Paleolítico.md",
     "Sec/21-XXI.md",
     "Sec/20-XX.md",
@@ -146,7 +147,6 @@
     "Sec/17-XVII.md",
     "Sec/16-XVI.md",
     "Sec/15-XV.md",
-    "Sec/14-XIV.md",
-    "Sec/12-XII.md"
+    "Sec/14-XIV.md"
   ]
 }
