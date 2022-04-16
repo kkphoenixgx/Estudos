@@ -12,18 +12,6 @@
           "state": {},
           "pinned": true
         }
-      },
-      {
-        "id": "8cc8f50e2cfcf79c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Conceitos/Linguagens/Português/Redação.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -78,13 +66,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9e25cca9212e7705",
@@ -100,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Linguagens/Português/Redação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Linguagens/Português/Redação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,17 +122,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8cc8f50e2cfcf79c",
+  "active": "80119fc3f8398d4d",
   "lastOpenFiles": [
+    "Conceitos/Linguagens/Português/Fonologia/Fonologia.md",
     "Conceitos/Linguagens/Português/Redação.md",
+    "Conceitos/Linguagens/Português/Semântica/Tipos textuais/Tipos Textuais.md",
+    "Conceitos/Linguagens/Português/Semântica/Generos textuais/Generos textuais.md",
+    "Conceitos/Linguagens/Português/Semântica/Semântica.md",
     "Conceitos/Linguagens/Inglês/Inglês.md",
     "Conceitos/Linguagens/Inglês/Aulas de Inglês/Aula1.md",
     "Conceitos/Linguagens/Português/Morfologia/Verbos/Verbos Essenciais.md",
     "Conceitos/Linguagens/Português/Sintexe/Sintaxe.md",
-    "Conceitos/Linguagens/Português/Morfologia/Morfologia.md",
-    "Conceitos/Linguagens/Português/Português.md",
-    "Conceitos/Linguagens/Português/Semantica/Semantica.md",
-    "Conceitos/Linguagens/Português/Portugês do Brasil.md",
-    "Conceitos/Linguagens/Latim.md"
+    "Conceitos/Linguagens/Português/Morfologia/Morfologia.md"
   ]
 }

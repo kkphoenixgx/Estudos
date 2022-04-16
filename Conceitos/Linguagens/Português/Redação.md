@@ -1,5 +1,5 @@
 # Redação
-A redação é um genero textual do tipo argumentativo
+A redação é um dos [[Generos textuais]] do tipo argumentativo
 
 Uma redação deve conter partes principais que devem ser elaboradas
 
