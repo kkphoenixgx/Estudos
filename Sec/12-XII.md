@@ -1,2 +1,2 @@
 # XII
-#sec
+#Tempo 

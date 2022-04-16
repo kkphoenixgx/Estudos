@@ -1,2 +1,2 @@
 # XVI
-#sec
+#Tempo 

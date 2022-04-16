@@ -1,2 +1,2 @@
 # XIX
-#sec
+#Tempo 
