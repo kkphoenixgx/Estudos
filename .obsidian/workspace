@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Linguagens/Português/Redação.md",
+            "file": "Conceitos/Linguagens/Português/Morfologia/Verbos/Verbos Essenciais.md",
             "mode": "source",
             "source": false
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Linguagens/Português/Redação.md",
+                "file": "Conceitos/Linguagens/Português/Morfologia/Verbos/Verbos Essenciais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Linguagens/Português/Redação.md",
+                "file": "Conceitos/Linguagens/Português/Morfologia/Verbos/Verbos Essenciais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,6 +140,7 @@
   },
   "active": "d3ef2d69fd69b44c",
   "lastOpenFiles": [
+    "Conceitos/Linguagens/Português/Morfologia/Verbos/Verbos Essenciais.md",
     "Conceitos/Linguagens/Português/Redação.md",
     "Conceitos/Linguagens/Português/Sintexe/Sintaxe.md",
     "Conceitos/Linguagens/Português/Morfologia/Morfologia.md",
@@ -148,7 +149,6 @@
     "Conceitos/Linguagens/Português/Portugês do Brasil.md",
     "Conceitos/Linguagens/Latim.md",
     "Lugares/Ocidente/Europa/Roma.md",
-    "Lugares/Ocidente/Mediterrâneo.md",
-    "img/Mediterrâneo na Grécia.png"
+    "Lugares/Ocidente/Mediterrâneo.md"
   ]
 }
