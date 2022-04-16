@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": false,
@@ -36,6 +36,41 @@
       }
     },
     {
+      "query": "path:Conceitos/Linguagens/Português/Morfologia",
+      "color": {
+        "a": 1,
+        "rgb": 14406656
+      }
+    },
+    {
+      "query": "path:Conceitos/Linguagens/Português/Semântica",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:Conceitos/Linguagens/Português/Sintaxe/",
+      "color": {
+        "a": 1,
+        "rgb": 3932237
+      }
+    },
+    {
+      "query": "path:Conceitos/Linguagens/Português/Fonologia",
+      "color": {
+        "a": 1,
+        "rgb": 12403200
+      }
+    },
+    {
+      "query": "path:Conceitos/Linguagens/Português/Estilistica",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
       "query": "path:Conceitos",
       "color": {
         "a": 1,
@@ -43,16 +78,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.7625,
   "lineSizeMultiplier": 4.27083333333333,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.648809523809524,
   "repelStrength": 16.6666666666667,
   "linkStrength": 1,
   "linkDistance": 95,
-  "scale": 0.5359796548902466,
+  "scale": 0.5359796548902475,
   "close": true
 }
