@@ -6,6 +6,7 @@
       {
         "id": "80119fc3f8398d4d",
         "type": "leaf",
+        "dimension": 66.66666666666667,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -16,6 +17,7 @@
       {
         "id": "d3ef2d69fd69b44c",
         "type": "leaf",
+        "dimension": 33.333333333333336,
         "state": {
           "type": "markdown",
           "state": {
@@ -139,14 +141,14 @@
   "active": "d3ef2d69fd69b44c",
   "lastOpenFiles": [
     "Conceitos/Linguagens/Português/Portugês do Brasil.md",
+    "Conceitos/Linguagens/Latim.md",
+    "Lugares/Ocidente/Europa/Roma.md",
+    "Lugares/Ocidente/Mediterrâneo.md",
+    "img/Mediterrâneo na Grécia.png",
+    "Lugares/Oriente/Mesopotâmia/MESOPOTAMIA.md",
+    "Lugares/Oriente/Mesopotâmia/Suméria.md",
     "Conceitos/Linguagens/Português/Português.md",
     "Conceitos/Linguagens.md",
-    "Lugares/Oriente/Mesopotâmia/Suméria.md",
-    "Conceitos/Geográficos/Biomas.md",
-    "Conceitos/Geografia.md",
-    "Pessoas/Pré-Socrático/Mileto/Heródoto.md",
-    "Conceitos/Geográficos/Espaço e Região.md",
-    "Pessoas/Brasil/Milton Santos.md",
-    "Pessoas/França/Henrri Lefreb.md"
+    "Conceitos/Geográficos/Biomas.md"
   ]
 }
