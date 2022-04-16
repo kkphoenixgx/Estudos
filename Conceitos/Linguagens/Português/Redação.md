@@ -1,5 +1,5 @@
 # Redação
-#Portugês 
+A redação é um genero textual do tipo argumentativo
 
 Uma redação deve conter partes principais que devem ser elaboradas
 
