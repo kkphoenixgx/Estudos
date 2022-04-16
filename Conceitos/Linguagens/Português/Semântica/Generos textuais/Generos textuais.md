@@ -1,3 +1,3 @@
 # Generos textuais
 
-Os generos textuais são estudados pela [[Semântica]]
+Os generos textuais são subclasses dos [[Tipos Textuais]]
