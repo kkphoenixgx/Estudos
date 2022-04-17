@@ -7,9 +7,19 @@ Então vamos as suas usualidades
 
 ## Fatorando raizes
 
-<p style="font-size: 2.5em; text-align: center">ⁿ¹√aⁿ²</p>
+Podemos simplesmente fatorar o valor da raiz e tirar de ( ⁿ√ )  n  em n números esses números da raiz
+
+## Transformando raiz para expoente
+
+<p style="font-size: 2.5em; text-align: center">ⁿ¹√aⁿ² = aⁿ²/ⁿ¹ </p>
 
 **n1** =  raiz quadrada 
 **n2** = potência de a.
 
-√10 = 10¹⅟∕
+√10 = 10½
+
+![[Pasted image 20220417192013.png]]
+
+
+
+
