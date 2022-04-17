@@ -14,12 +14,12 @@
         }
       },
       {
-        "id": "6287f991ade21911",
+        "id": "00ad90ed3192346c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Fisica/Movimento.md",
+            "file": "Conceitos/Math/Fatoração.md",
             "mode": "source",
             "source": false
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Fisica/Movimento.md",
+                "file": "Conceitos/Math/Fatoração.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Fisica/Movimento.md",
+                "file": "Conceitos/Math/Fatoração.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6287f991ade21911",
+  "active": "00ad90ed3192346c",
   "lastOpenFiles": [
+    "Conceitos/Math/Fatoração.md",
+    "Conceitos/Math/Simplificação.md",
+    "Conceitos/Math/Matemática.md",
+    "Conceitos/Math/Razão e Proporção.md",
     "Conceitos/Fisica/Movimento.md",
     "Pessoas/Itália/Galileu.md",
     "Lugares/Roma.md",
     "Lugares/Ocidente/Grécia Antiga.md",
     "Pessoas/Pós-Socrasticos/Helenistas/Diogenes.md",
-    "Lugares/Império Romano.md",
-    "Sec/Divisões/Pré-história/2.Idade da pedra (Neolítico).md",
-    "Sec/Divisões/Pré-história/1.Paleolítico.md",
-    "Sec/21-XXI.md",
-    "Sec/20-XX.md"
+    "Lugares/Império Romano.md"
   ]
 }
