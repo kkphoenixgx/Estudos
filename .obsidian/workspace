@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lugares/Roma.md",
+            "file": "Conceitos/Fisica/Movimento.md",
             "mode": "source",
             "source": false
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lugares/Roma.md",
+                "file": "Conceitos/Fisica/Movimento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lugares/Roma.md",
+                "file": "Conceitos/Fisica/Movimento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,6 +138,8 @@
   },
   "active": "6287f991ade21911",
   "lastOpenFiles": [
+    "Conceitos/Fisica/Movimento.md",
+    "Pessoas/Itália/Galileu.md",
     "Lugares/Roma.md",
     "Lugares/Ocidente/Grécia Antiga.md",
     "Pessoas/Pós-Socrasticos/Helenistas/Diogenes.md",
@@ -145,8 +147,6 @@
     "Sec/Divisões/Pré-história/2.Idade da pedra (Neolítico).md",
     "Sec/Divisões/Pré-história/1.Paleolítico.md",
     "Sec/21-XXI.md",
-    "Sec/20-XX.md",
-    "Sec/19-XIX.md",
-    "Sec/18-XVIII.md"
+    "Sec/20-XX.md"
   ]
 }
