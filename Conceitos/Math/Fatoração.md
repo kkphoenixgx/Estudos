@@ -7,4 +7,9 @@ Então vamos as suas usualidades
 
 ## Fatorando raizes
 
-ⁿ√ap
+<p style="font-size: 2.5em; text-align: center">ⁿ¹√aⁿ²</p>
+
+**n1** =  raiz quadrada 
+**n2** = potência de a.
+
+√10 = 10¹⅟∕
