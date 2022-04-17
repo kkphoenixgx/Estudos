@@ -33,3 +33,10 @@ Podemos simplesmente fatorar o valor da raiz e tirar de ( ⁿ√ )  n  em n núm
 
 ## Racionalizar Denominadores
 
+Temos a seguinte operação: 2/√3. Ao racionalizar denominadores, tiramos a raiz do denominador, logo não dividimos por √3
+<p style="font-size: 1.5em; text-align: center">2/√3 -> (2/√3).√3 -> 2√3 / √9 -> 2√3 9</p>
+![[Pasted image 20220417193904.png]]
+
+E quando temos uma soma sendo realizada no denominador, podemos fazer [[Produtos Notáveis]] nesses denominadores, realizando isso,  tiramos novamente o denominador com raiz
+
+(2/√3+1) √3 -1 -> 2/√3
