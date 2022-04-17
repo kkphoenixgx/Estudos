@@ -1,7 +1,7 @@
 # Movimento
 [[Fisica]]
 
-▲ = delta
+▲ = delta   
 
 De acordo com o referencial podemos calcular o movimento, se um cara dentro de um trêm observa uma lampada do trêm, para ele, ela está parada. Porém para alguém de fora do trêm. ela está em movimento.
 
@@ -11,4 +11,5 @@ Não existe um parado ou andando
 
 **Posição (S)**= Podemos definir S = 5, num eixo x e o começo, podemos definir como S0 = 1, então no momento ele está em 5 e começou no 1
 
-Deslocamento ▲t 
+Deslocamento = ▲t 
+Posção final = deslocamento = ▲S
