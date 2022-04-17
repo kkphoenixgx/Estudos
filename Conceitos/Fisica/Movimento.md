@@ -12,8 +12,10 @@ Não existe um parado ou andando
 **Posição (S)**= Podemos definir S = 5, num eixo x e o começo, podemos definir como S0 = 1, então no momento ele está em 5 e começou no 1
 
 Deslocamento = ▲t 
+V = velocidade
 
 distância percorrida = d
 Posção final = deslocamento = ▲S
 
 ▲S = S0 - S
+V = ▲S / ▲T ou d/▲t 
