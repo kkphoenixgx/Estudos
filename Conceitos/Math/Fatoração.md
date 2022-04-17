@@ -5,4 +5,6 @@ Uma das regras do jogo da matemética, a fatoração é uma regra que serve para
 
 Então vamos as suas usualidades
 
-## Fatorando rta
+## Fatorando raizes
+
+ⁿ√ap
