@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Math/Fatoração.md",
+            "file": "Conceitos/Math/Produtos Notáveis.md",
             "mode": "source",
             "source": false
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Math/Fatoração.md",
+                "file": "Conceitos/Math/Produtos Notáveis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Math/Fatoração.md",
+                "file": "Conceitos/Math/Produtos Notáveis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +138,8 @@
   },
   "active": "dc559544b91462c2",
   "lastOpenFiles": [
-    "Conceitos/Math/Fatoração.md",
     "Conceitos/Math/Produtos Notáveis.md",
+    "Conceitos/Math/Fatoração.md",
     "Conceitos/Math/Simplificação.md",
     "Conceitos/Math/Matemática.md",
     "Conceitos/Math/Razão e Proporção.md",

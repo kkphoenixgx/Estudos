@@ -39,4 +39,8 @@ Temos a seguinte operação: 2/√3. Ao racionalizar denominadores, tiramos a ra
 
 E quando temos uma soma sendo realizada no denominador, podemos fazer [[Produtos Notáveis]] nesses denominadores, realizando isso,  tiramos novamente o denominador com raiz
 
-(2/√3+1) √3 -1 -> 2/√3
+(2/√3+1) √3 -1 -> 2√3 -1 /√9 . 1²  -> 2√3 -1 /3 - 1  -> 2√3 -1 / 2 
+
+![[Pasted image 20220417194902.png]]
+
+
