@@ -15,3 +15,5 @@ Deslocamento = ▲t
 
 distância percorrida = d
 Posção final = deslocamento = ▲S
+
+▲S = S0 - S
