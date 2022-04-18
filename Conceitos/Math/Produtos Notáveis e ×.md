@@ -49,7 +49,7 @@ Se temos duas vezes -ab { -ab . -ab } , - . - = -, logo possuímos -2ab. Portant
 
 (a²) + (-2ab) + (b²) = **a² -2ab + b²**
 
-## (a+b) . (a-b)
+### (a+b) . (a-b)
 
 Diferentemente dos outros, não tem como sumplificar isso ao quadrado, mas irá aparecer facilmente essa conta, inclusive ela é a mais legal, pois é mais simples só cortar tudo e a vida é boa
 
@@ -59,3 +59,8 @@ b.a = ab
 -b²  
 
 Perceba que temos os resultados -ab e ab, se eu somo ab de um x e depois diminuo, eu não to fazendo nada com o x. Logo podemos simplesmente cortar esses termos e ficamos com **a² - b²**
+
+-----------------------------------------------
+Com simplesmente a propriedade distributiva, podemos fazer coisas ainda mais complexas, produtos notáveis com 3 termos por exemplo, mas se quiser, vai fundo, você se entendeu tudo consegue. 
+
+Faz aí (a-b) . (a+b) . (a+b).

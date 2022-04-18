@@ -1,4 +1,4 @@
-# Simplificação
-#math
+# Simplificação, ou fatoração algebrica
+
 
 

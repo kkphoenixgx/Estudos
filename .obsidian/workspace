@@ -19,8 +19,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Math/Produtos Notáveis e ×.md",
-            "mode": "preview",
+            "file": "Conceitos/Math/Simplificação.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Math/Produtos Notáveis e ×.md",
+                "file": "Conceitos/Math/Simplificação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Math/Produtos Notáveis e ×.md",
+                "file": "Conceitos/Math/Simplificação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,10 +138,10 @@
   },
   "active": "dc559544b91462c2",
   "lastOpenFiles": [
-    "Conceitos/Math/Produtos Notáveis e ×.md",
-    "Conceitos/Math/Razão e Proporção.md",
-    "Conceitos/Math/Fatoração e Raizes.md",
     "Conceitos/Math/Simplificação.md",
+    "Conceitos/Math/Razão e Proporção.md",
+    "Conceitos/Math/Produtos Notáveis e ×.md",
+    "Conceitos/Math/Fatoração e Raizes.md",
     "Conceitos/Math/Matemática.md",
     "Conceitos/Fisica/Movimento.md",
     "Pessoas/Itália/Galileu.md",
