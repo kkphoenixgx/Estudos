@@ -4,11 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "bbd1a821bbf534c2",
+        "id": "80119fc3f8398d4d",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "graph",
-          "state": {}
+          "state": {},
+          "pinned": true
         }
       }
     ],
@@ -88,17 +90,23 @@
             }
           },
           {
-            "id": "80119fc3f8398d4d",
+            "id": "c2ad9f6eedc8b793",
             "type": "leaf",
-            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e136dbcadd44a14b",
+            "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {},
-              "pinned": true
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "2ea49873ca7b06d5",
@@ -138,13 +146,13 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "bbd1a821bbf534c2",
+  "active": "80119fc3f8398d4d",
   "lastOpenFiles": [
+    "Conceitos/Math/Fatoração e Raizes.md",
+    "Conceitos/Math/Produtos Notáveis e ×.md",
+    "Conceitos/Math/Razão e Proporção.md",
     "Sec/20-XX.md",
     "Conceitos/Math/Simplificação.md",
-    "Conceitos/Math/Razão e Proporção.md",
-    "Conceitos/Math/Produtos Notáveis e ×.md",
-    "Conceitos/Math/Fatoração e Raizes.md",
     "Conceitos/Math/Matemática.md",
     "Conceitos/Fisica/Movimento.md",
     "Pessoas/Itália/Galileu.md",

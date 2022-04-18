@@ -37,7 +37,7 @@ Temos a seguinte operação: 2/√3. Ao racionalizar denominadores, tiramos a ra
 <p style="font-size: 1.5em; text-align: center">2/√3 -> (2/√3).√3 -> 2√3 / √9 -> 2√3 9</p>
 ![[Pasted image 20220417193904.png]]
 
-E quando temos uma soma sendo realizada no denominador, podemos fazer [[Produtos Notáveis e ×]] nesses denominadores, realizando isso,  tiramos novamente o denominador com raiz
+E quando temos uma soma sendo realizada no denominador, podemos fazer [[Produtos Notáveis e ×#a b a-b]] nesses denominadores, realizando isso,  tiramos novamente o denominador com raiz
 
 (2/√3+1) √3 -1 -> 2√3 -1 /√9 . 1²  -> 2√3 -1 /3 - 1  -> 2√3 -1 / 2 
 
