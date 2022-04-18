@@ -4,13 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "80119fc3f8398d4d",
+        "id": "65305d4eac28dbed",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "graph",
-          "state": {},
-          "pinned": true
+          "type": "markdown",
+          "state": {
+            "file": "Lugares/Roma.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -23,6 +25,7 @@
       {
         "id": "a1c4b7f2c853ba67",
         "type": "tabs",
+        "dimension": 71.18155619596543,
         "children": [
           {
             "id": "c7f1036188dabcfd",
@@ -48,14 +51,6 @@
             }
           },
           {
-            "id": "ee6bfe23909d3553",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "4bc88cb1e60447c5",
             "type": "leaf",
             "state": {
@@ -64,6 +59,21 @@
                 "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "50dab862316bd7a8",
+        "type": "tabs",
+        "dimension": 28.818443804034583,
+        "children": [
+          {
+            "id": "ee6bfe23909d3553",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           }
         ]
@@ -90,14 +100,6 @@
             }
           },
           {
-            "id": "c2ad9f6eedc8b793",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "e136dbcadd44a14b",
             "type": "leaf",
             "state": {
@@ -106,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "2ea49873ca7b06d5",
@@ -119,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lugares/Roma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lugares/Roma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,17 +150,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "80119fc3f8398d4d",
+  "active": "65305d4eac28dbed",
   "lastOpenFiles": [
+    "Lugares/Roma.md",
+    "Lugares/Ocidente/Grécia Antiga.md",
+    "Lugares/Ocidente/Polis Gregas/Leontine.md",
+    "Lugares/Ocidente/Polis Gregas/Abdera.md",
     "Conceitos/Math/Fatoração e Raizes.md",
     "Conceitos/Math/Produtos Notáveis e ×.md",
     "Conceitos/Math/Razão e Proporção.md",
     "Sec/20-XX.md",
     "Conceitos/Math/Simplificação.md",
-    "Conceitos/Math/Matemática.md",
-    "Conceitos/Fisica/Movimento.md",
-    "Pessoas/Itália/Galileu.md",
-    "Lugares/Roma.md",
-    "Lugares/Ocidente/Grécia Antiga.md"
+    "Conceitos/Math/Matemática.md"
   ]
 }
