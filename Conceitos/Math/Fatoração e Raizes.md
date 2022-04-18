@@ -1,4 +1,4 @@
-# Fatoração 
+# Fatoração e Raizes
 #math 
 
 Uma das regras do jogo da matemética, a fatoração é uma regra que serve para podermos conseguir transformar os números em números menores com potência e transformarmos qualquer coisa no que seja melhor para brincar, então podemos dizer que ela anda de mãos dadas com a [[Simplificação]] de termos
@@ -37,7 +37,7 @@ Temos a seguinte operação: 2/√3. Ao racionalizar denominadores, tiramos a ra
 <p style="font-size: 1.5em; text-align: center">2/√3 -> (2/√3).√3 -> 2√3 / √9 -> 2√3 9</p>
 ![[Pasted image 20220417193904.png]]
 
-E quando temos uma soma sendo realizada no denominador, podemos fazer [[Produtos Notáveis]] nesses denominadores, realizando isso,  tiramos novamente o denominador com raiz
+E quando temos uma soma sendo realizada no denominador, podemos fazer [[Produtos Notáveis e ×]] nesses denominadores, realizando isso,  tiramos novamente o denominador com raiz
 
 (2/√3+1) √3 -1 -> 2√3 -1 /√9 . 1²  -> 2√3 -1 /3 - 1  -> 2√3 -1 / 2 
 

@@ -1,4 +1,0 @@
-# Produtos Notáveis
-#math 
-
-
