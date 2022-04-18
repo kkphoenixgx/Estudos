@@ -45,4 +45,17 @@ a . -b = -ab
 -b. a = -ab  
 b.b = b²  
 
-se temos duas vezes -ab, - . - = -, logo possuímos -2ab. POrtanto temos a fatoração do produto
+Se temos duas vezes -ab { -ab . -ab } , - . - = -, logo possuímos -2ab. Portanto temos a fatoração do produto notável como **a² -2ab + b²**, pois lembrando a propriedade, é o a soma dos objetos, - com +  da -, por isso -2ab, porém estamos indo para o resultado da última multiplicação dos objetos b . b, então concluímos +b².
+
+(a²) + (-2ab) + (b²) = **a² -2ab + b²**
+
+## (a+b) . (a-b)
+
+Diferentemente dos outros, não tem como sumplificar isso ao quadrado, mas irá aparecer facilmente essa conta, inclusive ela é a mais legal, pois é mais simples só cortar tudo e a vida é boa
+
+a.a = a²  
+a.-b = -ab  
+b.a = ab  
+-b²  
+
+Perceba que temos os resultados -ab e ab, se eu somo ab de um x e depois diminuo, eu não to fazendo nada com o x. Logo podemos simplesmente cortar esses termos e ficamos com **a² - b²**
