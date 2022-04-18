@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "80119fc3f8398d4d",
+        "id": "bbd1a821bbf534c2",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "graph",
-          "state": {},
-          "pinned": true
-        }
-      },
-      {
-        "id": "dc559544b91462c2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Conceitos/Math/Simplificação.md",
-            "mode": "source",
-            "source": false
-          }
+          "state": {}
         }
       }
     ],
@@ -78,7 +64,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,8 +76,35 @@
     "type": "split",
     "children": [
       {
+        "id": "d8e1b81d2fce9a02",
+        "type": "tabs",
+        "dimension": 67.0028818443804,
+        "children": [
+          {
+            "id": "01ecff457f5aed1f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "80119fc3f8398d4d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
         "id": "2ea49873ca7b06d5",
         "type": "tabs",
+        "dimension": 32.997118155619596,
         "children": [
           {
             "id": "456da733f5b8f9ff",
@@ -98,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Math/Simplificação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,29 +128,20 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Math/Simplificação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "01ecff457f5aed1f",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "dc559544b91462c2",
+  "active": "bbd1a821bbf534c2",
   "lastOpenFiles": [
+    "Sec/20-XX.md",
     "Conceitos/Math/Simplificação.md",
     "Conceitos/Math/Razão e Proporção.md",
     "Conceitos/Math/Produtos Notáveis e ×.md",
@@ -146,7 +150,6 @@
     "Conceitos/Fisica/Movimento.md",
     "Pessoas/Itália/Galileu.md",
     "Lugares/Roma.md",
-    "Lugares/Ocidente/Grécia Antiga.md",
-    "Pessoas/Pós-Socrasticos/Helenistas/Diogenes.md"
+    "Lugares/Ocidente/Grécia Antiga.md"
   ]
 }
