@@ -21,4 +21,28 @@ A regra distrobutiva diz como fazemos estruturas de um objeto vezes o objeto em 
 
 Entendendo então as regras da multiplicação, podemos chegar a conclusões usando algebra.
 
-* (a+b)² === (a+b) . (a+b) === a² 
+* **(a+b)²** === (a+b) . (a+b) === **a² + 2.ab + b²**
+* **(a-b)²** ===  (a-b) . (a-b) === **a² -2.ab + b²**
+* **(a+b) . (a-b)** === **a² - b²**
+--------------
+Agora vamos entender esses produtos.
+
+### (a+b)²
+
+(a+b) . (a+b)  
+a vezes a = a²  
+a . b  = ab   
+b.a = ab  
+b . b = b²  
+
+se temos duas vezes ab, temos 2ab. Logo ficamos com a fatoração do produto notável **a² + 2.ab + b²**
+
+### (a-b)²
+
+(a-b) . (a-b)    
+a . a = a²  
+a . -b = -ab  
+-b. a = -ab  
+b.b = b²  
+
+se temos duas vezes -ab, - . - = -, logo possuímos -2ab. POrtanto temos a fatoração do produto
