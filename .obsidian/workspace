@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ed0e043a8e759121",
+        "id": "66ebf6b7f63dd68f",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "-Templetes/Concept.md",
+            "file": "Conceitos/Math/Simplificação.md",
             "mode": "source",
             "source": false
-          }
+          },
+          "pinned": true
         }
       }
     ],
@@ -121,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Templetes/Concept.md",
+                "file": "Conceitos/Math/Simplificação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Templetes/Concept.md",
+                "file": "Conceitos/Math/Simplificação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,8 +152,10 @@
     "direction": "horizontal",
     "width": 273
   },
-  "active": "ed0e043a8e759121",
+  "active": "66ebf6b7f63dd68f",
   "lastOpenFiles": [
+    "Conceitos/Math/Simplificação.md",
+    "Conceitos/Math/Fatoração e Raizes.md",
     "-Templetes/Concept.md",
     "Conceitos/Math/MathText.md",
     "Conceitos/Math/Matemática.md",
@@ -159,8 +163,6 @@
     "Sec/Divisões/Pré-história/3.Idade dos metais.md",
     "Sec/Divisões/Pré-história/1.Paleolítico.md",
     "Regras de Convivência.md",
-    "Conceitos/Linguagens/Português/Portugês do Brasil.md",
-    "Lugares/Oriente/Mesopotâmia/Suméria.md",
-    "Pessoas/Pré-Socrático/Mileto/Heródoto.md"
+    "Conceitos/Linguagens/Português/Portugês do Brasil.md"
   ]
 }
