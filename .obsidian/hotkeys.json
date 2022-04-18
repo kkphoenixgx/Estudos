@@ -183,5 +183,14 @@
       "key": "F1"
     }
   ],
-  "obsidian-collapse-all-plugin:collapse-all-expand": []
+  "obsidian-collapse-all-plugin:collapse-all-expand": [],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Key226"
+    }
+  ]
 }

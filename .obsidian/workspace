@@ -7,8 +7,12 @@
         "id": "34a7a89ddb895c1d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "-Templetes/Concept.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -52,7 +56,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true
               }
             }
@@ -117,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "-Templetes/Concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "-Templetes/Concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,10 +148,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 273
   },
   "active": "34a7a89ddb895c1d",
   "lastOpenFiles": [
+    "-Templetes/Concept.md",
     "Sec/Divisões/Pré-história/2.Idade da pedra (Neolítico).md",
     "Sec/Divisões/Pré-história/3.Idade dos metais.md",
     "Sec/Divisões/Pré-história/1.Paleolítico.md",
@@ -154,7 +161,6 @@
     "Lugares/Oriente/Mesopotâmia/Suméria.md",
     "Pessoas/Pré-Socrático/Mileto/Heródoto.md",
     "Conceitos/Math/Matemática.md",
-    "Lugares/Ocidente/Polis Gregas/Sinope.md",
-    "Conceitos/Linguagens/Latim.md"
+    "Lugares/Ocidente/Polis Gregas/Sinope.md"
   ]
 }
