@@ -1,4 +1,4 @@
 # Gorgias
 #Sofista #pós-socrático 
 
-Górgias nasceu em [[Leontine]]
+Górgias nasceu em Leontine

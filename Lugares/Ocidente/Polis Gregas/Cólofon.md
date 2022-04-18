@@ -1,4 +1,4 @@
 # Cólofon
 #Locate 
 
-Colofon é uma polis grega da [[Grécia Antiga]], localizada no [[Mediterrâneo]]
+Colofon é uma polis grega da Grécia Antiga, localizada no Mediterrâneo

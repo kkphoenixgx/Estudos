@@ -1,7 +1,7 @@
 # Grécia Antiga
-[[-8 VIII ac]][[-5 V ac]]
+-8 VIII ac à -5 V ac
 
-* Temos na grécia antiga um conjunto de "cidades" chamadas de **Polis** que envolviam o mar [[Mediterrâneo]]
+* Temos na grécia antiga um conjunto de "cidades" chamadas de **Polis** que envolviam o mar Mediterrâneo
 
 Temos algumas partes da história da Grécia antiga
 

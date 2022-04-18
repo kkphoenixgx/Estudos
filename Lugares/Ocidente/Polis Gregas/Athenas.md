@@ -1,4 +1,4 @@
 # Athenas
 #Locate 
 
-Athenas se localiza no [[Mediterrâneo]],foi uma Polis da [[Grécia Antiga]], surgiu no séc IIIV ac e 
+Athenas se localiza no Mediterrâneo ,foi uma Polis da Grécia Antiga, surgiu no séc IIIV ac e 
