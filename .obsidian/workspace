@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6ca8dd7a453b18aa",
+        "id": "34a7a89ddb895c1d",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -62,7 +62,7 @@
       {
         "id": "50dab862316bd7a8",
         "type": "tabs",
-        "dimension": 28.81844380403458,
+        "dimension": 28.818443804034576,
         "children": [
           {
             "id": "ee6bfe23909d3553",
@@ -94,8 +94,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "084580edf98bb253",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2ea49873ca7b06d5",
@@ -135,17 +144,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6ca8dd7a453b18aa",
+  "active": "34a7a89ddb895c1d",
   "lastOpenFiles": [
-    "Lugares/Oriente/Mesopotâmia/Suméria.md",
+    "Sec/Divisões/Pré-história/2.Idade da pedra (Neolítico).md",
+    "Sec/Divisões/Pré-história/3.Idade dos metais.md",
+    "Sec/Divisões/Pré-história/1.Paleolítico.md",
     "Regras de Convivência.md",
+    "Conceitos/Linguagens/Português/Portugês do Brasil.md",
+    "Lugares/Oriente/Mesopotâmia/Suméria.md",
     "Pessoas/Pré-Socrático/Mileto/Heródoto.md",
     "Conceitos/Math/Matemática.md",
     "Lugares/Ocidente/Polis Gregas/Sinope.md",
-    "Conceitos/Linguagens/Latim.md",
-    "Lugares/Roma.md",
-    "Lugares/Ocidente/Europa/Portugal.md",
-    "Acontecimentos/4- Idade Moderna/Abolição da Escravatura (Negros).md",
-    "Lugares/Ocidente/Polis Gregas/Mileto.md"
+    "Conceitos/Linguagens/Latim.md"
   ]
 }
