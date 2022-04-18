@@ -6,13 +6,15 @@
         "type": "split",
         "children": [
           {
-            "id": "80119fc3f8398d4d",
+            "id": "65305d4eac28dbed",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
+              "type": "markdown",
+              "state": {
+                "file": "Lugares/Roma.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -25,6 +27,7 @@
           {
             "id": "a1c4b7f2c853ba67",
             "type": "tabs",
+            "dimension": 71.18155619596543,
             "children": [
               {
                 "id": "c7f1036188dabcfd",
@@ -50,14 +53,6 @@
                 }
               },
               {
-                "id": "ee6bfe23909d3553",
-                "type": "leaf",
-                "state": {
-                  "type": "starred",
-                  "state": {}
-                }
-              },
-              {
                 "id": "4bc88cb1e60447c5",
                 "type": "leaf",
                 "state": {
@@ -69,18 +64,58 @@
                 }
               }
             ]
+          },
+          {
+            "id": "50dab862316bd7a8",
+            "type": "tabs",
+            "dimension": 28.818443804034583,
+            "children": [
+              {
+                "id": "ee6bfe23909d3553",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
           }
         ],
         "direction": "horizontal",
-        "width": 251
+        "width": 200
       },
       "right": {
         "id": "9e25cca9212e7705",
         "type": "split",
         "children": [
           {
+            "id": "d8e1b81d2fce9a02",
+            "type": "tabs",
+            "dimension": 55.763688760806915,
+            "children": [
+              {
+                "id": "01ecff457f5aed1f",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "e136dbcadd44a14b",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
             "id": "2ea49873ca7b06d5",
             "type": "tabs",
+            "dimension": 44.236311239193085,
             "children": [
               {
                 "id": "456da733f5b8f9ff",
@@ -88,12 +123,13 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "Lugares/Roma.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
                     "showSearch": false,
                     "searchQuery": "",
-                    "backlinkCollapsed": false,
+                    "backlinkCollapsed": true,
                     "unlinkedCollapsed": true
                   }
                 }
@@ -104,6 +140,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
+                    "file": "Lugares/Roma.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -113,10 +150,9 @@
           }
         ],
         "direction": "horizontal",
-        "width": 300,
-        "collapsed": true
+        "width": 300
       },
-      "active": "80119fc3f8398d4d"
+      "active": "65305d4eac28dbed"
     }
   },
   "active": "Estudos Gerais"

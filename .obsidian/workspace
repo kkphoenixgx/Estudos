@@ -6,10 +6,20 @@
       {
         "id": "65305d4eac28dbed",
         "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
+        "id": "ec8936b6130dd8c3",
+        "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lugares/Roma.md",
+            "file": "Lugares/Ocidente/Polis Gregas/Abdera.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Locate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +76,7 @@
       {
         "id": "50dab862316bd7a8",
         "type": "tabs",
-        "dimension": 28.818443804034583,
+        "dimension": 28.81844380403458,
         "children": [
           {
             "id": "ee6bfe23909d3553",
@@ -107,8 +117,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2ea49873ca7b06d5",
@@ -121,13 +130,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lugares/Roma.md",
+                "file": "Lugares/Ocidente/Polis Gregas/Abdera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -138,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lugares/Roma.md",
+                "file": "Lugares/Ocidente/Polis Gregas/Abdera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,17 +159,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "65305d4eac28dbed",
+  "active": "ec8936b6130dd8c3",
   "lastOpenFiles": [
-    "Lugares/Roma.md",
-    "Lugares/Ocidente/Grécia Antiga.md",
-    "Lugares/Ocidente/Polis Gregas/Leontine.md",
     "Lugares/Ocidente/Polis Gregas/Abdera.md",
+    "Lugares/Ocidente/Grécia Antiga.md",
+    "Lugares/Ocidente/Polis Gregas/Agrigento.md",
+    "Lugares/Roma.md",
+    "Lugares/Ocidente/Polis Gregas/Leontine.md",
     "Conceitos/Math/Fatoração e Raizes.md",
     "Conceitos/Math/Produtos Notáveis e ×.md",
     "Conceitos/Math/Razão e Proporção.md",
     "Sec/20-XX.md",
-    "Conceitos/Math/Simplificação.md",
-    "Conceitos/Math/Matemática.md"
+    "Conceitos/Math/Simplificação.md"
   ]
 }
