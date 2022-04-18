@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:IMPORTANT",
@@ -89,12 +89,12 @@
   "showArrow": true,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.7625,
-  "lineSizeMultiplier": 4.27083333333333,
+  "lineSizeMultiplier": 2.78034188034188,
   "collapse-forces": false,
-  "centerStrength": 0.44047619047619,
+  "centerStrength": 0.327380952380952,
   "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 427,
-  "scale": 0.035909270104243246,
+  "linkDistance": 206,
+  "scale": 0.09895431239007339,
   "close": true
 }

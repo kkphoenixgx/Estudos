@@ -64,8 +64,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
       {
         "id": "d8e1b81d2fce9a02",
         "type": "tabs",
-        "dimension": 67.0028818443804,
+        "dimension": 55.763688760806915,
         "children": [
           {
             "id": "01ecff457f5aed1f",
@@ -104,7 +103,7 @@
       {
         "id": "2ea49873ca7b06d5",
         "type": "tabs",
-        "dimension": 32.997118155619596,
+        "dimension": 44.236311239193085,
         "children": [
           {
             "id": "456da733f5b8f9ff",
