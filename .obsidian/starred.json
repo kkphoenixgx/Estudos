@@ -4,6 +4,11 @@
       "type": "file",
       "title": "Grécia",
       "path": "Lugares/Ocidente/Grécia Antiga.md"
+    },
+    {
+      "type": "file",
+      "title": "Regras de Convivência",
+      "path": "Regras de Convivência.md"
     }
   ]
 }
