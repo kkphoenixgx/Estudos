@@ -11,6 +11,14 @@ A regra comutativa diz que 3.2 === 2.3, a ordem dos fatores não altera o produt
 
 ### Distributiva
 
-um objeto é algo, sendo dividido por parenteses, ou seja (3+2),
-A regra distrobutiva diz como fazemos estruturas de um objeto vezes o objeto em questão 
+um objeto é algo, sendo dividido por parenteses, ou seja (3+2), este é um objeto matemático.
+A regra distrobutiva diz como fazemos estruturas de um objeto vezes o objeto em questão. a estrutura de um objeto será os produtos de todos os itens desse objeto pelo outro objeto
 
+2.(3 +3) === 2.3 + 2.3
+3.(14 + 2) === 14.3 + 2.3 
+
+## Produtos Notáveis
+
+Entendendo então as regras da multiplicação, podemos chegar a conclusões usando algebra.
+
+* (a+b)² === (a+b) . (a+b) === a² 
