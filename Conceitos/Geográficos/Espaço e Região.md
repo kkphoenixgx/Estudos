@@ -1,7 +1,7 @@
 # Espaço e Região
 #Geografia
 
-Espaço e região são conceitos criados por [[Friedrich Ratzel]], um Geografo da [[Alemanha]], que vão definir o espancionismo Alemão
+Espaço e região são conceitos criados por [[Friedrich Ratzel]], um Geografo da Alemanha, que vão definir o espancionismo Alemão
 
 > Para entender o espaço, precisamos entender a sociedade. 
 

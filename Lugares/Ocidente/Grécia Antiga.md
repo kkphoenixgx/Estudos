@@ -1,5 +1,5 @@
 # Grécia Antiga
-#Locate locate
+#Locate 
 -8 VIII ac à -5 V ac
 
 * Temos na grécia antiga um conjunto de "cidades" chamadas de **Polis** que envolviam o mar Mediterrâneo
