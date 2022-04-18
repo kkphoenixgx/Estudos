@@ -17,7 +17,10 @@ Levando em conta os  [[Produtos Notáveis e ×#a b a-b]], podemos transforma-los
 Logo podemos então fazer o inverso do produto notáel, simplificando essa expressão, mas não é só isso
 
 se m² = m.m, Então eu posso falar que
-10.m² . 12m³ -> 2.5m² e 2.6m³
+10.m² . 12m³ -> 2.5m² e 2.6m³, e que:  
+10.m² . 12m³ = 2.(5.1.6m) -> 2 . (30m) 
+
+Então podemos fatorar um número e depois juntar as partes necessárias para chegarmos a um resultado satisfatório e mais simples
 
 ## Produto de Steving
 
