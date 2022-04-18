@@ -187,10 +187,11 @@
   "insert-template": [
     {
       "modifiers": [
+        "Alt",
         "Mod",
         "Shift"
       ],
-      "key": "Key226"
+      "key": "T"
     }
   ]
 }

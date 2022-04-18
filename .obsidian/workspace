@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "34a7a89ddb895c1d",
+        "id": "ed0e043a8e759121",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 216
   },
   "right": {
     "id": "9e25cca9212e7705",
@@ -150,17 +150,17 @@
     "direction": "horizontal",
     "width": 273
   },
-  "active": "34a7a89ddb895c1d",
+  "active": "ed0e043a8e759121",
   "lastOpenFiles": [
     "-Templetes/Concept.md",
+    "Conceitos/Math/MathText.md",
+    "Conceitos/Math/Matemática.md",
     "Sec/Divisões/Pré-história/2.Idade da pedra (Neolítico).md",
     "Sec/Divisões/Pré-história/3.Idade dos metais.md",
     "Sec/Divisões/Pré-história/1.Paleolítico.md",
     "Regras de Convivência.md",
     "Conceitos/Linguagens/Português/Portugês do Brasil.md",
     "Lugares/Oriente/Mesopotâmia/Suméria.md",
-    "Pessoas/Pré-Socrático/Mileto/Heródoto.md",
-    "Conceitos/Math/Matemática.md",
-    "Lugares/Ocidente/Polis Gregas/Sinope.md"
+    "Pessoas/Pré-Socrático/Mileto/Heródoto.md"
   ]
 }

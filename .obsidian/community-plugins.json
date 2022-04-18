@@ -1,5 +1,4 @@
 [
-  "table-editor-obsidian",
   "calendar",
   "obsidian-outliner",
   "obsidian-mind-map",
@@ -9,5 +8,5 @@
   "obsidian-collapse-all-plugin",
   "obsidian-kanban",
   "obsidian-smarter-md-hotkeys",
-  "sliding-panes-obsidian"
+  "obsidian-admonition"
 ]
