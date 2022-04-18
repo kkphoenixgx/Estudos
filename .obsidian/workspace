@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "79de49b0c7735cc3",
+        "id": "9a300fa5d144a544",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sec/Divisões/9- IX.md",
+            "file": "Sec/-1 I ac.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#pós-socrático",
+                "query": "tag:#sec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "50dab862316bd7a8",
@@ -100,7 +101,7 @@
             }
           },
           {
-            "id": "e136dbcadd44a14b",
+            "id": "79de49b0c7735cc3",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sec/Divisões/9- IX.md",
+                "file": "Sec/-1 I ac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sec/Divisões/9- IX.md",
+                "file": "Sec/-1 I ac.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,17 +152,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "79de49b0c7735cc3",
+  "active": "9a300fa5d144a544",
   "lastOpenFiles": [
-    "Sec/Divisões/9- IX.md",
-    "Sec/10-X.md",
-    "Sec/11- XI.md",
-    "Sec/12-XII.md",
-    "Sec/13-XIII.md",
-    "Sec/14-XIV.md",
-    "Sec/15-XV.md",
-    "Sec/16-XVI.md",
+    "Sec/-1 I ac.md",
     "Sec/17-XVII.md",
-    "Sec/18-XVIII.md"
+    "Sec/1 - I.md",
+    "Sec/-1.md",
+    "Sec/2- II.md",
+    "Sec/3- III.md",
+    "Sec/4- IV.md",
+    "Sec/5 - V.md",
+    "Sec/-2 II ac.md",
+    "Sec/6-VI.md"
   ]
 }
