@@ -7,8 +7,12 @@
         "id": "79de49b0c7735cc3",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Sec/Divisões/9- IX.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -37,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#pós-socrático",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sec/Divisões/9- IX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,12 +138,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sec/Divisões/9- IX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,15 +153,15 @@
   },
   "active": "79de49b0c7735cc3",
   "lastOpenFiles": [
-    "Lugares/Ocidente/Grécia Antiga.md",
-    "Pessoas/Pós-Socrasticos/Helenistas/Epicuro.md",
-    "Pessoas/Pré-Socrático/Empidocles 🔥💧🌬🗻.md",
-    "Pessoas/Pré-Socrático/Tales de Mileto 💧.md",
-    "Pessoas/Pós-Socrasticos/Helenistas/Diogenes.md",
-    "Pessoas/Pós-Socrasticos/Aristoteles.md",
-    "Pessoas/Pré-Socrático/Democlito ⚛.md",
-    "Pessoas/Pré-Socrático/Anaximenedes 🌫.md",
-    "Pessoas/Pré-Socrático/Anaximandro🌀.md",
-    "Lugares/Ocidente/Polis Gregas/Sinope.md"
+    "Sec/Divisões/9- IX.md",
+    "Sec/10-X.md",
+    "Sec/11- XI.md",
+    "Sec/12-XII.md",
+    "Sec/13-XIII.md",
+    "Sec/14-XIV.md",
+    "Sec/15-XV.md",
+    "Sec/16-XVI.md",
+    "Sec/17-XVII.md",
+    "Sec/18-XVIII.md"
   ]
 }
