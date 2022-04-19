@@ -4,17 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "66ebf6b7f63dd68f",
+        "id": "cf381edcd2e7f331",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Conceitos/Math/Simplificação.md",
-            "mode": "source",
-            "source": false
-          },
-          "pinned": true
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -123,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Math/Simplificação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Math/Simplificação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +144,7 @@
     "direction": "horizontal",
     "width": 273
   },
-  "active": "66ebf6b7f63dd68f",
+  "active": "cf381edcd2e7f331",
   "lastOpenFiles": [
     "Conceitos/Math/Simplificação.md",
     "Conceitos/Math/Fatoração e Raizes.md",
