@@ -7,8 +7,12 @@
         "id": "cf381edcd2e7f331",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Conceitos/Quimica/Quimica.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -102,6 +106,41 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "134a1119905b4014",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Conceitos/Quimica/Quimica.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1.57740794928066,
+                  "lineSizeMultiplier": 3.68030968056572,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.3628873693012128,
+                  "close": true
+                }
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -117,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Conceitos/Quimica/Quimica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Conceitos/Quimica/Quimica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,15 +187,15 @@
   },
   "active": "cf381edcd2e7f331",
   "lastOpenFiles": [
+    "Conceitos/Quimica/Quimica.md",
+    "Lugares/Ocidente/Grécia Antiga.md",
+    "Regras de Convivência.md",
     "Conceitos/Math/Simplificação.md",
     "Conceitos/Math/Fatoração e Raizes.md",
     "-Templetes/Concept.md",
     "Conceitos/Math/MathText.md",
     "Conceitos/Math/Matemática.md",
     "Sec/Divisões/Pré-história/2.Idade da pedra (Neolítico).md",
-    "Sec/Divisões/Pré-história/3.Idade dos metais.md",
-    "Sec/Divisões/Pré-história/1.Paleolítico.md",
-    "Regras de Convivência.md",
-    "Conceitos/Linguagens/Português/Portugês do Brasil.md"
+    "Sec/Divisões/Pré-história/3.Idade dos metais.md"
   ]
 }
