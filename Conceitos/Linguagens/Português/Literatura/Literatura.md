@@ -9,6 +9,9 @@ Aristoteles diz:
 
 Para ele, isso trás prazer e conhecimento.
 
+A Literatura busca proporcionar **prazer** e **catarze**, assim como os Gregos pensavam na época de Aristóteles
+
+Catarze é basicamente um é um alívio de sentimentos que foram gerados pela leitura.
 
 -----------------------------------------------
 ## Bibliografia

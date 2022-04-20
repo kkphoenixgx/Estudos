@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2b1992eb1e5db0ed",
+        "id": "88e199ad6ded9e81",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -185,9 +185,10 @@
     "direction": "horizontal",
     "width": 272.9852600097656
   },
-  "active": "2b1992eb1e5db0ed",
+  "active": "88e199ad6ded9e81",
   "lastOpenFiles": [
     "Conceitos/Linguagens/Português/Literatura/Literatura.md",
+    "Conceitos/Linguagens/Português/Semântica/Denotação e Conotação.md",
     "Conceitos/Linguagens/Português/Literatura/Mia Couto - Terra sonâmbula.md",
     "Acontecimentos/5- Contemporânea/Guerra Fria.md",
     "Conceitos/Sociologia/Sociologia.md",
@@ -195,7 +196,6 @@
     "Pessoas/Alemanha/Friedrich Ratzel.md",
     "Conceitos/Geográficos/Espaço e Região.md",
     "Sec/20-XX.md",
-    "Pessoas/Inglaterra/Newton.md",
-    "Conceitos/Fisica/Fisica.md"
+    "Pessoas/Inglaterra/Newton.md"
   ]
 }
