@@ -15,9 +15,23 @@ Kindzu é um jovem filho de um pescador que vive numa vida litorânea. Pais do K
 Pai alcolatra, morre no mar
 A mãe fica doida por problemas psicológico
 Kinzu é contra a guerra e comenta essas coisas com Surendra que era um comerciante da Asia que vendia coisas no lugar.
-No comercio desse cara ele presencia as ações de um guerreiros Naparama que lutam pela paz, pela justuiça e pela igualdade social. Logo ele quer se juntar a eles e antes de ir vai a um feiticeiro que o aleta que o fantasma do seu pai e seu pai iria seguir ele por toda sua jornada e para diminbuir essa maldição o feiticeiro disse que ele precisava colocar o nome do seu pai no barco que ele partiria e que precisaria fazer sua viagem primeiro pelo mar e depois seguir por terra e com todos os pré-requisitos, Kindru parte para se tornar um Naparama.
+No comercio desse cara ele presencia as ações de um guerreiros Naparama que lutam pela paz, pela justuiça e pela igualdade social. Logo ele quer se juntar a eles e antes de ir vai a um feiticeiro que o aleta que o fantasma do seu pai e seu pai iria seguir ele por toda sua jornada e para diminbuir essa maldição o feiticeiro disse que ele precisava colocar o nome do seu pai no barco que ele partiria e que precisaria fazer sua viagem primeiro pelo mar e depois seguir por terra e com todos os pré-requisitos, Kindzu parte para se tornar um Naparama.
 Durante a viagem, ele encontra diversos personagens que ajudam a detalhar a situação de Moçambique durante a guerra civil. Surendra inclusive se encontra com Kindru novamente em outro lugar que ele havia se mudado. E ele se encontra, com uma das principais, Farida, que se apresenta como fantasma e ela virou um fantasma depois que se separa de seu filho gaspar e assim ele parte para se tornar Nparama. É assim então que a história de Kindru se cruza com a de Muitinga e o Tuahir.  
-Tuahir encontra o Muitinga doente por comida estragada e depois que eles se cruzam e depois que ele é curado. Entre as leituras que o Muitinga fazia para o Tuahir várias coisas aconteceram com a dupla. Em certa ocasião
+Tuahir encontra o Muitinga doente por comida estragada e depois que eles se cruzam e depois que ele é curado. 
+Entre isso Tuahir se adoece e então Mutinga coloca ele num barco para ir naufragando para o mar, porém na costa que eles chegaram atravessando um pântano tinha um barco em que tinha o nome do pai de Kindzu e Tuahir se parte
+
+-----------------------------------------------------
+
+Kinzu é um retrato de toda a população de Moçambique, ninguém aguentava mais a guerra. Kinzu representa o presente de Moçambique.  
+Já Tuahir e Muitinga são o futuro e o presente de Moçambique. 
+Surendra aborda o preconceito contra os estrangeiros. Inclusive ele diz
+
+" - Não gosto de pretos, Kindzu.
+-Como? Então gosta de quem? Dos brancos?
+-Também não
+-Já sei, gosta de indianos, gosta da sua raça
+-Não. Eu gosto de homens que não tem raça. É por isso que gosto de si
+"
 
 -----------------------------------------------
 ## Bibliografia
