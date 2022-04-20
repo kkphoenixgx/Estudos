@@ -2,7 +2,7 @@
 2022-04-20
 tags: [[Quimica]]
 
-## Reações Reversíveis 
+## KC
 
 Temos que nos atentar em duas coisas aqui na figura abaixo.
 
@@ -22,9 +22,20 @@ $$ kc = \frac{[Produto]^{y}}{[Reagente]^x}$$
 
 Sendo Produto sempre o lado direito, o primeiro da equação, sobre o lado esquerto (O segundo da equação). Observação muito importante, relações solidas (s) não participam da equação.  
 
-## 
+## Kw
+
+$$ 
+kw = -log[ (H+) ou (OH-) ]
+$$
+
+* H+ = OH-  → em meio neutro.
+*  H+ > OH- → em meio ácido.
+* H+ < OH-  → em meio neutro.
+
+* É mais fácil realizar essas contas com os valores de [H] ou [-]
 
 -----------------------------------------------
 ## Bibliografia
 Aula de química do 3° ano do encino médio dia 10/03/22  
 Aula de química do 3° ano do encino médio dia 17/03/22  
+Aula de química do 3° ano do encino médio dia 24/03/22
