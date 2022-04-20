@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Quimica/Massa Molecular.md",
+            "file": "Conceitos/Quimica/Mol.md",
             "mode": "source",
             "source": false
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Quimica/Massa Molecular.md",
+                "file": "Conceitos/Quimica/Mol.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Quimica/Massa Molecular.md",
+                "file": "Conceitos/Quimica/Mol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Quimica/Massa Molecular.md",
+                "file": "Conceitos/Quimica/Mol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,8 +187,8 @@
   },
   "active": "d7ea7fcc5ab98df8",
   "lastOpenFiles": [
-    "Conceitos/Quimica/Massa Molecular.md",
     "Conceitos/Quimica/Mol.md",
+    "Conceitos/Quimica/Massa Molecular.md",
     "Conceitos/Fisica/Fisica.md",
     "Pessoas/Inglaterra/Newton.md",
     "Pessoas/Itália/Galileu.md",
