@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Linguagens/Português/Literatura/Mia Couto - Terra sonâmbula.md",
+            "file": "Conceitos/Linguagens/Português/Literatura/Literatura.md",
             "mode": "source",
             "source": false
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Linguagens/Português/Literatura/Mia Couto - Terra sonâmbula.md",
+                "file": "Conceitos/Linguagens/Português/Literatura/Literatura.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Linguagens/Português/Literatura/Mia Couto - Terra sonâmbula.md",
+                "file": "Conceitos/Linguagens/Português/Literatura/Literatura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,14 +173,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Linguagens/Português/Literatura/Mia Couto - Terra sonâmbula.md",
+                "file": "Conceitos/Linguagens/Português/Literatura/Literatura.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,8 +187,8 @@
   },
   "active": "2b1992eb1e5db0ed",
   "lastOpenFiles": [
-    "Conceitos/Linguagens/Português/Literatura/Mia Couto - Terra sonâmbula.md",
     "Conceitos/Linguagens/Português/Literatura/Literatura.md",
+    "Conceitos/Linguagens/Português/Literatura/Mia Couto - Terra sonâmbula.md",
     "Acontecimentos/5- Contemporânea/Guerra Fria.md",
     "Conceitos/Sociologia/Sociologia.md",
     "Regras de Convivência.md",

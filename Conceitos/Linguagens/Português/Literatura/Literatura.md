@@ -2,7 +2,13 @@
 2022-04-20
 tags: [[Linguagens]]
 
-A literatura é sobre ler livros.
+A literatura vem do latim litera, letra, mas literatura é muito mais que isso. Definir é ciência, porém conceituar é ligado ao que cada têm de literatura, falar que literatura é simplesmente a arte que utiliza linguagem como matéria prima é muito abrangente e superficial.
+
+Aristoteles diz: 
+> "O imitar é congenito no homem(E isso o difere de outros viventes, pois de todos, é ele o mais imitador e, por imitação, aprende as primeiras lições), e os homens se comprasem ao imitado"
+
+Para ele, isso trás prazer e conhecimento.
+
 
 -----------------------------------------------
 ## Bibliografia
