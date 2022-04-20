@@ -7,8 +7,12 @@
         "id": "54b1bafad70f88b2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Conceitos/Quimica/Equilibrio Químico.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -109,6 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Conceitos/Quimica/Equilibrio Químico.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -151,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Conceitos/Quimica/Equilibrio Químico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Conceitos/Quimica/Equilibrio Químico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,6 +187,7 @@
   },
   "active": "54b1bafad70f88b2",
   "lastOpenFiles": [
+    "Conceitos/Quimica/Equilibrio Químico.md",
     "Conceitos/Quimica/Massa Molecular.md",
     "Conceitos/Quimica/Mol.md",
     "Conceitos/Fisica/Fisica.md",
@@ -188,7 +196,6 @@
     "Conceitos/Quimica/Quimica.md",
     "Lugares/Ocidente/Grécia Antiga.md",
     "Regras de Convivência.md",
-    "Conceitos/Math/Simplificação.md",
-    "Conceitos/Math/Fatoração e Raizes.md"
+    "Conceitos/Math/Simplificação.md"
   ]
 }
