@@ -2,7 +2,7 @@
 2022-04-20
 tags: [[Quimica]]
 
-## Reações Reversíveis
+## Reações Reversíveis 
 
 Temos que nos atentar em duas coisas aqui na figura abaixo.
 
@@ -22,6 +22,7 @@ $$ kc = \frac{[Produto]^{y}}{[Reagente]^x}$$
 
 Sendo Produto sempre o lado direito, o primeiro da equação, sobre o lado esquerto (O segundo da equação). Observação muito importante, relações solidas (s) não participam da equação.  
 
+## 
 
 -----------------------------------------------
 ## Bibliografia
