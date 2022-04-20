@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "486aa3a46c69ccc3",
+        "id": "4905996840eddfbc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Sociologia/Sociologia.md",
+            "file": "Conceitos/Linguagens/Português/Literatura/Mia Couto - Terra sonâmbula.md",
             "mode": "source",
             "source": false
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Sociologia/Sociologia.md",
+                "file": "Conceitos/Linguagens/Português/Literatura/Mia Couto - Terra sonâmbula.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -143,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "2ea49873ca7b06d5",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Sociologia/Sociologia.md",
+                "file": "Conceitos/Linguagens/Português/Literatura/Mia Couto - Terra sonâmbula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Sociologia/Sociologia.md",
+                "file": "Conceitos/Linguagens/Português/Literatura/Mia Couto - Terra sonâmbula.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -186,8 +186,10 @@
     "direction": "horizontal",
     "width": 272.9852600097656
   },
-  "active": "486aa3a46c69ccc3",
+  "active": "4905996840eddfbc",
   "lastOpenFiles": [
+    "Conceitos/Linguagens/Português/Literatura/Mia Couto - Terra sonâmbula.md",
+    "Conceitos/Linguagens/Português/Literatura/Literatura.md",
     "Conceitos/Sociologia/Sociologia.md",
     "Regras de Convivência.md",
     "Pessoas/Alemanha/Friedrich Ratzel.md",
@@ -195,8 +197,6 @@
     "Sec/20-XX.md",
     "Pessoas/Inglaterra/Newton.md",
     "Conceitos/Fisica/Fisica.md",
-    "Pessoas/França/Henrri Lefreb.md",
-    "-Templetes/Concept.md",
-    "Conceitos/Quimica/Condução de corrente Elétrica.md"
+    "Pessoas/França/Henrri Lefreb.md"
   ]
 }
