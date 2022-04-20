@@ -19,7 +19,12 @@ Podemos dividir a Literatura em periodos.
 
 ## Periodos da Literatura
 
-* Eliada, primeir
+### Periodo Clássico
+* Eliada, primeira obra literária, de Homero. Que escreveu a odiceia, que ocorreu após a Guerra de Tróia
+	* Literatura Romana - Eneida, de Virgílio.
+
+### 
+Já na Idade Média
 
 -----------------------------------------------
 ## Bibliografia
