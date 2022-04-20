@@ -136,14 +136,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3628873693012128,
+                  "scale": 0.25883865621816354,
                   "close": true
                 }
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "2ea49873ca7b06d5",
