@@ -30,8 +30,12 @@ Surendra aborda o preconceito contra os estrangeiros. Inclusive ele diz
 -Como? Então gosta de quem? Dos brancos?
 -Também não
 -Já sei, gosta de indianos, gosta da sua raça
--Não. Eu gosto de homens que não tem raça. É por isso que gosto de si
-"
+-Não. Eu gosto de homens que não tem raça. É por isso que gosto de si, Kindzu"
+
+A farida também é uma ótima representação de Moçambique. Ela tinha uma irmã gêmea, porém quando alguém nasce gêmeo em Moçambique, tem-se a idealização que uma de que uma dessas pesosas será amaldiçoada, uma delas era a Farida, ela foi afastada e acolhida por um casal que o homem desse casal estupra a Farida e o filho gaspar nasce desse estupro e que logo depois é afastado da Farida. A guerra civil separa pessoas próprias.
+
+Realismo Fantastico, que nasceu no Modernismo é o tipo de literatura de Terra Sonambula.
+
 
 -----------------------------------------------
 ## Bibliografia
