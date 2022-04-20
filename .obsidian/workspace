@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d60f35beae2bff4a",
+        "id": "486aa3a46c69ccc3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Sociologia.md",
+            "file": "Conceitos/Sociologia/Sociologia.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Geografia",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "50dab862316bd7a8",
@@ -114,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Sociologia.md",
+                "file": "Conceitos/Sociologia/Sociologia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -137,8 +136,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.32133638605035963,
-                  "close": false
+                  "scale": 0.2292013594174952,
+                  "close": true
                 }
               }
             }
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Sociologia.md",
+                "file": "Conceitos/Sociologia/Sociologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,29 +173,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Sociologia.md",
-                "linksCollapsed": false,
+                "file": "Conceitos/Sociologia/Sociologia.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 272.9852600097656
   },
-  "active": "d60f35beae2bff4a",
+  "active": "486aa3a46c69ccc3",
   "lastOpenFiles": [
-    "Conceitos/Sociologia.md",
+    "Conceitos/Sociologia/Sociologia.md",
+    "Regras de Convivência.md",
+    "Pessoas/Alemanha/Friedrich Ratzel.md",
+    "Conceitos/Geográficos/Espaço e Região.md",
+    "Sec/20-XX.md",
     "Pessoas/Inglaterra/Newton.md",
     "Conceitos/Fisica/Fisica.md",
     "Pessoas/França/Henrri Lefreb.md",
     "-Templetes/Concept.md",
-    "Conceitos/Quimica/Condução de corrente Elétrica.md",
-    "Conceitos/Quimica/Equilibrio Químico.md",
-    "Conceitos/Quimica/PH.md",
-    "Conceitos/Quimica/Principio de Chatier.md",
-    "Conceitos/Quimica/Massa Molecular.md"
+    "Conceitos/Quimica/Condução de corrente Elétrica.md"
   ]
 }
