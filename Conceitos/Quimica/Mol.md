@@ -20,7 +20,11 @@ x = 6
 Quantas moleculas existem em 0,28g de N₂? ( N = 14u)
 
 28 g/mol → 6,0 . 10²³  
-0, 28g → x
+0, 28g → x  
+Obviamente aqui podemos ver que se multiplicarmos por 100 temos o resultado. Logo se diminuirmos 2 do expoente, temos o resultado. Então x = **6,0 . 10²¹**, pois eu só to multiplicando por 100.
+
+28x → 6,0. 10²³ . 0, 28  
+28x → 6,0. 10²³ . 28 .  
 
 -----------------------------------------------
 ## Bibliografia
