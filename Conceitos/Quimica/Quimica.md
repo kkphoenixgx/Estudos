@@ -6,3 +6,4 @@ A química como área do conhecimento foi surgir no século [[18-XVIII]], embora
 
 -----------------------------------------------
 ## Bibliografia
+https://plataforma.seliga.com.br/aula/abaf2b70-fcff-11ea-bfb3-addc889311d8
