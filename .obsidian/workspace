@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "54b1bafad70f88b2",
+        "id": "416d0a3516edf7fd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Quimica/Equilibrio Químico.md",
+            "file": "Conceitos/Quimica/Principio de Chatier.md",
             "mode": "source",
             "source": false
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Quimica/Equilibrio Químico.md",
+                "file": "Conceitos/Quimica/Principio de Chatier.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Quimica/Equilibrio Químico.md",
+                "file": "Conceitos/Quimica/Principio de Chatier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Quimica/Equilibrio Químico.md",
+                "file": "Conceitos/Quimica/Principio de Chatier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,8 +185,9 @@
     "direction": "horizontal",
     "width": 273
   },
-  "active": "54b1bafad70f88b2",
+  "active": "416d0a3516edf7fd",
   "lastOpenFiles": [
+    "Conceitos/Quimica/Principio de Chatier.md",
     "Conceitos/Quimica/Equilibrio Químico.md",
     "Conceitos/Quimica/Massa Molecular.md",
     "Conceitos/Quimica/Mol.md",
@@ -195,7 +196,6 @@
     "Pessoas/Itália/Galileu.md",
     "Conceitos/Quimica/Quimica.md",
     "Lugares/Ocidente/Grécia Antiga.md",
-    "Regras de Convivência.md",
-    "Conceitos/Math/Simplificação.md"
+    "Regras de Convivência.md"
   ]
 }
