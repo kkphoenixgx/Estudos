@@ -13,5 +13,16 @@ A Literatura busca proporcionar **prazer** e **catarze**, assim como os Gregos p
 
 Catarze é basicamente um é um alívio de sentimentos que foram gerados pela leitura.
 
+* Eu lírico é quem fala na poezia.
+
+Podemos dividir a Literatura em periodos.
+
+## Periodos da Literatura
+
+* Eliada, primeir
+
 -----------------------------------------------
 ## Bibliografia
+
+Aula do se liga:
+https://plataforma.seliga.com.br/aula/6386c3a0-06e0-11ea-b612-05fa80ce8144;missao_id=c1447e50-4178-11ec-a5e5-29901cea0cc6;plano_id=83044210-4177-11ec-8f00-a746b13d8695
