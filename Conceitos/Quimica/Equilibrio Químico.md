@@ -28,11 +28,12 @@ $$
 kw = -log[ (H+) ou (OH-) ]
 $$
 
+Quando possuímos OH- é Base e H+ é Acido de acordo com a escala de [[PH]] 
 * H+ = OH-  → em meio neutro.
 *  H+ > OH- → em meio ácido.
 * H+ < OH-  → em meio neutro.
 
-* É mais fácil realizar essas contas com os valores de [H] ou [-]
+* É mais fácil realizar essas contas com os valores de [H+] ou [OH-] em [[Notação Ciêntifica]]
 
 -----------------------------------------------
 ## Bibliografia

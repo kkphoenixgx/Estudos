@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Quimica/Equilibrio Químico.md",
+            "file": "Conceitos/Quimica/Condução de corrente Elétrica.md",
             "mode": "source",
             "source": false
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Quimica/Equilibrio Químico.md",
+                "file": "Conceitos/Quimica/Condução de corrente Elétrica.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +136,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.18462326225858183,
+                  "scale": 0.3628873693012131,
                   "close": true
                 }
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Quimica/Equilibrio Químico.md",
+                "file": "Conceitos/Quimica/Condução de corrente Elétrica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Quimica/Equilibrio Químico.md",
+                "file": "Conceitos/Quimica/Condução de corrente Elétrica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,15 +187,15 @@
   },
   "active": "011b4bc1c46cbfcc",
   "lastOpenFiles": [
+    "Conceitos/Quimica/Condução de corrente Elétrica.md",
     "Conceitos/Quimica/Equilibrio Químico.md",
+    "Conceitos/Quimica/PH.md",
     "Conceitos/Quimica/Principio de Chatier.md",
     "Conceitos/Quimica/Massa Molecular.md",
     "Conceitos/Quimica/Mol.md",
     "Conceitos/Fisica/Fisica.md",
     "Pessoas/Inglaterra/Newton.md",
     "Pessoas/Itália/Galileu.md",
-    "Conceitos/Quimica/Quimica.md",
-    "Lugares/Ocidente/Grécia Antiga.md",
-    "Regras de Convivência.md"
+    "Conceitos/Quimica/Quimica.md"
   ]
 }
