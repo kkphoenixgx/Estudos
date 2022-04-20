@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "409da0f7838b0264",
+        "id": "d60f35beae2bff4a",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Geografia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "50dab862316bd7a8",
@@ -115,18 +116,18 @@
               "state": {
                 "file": "Conceitos/Sociologia.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": true,
                   "textFadeMultiplier": -3,
                   "nodeSizeMultiplier": 1.57740794928066,
@@ -136,14 +137,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3628873693012131,
-                  "close": true
+                  "scale": 0.32133638605035963,
+                  "close": false
                 }
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "2ea49873ca7b06d5",
@@ -163,7 +164,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -183,19 +184,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273
+    "width": 272.9852600097656
   },
-  "active": "409da0f7838b0264",
+  "active": "d60f35beae2bff4a",
   "lastOpenFiles": [
     "Conceitos/Sociologia.md",
+    "Pessoas/Inglaterra/Newton.md",
+    "Conceitos/Fisica/Fisica.md",
+    "Pessoas/França/Henrri Lefreb.md",
     "-Templetes/Concept.md",
     "Conceitos/Quimica/Condução de corrente Elétrica.md",
     "Conceitos/Quimica/Equilibrio Químico.md",
     "Conceitos/Quimica/PH.md",
     "Conceitos/Quimica/Principio de Chatier.md",
-    "Conceitos/Quimica/Massa Molecular.md",
-    "Conceitos/Quimica/Mol.md",
-    "Conceitos/Fisica/Fisica.md",
-    "Pessoas/Inglaterra/Newton.md"
+    "Conceitos/Quimica/Massa Molecular.md"
   ]
 }
