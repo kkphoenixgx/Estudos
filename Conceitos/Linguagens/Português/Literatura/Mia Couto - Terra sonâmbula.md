@@ -1,6 +1,6 @@
 # Mia Couto - Terra sonâmbula
 2022-04-20
-tags: 
+tags: [[Literatura]]
 
 > "Naquele lugar a guerra tinha morto a estrada"
 
@@ -8,7 +8,7 @@ tags:
 
 > "Coma devagar para sentir o sabor de todas as cores"
 
-
+ 
 
 -----------------------------------------------
 ## Bibliografia
