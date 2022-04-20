@@ -8,7 +8,7 @@ tags: [[Literatura]]
 
 > "Coma devagar para sentir o sabor de todas as cores"
 
- 
+ As tramas de Terra sonâmbula ocorrem na estrada, onde estão correndo da guerra. Então eles decidem morar no Ônibus que estava queimado, quando o Muitinga e o Tuahir e eles então acha os diários de Kindzu, que é uma pessoa carborizada, esses 
 
 -----------------------------------------------
 ## Bibliografia
