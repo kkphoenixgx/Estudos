@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "416d0a3516edf7fd",
+        "id": "011b4bc1c46cbfcc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Conceitos/Quimica/Principio de Chatier.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -113,7 +109,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Quimica/Principio de Chatier.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Quimica/Principio de Chatier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +167,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Quimica/Principio de Chatier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +178,7 @@
     "direction": "horizontal",
     "width": 273
   },
-  "active": "416d0a3516edf7fd",
+  "active": "011b4bc1c46cbfcc",
   "lastOpenFiles": [
     "Conceitos/Quimica/Principio de Chatier.md",
     "Conceitos/Quimica/Equilibrio Químico.md",

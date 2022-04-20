@@ -21,7 +21,19 @@ O aumento de pressão desloca o equilíbrio da reação para o sentido onde ocor
 
 ## Concentração
 
+A adição de reagente desloca o equolíbrio para o lado do produto. Enquanto a diminuição de produto ou a adição de reagente desloca o equilíbrio para o lado do reagnete.
 
+>  -Reagente = produto
+>  + reagente ou -produto = reagente
+
+--------------------------------------------
+
+> temp +  = endotérmico
+> temp - = exodérmico
+> pressão + = menor volume
+>  pressão - menor volume
+> reagente - = reagente
+> reagente -  ou  produto -  = produto
 
 -----------------------------------------------
 ## Bibliografia
