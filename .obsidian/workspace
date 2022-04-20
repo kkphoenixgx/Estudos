@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Quimica/Mol.md",
+            "file": "Conceitos/Quimica/Massa Molecular.md",
             "mode": "source",
             "source": false
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Quimica/Mol.md",
+                "file": "Conceitos/Quimica/Massa Molecular.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,14 +136,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.25883865621816354,
+                  "scale": 0.18462326225858183,
                   "close": true
                 }
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "2ea49873ca7b06d5",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Quimica/Mol.md",
+                "file": "Conceitos/Quimica/Massa Molecular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Quimica/Mol.md",
+                "file": "Conceitos/Quimica/Massa Molecular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,6 +187,7 @@
   },
   "active": "d7ea7fcc5ab98df8",
   "lastOpenFiles": [
+    "Conceitos/Quimica/Massa Molecular.md",
     "Conceitos/Quimica/Mol.md",
     "Conceitos/Fisica/Fisica.md",
     "Pessoas/Inglaterra/Newton.md",
@@ -195,7 +196,6 @@
     "Lugares/Ocidente/Grécia Antiga.md",
     "Regras de Convivência.md",
     "Conceitos/Math/Simplificação.md",
-    "Conceitos/Math/Fatoração e Raizes.md",
-    "-Templetes/Concept.md"
+    "Conceitos/Math/Fatoração e Raizes.md"
   ]
 }
