@@ -38,10 +38,14 @@ Dessa função, podemos inclusive falar que se a velocidade for positiva ela vai
 
 Quando pergutamos o tamanho de algo, devemos tratar o caminhão como um **corpo extenso** e quando isso acontece, ou ele pergunta o comprimento ou ele dá o comprimento. Pois quando o objeto é muito pequeno comparado a distância, o valor não é significativo para ocorrer a diferença de tempo entre ele chegar com a parte da frente do veículo e o final do veículo, já como as dimensões do veículo em jogo, devemos trata-lo de forma correta. 
 
+Então quando temos um corpo extenso, S pode ser aberto em (S + Sc), sendo S a distância percorrida e Sc sendo o tamanho de um objeto, veja o [[#Exercício 2]] para ter uma boa ideia do que estou falando, mas a distância total vai ser a distância do trajeto mais o tamanho do Veículo, pois mesmo depois que a parte da frente do veículo passe por essa linha de chegada, ainda tem todo o resto do seu corpo.
+
 
 Precisamos entender que o espaço atual é S, que S₀ é o inicial, velocidade é v e t é tempo. 
 
 ### Exercícios para compreensão
+
+#### Exercício 1
 
 Um automóvel percorre uma estrada em movimento uniforme, com função horária das posições dada por: S = -12 + 4t (SI). Determine, para o móvel:
 
@@ -86,6 +90,12 @@ S = -12 +4t
 28 = 4t
 t = 28/4
 t= 7s
+
+#### Exercício 2
+
+![[Pasted image 20220421151830.png]]
+
+
 
 ## Bibliografia
 
