@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Linguagens/Português/Literatura/Literatura.md",
+            "file": "Conceitos/Math/Razão e Proporção.md",
             "mode": "source",
             "source": false
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Linguagens/Português/Literatura/Literatura.md",
+                "file": "Conceitos/Math/Razão e Proporção.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Linguagens/Português/Literatura/Literatura.md",
+                "file": "Conceitos/Math/Razão e Proporção.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Linguagens/Português/Literatura/Literatura.md",
+                "file": "Conceitos/Math/Razão e Proporção.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -187,6 +187,7 @@
   },
   "active": "88e199ad6ded9e81",
   "lastOpenFiles": [
+    "Conceitos/Math/Razão e Proporção.md",
     "Conceitos/Linguagens/Português/Literatura/Literatura.md",
     "Conceitos/Linguagens/Português/Semântica/Denotação e Conotação.md",
     "Conceitos/Linguagens/Português/Literatura/Mia Couto - Terra sonâmbula.md",
@@ -195,7 +196,6 @@
     "Regras de Convivência.md",
     "Pessoas/Alemanha/Friedrich Ratzel.md",
     "Conceitos/Geográficos/Espaço e Região.md",
-    "Sec/20-XX.md",
-    "Pessoas/Inglaterra/Newton.md"
+    "Sec/20-XX.md"
   ]
 }
