@@ -14,7 +14,7 @@ Uma redação deve conter partes principais que devem ser elaboradas
 2. Desenvolvimento
 	*  Começar com conectivo referindo-se a Introdução
 	* Argumentar
-		* Usar os [[Verbos Essenciais]]
+		* Usar os Verbos Essenciais
 3. Conclusão
 
 - Conclusão no caso do enem = Proposta de intervenção (PI)
