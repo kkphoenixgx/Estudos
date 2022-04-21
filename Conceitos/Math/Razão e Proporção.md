@@ -64,7 +64,8 @@ $$\frac{massa}{tamanho²}= IMC → \frac{81kg}{(1,5m)²} → \frac{81}{2,25} = 3
 
 Você soma tudo e divide pelo número de participantes da somatória, mesmo que tenha somado 0
 
-
+$$\frac{QuantidadeSomada}{Participantes}= média$$
+Numa sala com 5 alunos, o primeiro dá 4 reais, o segundo não dá nada, o terceiro da 2, o quarto da 2 e o último da 8, quanto é a média? 4+0+2+2+8=16 → 16/5 = 3,2 
 
 ### Outras razões
 
