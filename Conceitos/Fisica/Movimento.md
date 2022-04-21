@@ -36,7 +36,8 @@ $$S- S₀ = V.t → S= S₀ + vt$$
 
 Dessa função, podemos inclusive falar que se a velocidade for positiva ela vai ser para a direita de um eixo x, chamada de **Progressivo**, e for negativa, vai ser para o lado esquerdo, chamada de   **Retrógrado**
 
-Quando pergutamos o tamanho de algo, devemos tratar o caminhão como um **corpo extenso** e quando isso acontece, ou ele pergunta o comprimento ou ele dá o comprimento. Pois quando o objeto é muito pequeno comparado a distância
+Quando pergutamos o tamanho de algo, devemos tratar o caminhão como um **corpo extenso** e quando isso acontece, ou ele pergunta o comprimento ou ele dá o comprimento. Pois quando o objeto é muito pequeno comparado a distância o valor não é significativo para ocorrer a diferença de tempo entre ele chegar com a parte da frente do veículo e o final
+
 
 Precisamos entender que o espaço atual é S, que S₀ é o inicial, velocidade é v e t é tempo. 
 
