@@ -36,7 +36,9 @@ $$S- S₀ = V.t → S= S₀ + vt$$
 
 Dessa função, podemos inclusive falar que se a velocidade for positiva ela vai ser para a direita de um eixo x, chamada de **Progressivo**, e for negativa, vai ser para o lado esquerdo, chamada de   **Retrógrado**
 
-Quando pergutamos o tamanho de algo, devemos tratar o caminhão como um **corpo extenso** e quando isso acontece, ou ele pergunta o comprimento ou ele dá o comprimento
+Quando pergutamos o tamanho de algo, devemos tratar o caminhão como um **corpo extenso** e quando isso acontece, ou ele pergunta o comprimento ou ele dá o comprimento. Pois quando o objeto é muito pequeno comparado a distância
+
+Precisamos entender que o espaço atual é S, que S₀ é o inicial, velocidade é v e t é tempo. 
 
 ### Exercícios para compreensão
 
@@ -46,17 +48,43 @@ a) A posição inicial.
 **S = S₀ + vt**
 S = -12 +4t
 
+S₀ = -12
 
 b) a velocidade escalar. 
+**S = S₀ + vt**
+S = -12 +4t
+
+v = 4m/s
 
 c) se o movimento é progressivo ou retrógrado. 
 
+Velocidade é maior que 0, logo é progressivo
+
 d) a posição para t = 5 s. 
+
+**S = S₀ + vt**
+S = -12 +4. 5
+S = -12 +20
+S = 8m
 
 e) O instante em que passa pela origem das posições. 
 
+**S = S₀ + vt**
+S = -12 +4t
+0 = -12 +4t
++12 = 4t
+t = 12/4
+t = 3s
+
 f) o instante em que passa pela posição 16 m.
 
+**S = S₀ + vt**
+S = -12 +4t
+16 = -12 + 4t
+16 + 12 = 4t
+28 = 4t
+t = 28/4
+t= 7s
 
 ## Bibliografia
 
