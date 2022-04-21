@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8d08746d6df8aa54",
+        "id": "714fc959391a1c54",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Fisica/Movimento.md",
+            "file": "Conceitos/Linguagens/Português/Portugês do Brasil.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Portugês",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Fisica/Movimento.md",
+                "file": "Conceitos/Linguagens/Português/Portugês do Brasil.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Fisica/Movimento.md",
+                "file": "Conceitos/Linguagens/Português/Portugês do Brasil.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Fisica/Movimento.md",
+                "file": "Conceitos/Linguagens/Português/Portugês do Brasil.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -185,17 +185,17 @@
     "direction": "horizontal",
     "width": 272.9852600097656
   },
-  "active": "8d08746d6df8aa54",
+  "active": "714fc959391a1c54",
   "lastOpenFiles": [
+    "Conceitos/Linguagens/Português/Portugês do Brasil.md",
+    "Conceitos/Linguagens/Português/Semântica/Semântica.md",
+    "Conceitos/Linguagens/Português/Morfologia/Morfologia.md",
+    "Conceitos/Linguagens/Português/Fonologia/Fonologia.md",
+    "Conceitos/Linguagens/Português/Estilistica/Estilistica.md",
     "Conceitos/Fisica/Movimento.md",
     "Conceitos/Math/Razão e Proporção.md",
     "Pessoas/Itália/Galileu.md",
     "Conceitos/Math/Simplificação.md",
-    "Conceitos/Math/Fatoração e Raizes.md",
-    "Conceitos/Linguagens/Português/Literatura/Literatura.md",
-    "Conceitos/Linguagens/Português/Semântica/Denotação e Conotação.md",
-    "Conceitos/Linguagens/Português/Literatura/Mia Couto - Terra sonâmbula.md",
-    "Acontecimentos/5- Contemporânea/Guerra Fria.md",
-    "Conceitos/Sociologia/Sociologia.md"
+    "Conceitos/Math/Fatoração e Raizes.md"
   ]
 }
