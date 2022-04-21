@@ -9,9 +9,13 @@ Simplificando expressões, podemos fazer o mesmo que foi descrito em [[Fatoraç�
 
 Quando simplificamos frações, estamos simplesmente dividindo-as por um número, dividindo as duas partes para que fique masi fácil de entender, podemos tanto dividir as frções quanto multiplica-las.
 
-$$\frac{12}{6}:2 → \frac{6}{2}$$
+$$\frac{12}{6}:2 → \frac{6}{3} = 2$$
 
 $$\frac{12}{6}.10 → \frac{120}{60} = 2$$
+
+Dessa forma, com a multiplicação na simplificação podemos resolver +80% dos nossos problemas com vírgulas.
+
+$$\frac{20}{0.10}.100 → \frac{2000}{10} → \frac{200}{1}= 200$$
 
 ## Fatoração de expressões algebricas
 

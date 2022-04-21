@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "88e199ad6ded9e81",
+        "id": "caa9822e1050be26",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Math/Simplificação.md",
+            "file": "Conceitos/Math/Razão e Proporção.md",
             "mode": "source",
             "source": false
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Math/Simplificação.md",
+                "file": "Conceitos/Math/Razão e Proporção.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Math/Simplificação.md",
+                "file": "Conceitos/Math/Razão e Proporção.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Math/Simplificação.md",
+                "file": "Conceitos/Math/Razão e Proporção.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -185,10 +185,10 @@
     "direction": "horizontal",
     "width": 272.9852600097656
   },
-  "active": "88e199ad6ded9e81",
+  "active": "caa9822e1050be26",
   "lastOpenFiles": [
-    "Conceitos/Math/Simplificação.md",
     "Conceitos/Math/Razão e Proporção.md",
+    "Conceitos/Math/Simplificação.md",
     "Conceitos/Math/Fatoração e Raizes.md",
     "Conceitos/Linguagens/Português/Literatura/Literatura.md",
     "Conceitos/Linguagens/Português/Semântica/Denotação e Conotação.md",

@@ -1,6 +1,6 @@
 # Razão e Proporção
 2022-04-20
-tags: #math 
+tags:
 
 Razão  é uma comparação entre grandezas. Exemplo, se tem 12 pessoas trabalhando em um lugar e 8 são homens, posso dizer então que 12/8, uma razão, uma divisão entre grandezas, podemos então pegar esse valor e dizer que a razão entre as pessoas totais e os homens é 1,5, mas para entendermos melhor, se forem 6 mulheres por 12 pessoas seria 2, ou seja, a razão seria o dobro. Exemplo, se a razão de homens é 2 e tem 6 homens, podemos dizer que tem 3 mulheres, pois 6/3 = 2.
 
@@ -12,7 +12,7 @@ $$a/b$$
 
 ## Razão de Grandezas iguais
 
-Importante entender que razões da mesma grandeza não retornam valor com grandeza.
+Importante entender que razões da mesma grandeza não retornam valor com grandeza. Vamos [[Simplificação#Simplificando frações]] 
 
 $$\frac{12m}{15m}:3 → \frac{4}{5}$$
 
