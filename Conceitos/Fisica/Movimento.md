@@ -47,9 +47,21 @@ Precisamos entender que o espaço atual é S, que S₀ é o inicial, velocidade 
 
 Para descobrirmos quando dois objetos irão se encontrar, precisamos de dois objetos com cada um uma função horária, e os dois estando num memso eixo x. Somente então podemos definir um ponto y nesse plano e calcular quando os dois erão estar nesse y, para isso podemos descobrir o tempo e definindo o espaço como y descobrir o espaço.
 
-Temos um carro que começa no ponto -2 e anda numa velocidade de 4m/s, sua função horária ficaria → S = 0 + 4t. Já o outro se move do ponto 8 numa velocidade de -1m/s, sua função horária ficaria S = -2 -t
+Temos um carro que começa no ponto -2 e anda numa velocidade de 4m/s, sua função horária ficaria → S = -2 + 4t. Já o outro se move do ponto 8 numa velocidade de -1m/s, sua função horária ficaria S = 8 -t
 
-Percebemos então o lado que cada objeto está indo e como se monta essas equações.
+Percebemos então o lado que cada objeto está indo e como se monta essas equações. E vamos descobrir então quando irão colidir igualando, substituindo o **S**pace pelo objeto
+
+-2 +4t = 8-t
+4t + t = 8+2
+5t = 10
+t= 2
+
+Então se t=2, bora descobrir agora o space de cada um em 2s, já que os dois vão estar no mesmo lugar, bora fazer só de 1
+
+S = 8 - t
+S = 8-2
+S = 6
+
 
 ### Exercícios para compreensão
 
