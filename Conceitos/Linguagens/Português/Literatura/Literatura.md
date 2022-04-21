@@ -21,10 +21,24 @@ Podemos dividir a Literatura em periodos.
 
 ### Periodo Clássico
 * Eliada, primeira obra literária, de Homero. Que escreveu a odiceia, que ocorreu após a Guerra de Tróia
-	* Literatura Romana - Eneida, de Virgílio.
+* Literatura Romana - Eneida, de Virgílio.
 
-### 
-Já na Idade Média
+Terminou com o fim da Roma
+
+### Renascimento
+Já na Idade Média o que foi marcado foi o periodo renascentista, o Renascimento, trovadorismo e humanismo
+
+### Classissismo (ou Quinhentismo no Brasil)
+Retomada do estilo do Periodo Clássico
+
+### Barroco
+### Neo-Clássissismo ou Arcadismo
+### Romantismo
+### Realismo, Naturalismo e Parnasianismo
+### Simbolismo
+### Pré-Modernismo
+### Modernismo
+No Brasil, Começou com a Semana da arte moderna de 22
 
 -----------------------------------------------
 ## Bibliografia
