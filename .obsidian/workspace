@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Math/Razão e Proporção.md",
+            "file": "Conceitos/Math/Simplificação.md",
             "mode": "source",
             "source": false
           }
@@ -113,11 +113,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Math/Razão e Proporção.md",
+                "file": "Conceitos/Math/Simplificação.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 3,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -136,7 +136,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2292013594174952,
+                  "scale": 0.32133638605036224,
                   "close": true
                 }
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Math/Razão e Proporção.md",
+                "file": "Conceitos/Math/Simplificação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Math/Razão e Proporção.md",
+                "file": "Conceitos/Math/Simplificação.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -187,15 +187,15 @@
   },
   "active": "88e199ad6ded9e81",
   "lastOpenFiles": [
+    "Conceitos/Math/Simplificação.md",
     "Conceitos/Math/Razão e Proporção.md",
+    "Conceitos/Math/Fatoração e Raizes.md",
     "Conceitos/Linguagens/Português/Literatura/Literatura.md",
     "Conceitos/Linguagens/Português/Semântica/Denotação e Conotação.md",
     "Conceitos/Linguagens/Português/Literatura/Mia Couto - Terra sonâmbula.md",
     "Acontecimentos/5- Contemporânea/Guerra Fria.md",
     "Conceitos/Sociologia/Sociologia.md",
     "Regras de Convivência.md",
-    "Pessoas/Alemanha/Friedrich Ratzel.md",
-    "Conceitos/Geográficos/Espaço e Região.md",
-    "Sec/20-XX.md"
+    "Pessoas/Alemanha/Friedrich Ratzel.md"
   ]
 }

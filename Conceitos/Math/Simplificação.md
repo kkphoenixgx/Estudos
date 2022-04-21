@@ -1,9 +1,17 @@
 # # Simplificação, ou fatoração algebrica
 
 2022-04-18
-tags: 
+tags: #math 
 
 Simplificando expressões, podemos fazer o mesmo que foi descrito em [[Fatoração e Raizes#Fatorando raizes]], na parte de fatoração do a da raiz. Isso é a fatoração de um número e ajuda-nos a transformar os números para os mesmos com expoentes maiores que um, se isso for útil no seu jogo, pode usar essa feature. Então tirando a fatoração, temos mais dois tópicos da fatoração que são bem interessantes de entender
+
+## Simplificando frações
+
+Quando simplificamos frações, estamos simplesmente dividindo-as por um número, dividindo as duas partes para que fique masi fácil de entender, podemos tanto dividir as frções quanto multiplica-las.
+
+$$\frac{12}{6}:2 → \frac{6}{2}$$
+
+$$\frac{12}{6}.10 → \frac{120}{60} = 2$$
 
 ## Fatoração de expressões algebricas
 

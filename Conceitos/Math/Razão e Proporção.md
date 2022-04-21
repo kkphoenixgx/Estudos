@@ -70,6 +70,8 @@ $$\frac{massa}{tamanho²}= IMC → \frac{81kg}{(1,5m)²} → \frac{81}{2,25} = 3
 
 ## Notas importântes
 
+### Regra da Fração inversa
+
 Em caso de frações por frações sempre multiplicamos o valor de cima pelo inverso da de baixo:
 
 $$\frac{12}{\frac{14}{3}} → 12. \frac{3}{12} → \frac{36}{144} :3 → \frac{12}{38}:2 → \frac{6}{19}$$
