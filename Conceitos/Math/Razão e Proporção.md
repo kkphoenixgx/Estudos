@@ -53,14 +53,25 @@ $$ \frac{Área}{pessoas} $$
 
 $$\frac{Renda Familiar}{Pessoas}$$
 
-Indicie de massa corporal
+### Indicie de massa corporal
+
+O indicie de massa corporal é a razão entre a massa por tamanho
+
+$$\frac{massa}{tamanho²}= IMC → \frac{81kg}{(1,5m)²} → \frac{81}{2,25} = 36kg/m² $$
+![[Pasted image 20220420225913.png]]
+ 
+### Outras razões
 
 + Porcentagem
 * Densidade, em engenharia
 * Porcentagem
 
-
 -----------------------------------------------
+
+## Notas importântes
+
+Em caso de frações por frações sempre multiplicamos o valor de cima pelo inverso da de 
+
 ## Bibliografia
 
 Aula do Se liga
