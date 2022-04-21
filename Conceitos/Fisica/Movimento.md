@@ -45,9 +45,11 @@ Precisamos entender que o espaço atual é S, que S₀ é o inicial, velocidade 
 
 ### Encontro de dois objetos
 
-Podemos dizer então que quando um objeto, descrito por uma função horária passa por um ponto x num eixo x e que temos um mesmo objeto, que precisa ter uma função horária também para ele e precisa estar no mesmo eixo x, podemos dizer quando eles irão se encontrar, novamente levano em conta somente o eixo x simplesmente igualando os dois.
+Para descobrirmos quando dois objetos irão se encontrar, precisamos de dois objetos com cada um uma função horária, e os dois estando num memso eixo x. Somente então podemos definir um ponto y nesse plano e calcular quando os dois erão estar nesse y, para isso podemos descobrir o tempo e definindo o espaço como y descobrir o espaço.
 
-Temos um carro que começa no ponto 0 e anda numa velocidade de 4m/s, sua função horária ficaria → S = 0 + 4t. Já o outro se move do ponto -2 numa velocidade de 8m/s, sua função horária ficaria S = -2 + 8t
+Temos um carro que começa no ponto -2 e anda numa velocidade de 4m/s, sua função horária ficaria → S = 0 + 4t. Já o outro se move do ponto 8 numa velocidade de -1m/s, sua função horária ficaria S = -2 -t
+
+Percebemos então o lado que cada objeto está indo e como se monta essas equações.
 
 ### Exercícios para compreensão
 
