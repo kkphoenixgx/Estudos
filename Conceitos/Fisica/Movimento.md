@@ -128,3 +128,7 @@ Sc = 20
 ## Bibliografia
 
 https://plataforma.seliga.com.br/aula/8b8a8030-d28a-11ea-b47e-57cbfe09057a;missao_id=ee721cc0-4178-11ec-9952-afdc330a50af;plano_id=83044210-4177-11ec-8f00-a746b13d8695
+
+Faz ai algum dia quando você for pika
+
+https://plataforma.seliga.com.br/aula/8b8a8030-d28a-11ea-b47e-57cbfe09057a;missao_id=ee721cc0-4178-11ec-9952-afdc330a50af;plano_id=83044210-4177-11ec-8f00-a746b13d8695
