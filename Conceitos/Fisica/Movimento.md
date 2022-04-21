@@ -34,6 +34,8 @@ $$S- S₀ = V.t → S= S₀ + vt$$
 
 Dessa função, podemos inclusive falar que se a velocidade por positiva a velocidade vai ser para a direita de um eixo x, chamada de **Progressivo**, e for negativa, vai ser para o lado esquerdo, chamada de   **Retrógrado**
 
+* Origem dos espaços = S₀
+
 ## Bibliografia
 
 https://plataforma.seliga.com.br/aula/8b8a8030-d28a-11ea-b47e-57cbfe09057a;missao_id=ee721cc0-4178-11ec-9952-afdc330a50af;plano_id=83044210-4177-11ec-8f00-a746b13d8695
