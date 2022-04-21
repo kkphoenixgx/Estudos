@@ -28,7 +28,11 @@ $$V = \frac{S-S₀}{t}$$
 
 Temos essa infomração após isso já que t₀ sempre vai ser 0, então brincando com essa equação, podemos dizer então que:
 
-$$S- S₀ = V.t → **S=* S₀ + vt**$$
+$$S- S₀ = V.t → S= S₀ + vt$$
+
+* **S = S₀ + vt** = essa equação é a **função horária** da posição para o M.U, ou o Sorvete 
+
+Dessa função, podemos inclusive falar que se a velocidade por positiva a velocidade vai ser para a direita de um eixo x, chamada de **Progressivo**, e for negativa, vai ser para o lado esquerdo, chamada de   **Retrógrado**
 
 ## Bibliografia
 
