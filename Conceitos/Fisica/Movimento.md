@@ -62,6 +62,8 @@ S = 8 - t
 S = 8-2
 S = 6
 
+NUNCA CRIE VOCÊ O EIXO ASSUMA SOMENTE O QUE ESTÁ NA QUESTÃO.
+
 
 ### Exercícios para compreensão
 
