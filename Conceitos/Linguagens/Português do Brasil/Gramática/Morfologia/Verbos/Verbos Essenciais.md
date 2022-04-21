@@ -1,7 +1,7 @@
 # Verbos Essenciais
-#verbos 
+[[Verbos]]
 
-Os verbos essenciais são um conjunto de verbos categorizados assim pela [[Morfologia]]
+Os verbos essenciais são um conjunto de verbos categorizados assim pela Morfologia
 
 eles criam um teor de análise, indicam aprofundamento
 

@@ -1,6 +1,6 @@
 # Mia Couto - Terra sonâmbula
 2022-04-20
-tags: [[Literatura]]
+tags: [[Literatura Brasileira]]
 
 > "Naquele lugar a guerra tinha morto a estrada"
 

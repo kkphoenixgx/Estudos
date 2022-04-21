@@ -1,5 +1,5 @@
 # Português do Brasil
-#Linguagem #Portugês 
+#Linguagem 
 
 O [[Português]] do Brasil é uma lingua que descende do 
 
