@@ -29,9 +29,18 @@ $$ \frac{1000 rotações}{15 min} :5 → \frac{200}{1}→ 200 rotações/min $$
 
 ## Razões mais famosas
 
-A distância de algo por o tempo de algo para realizar essa distância é chamada de velocidade média
+### Velocidade média
 
-$$ ▲ $$
+A distância de algo por o tempo de algo para realizar essa distância é chamada de velocidade média, criada por Newton essa equação da física é simplesmente linda.
+
+$$ \frac{▲S}{▲t} = ▲v → \frac{10km}{5h}= 2km/h $$
+
+### Escala de tamanho
+
+Precisamos reduzir o tamanho de um mapa, porém precisamos ainda respeitar os delimitadores de cada estado, se não seria um completo caos, logo usamos na Geografia a escala sempre em cm. Podemos identificar essa escala no primeiro traço do mapa, demtro de uma linha numérica de 0 a algum número, essa primeira linha identifica quanto é 1: (se lê "para") 1cm, se for 400km por exemplo:
+
+$$ 1 → 400km = \frac{1cm}{400km} → 1cm/4000.0000cm  $$
+
 
 -----------------------------------------------
 ## Bibliografia
