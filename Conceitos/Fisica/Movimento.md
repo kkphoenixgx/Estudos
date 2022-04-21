@@ -20,9 +20,15 @@ Velocidade constante é quando temos que a média da velocidade é sempre a mesm
 
 Nesse fcaso a V média é igual a V instântanea
 
-Se a velocidade é constante, devemos dizer que ele é uniforme
+Se a velocidade é constante, devemos dizer que ele é uniforme. No exemplo abaixo eu só abri as formulas, de uma maneira bem simples, só coloquei o que é o ▲S no lugar do mesmo.
 
-$$Vm = \frac{▲S}{▲t} → $$
+$$V = \frac{▲S}{▲t} → \frac{S-S₀}{t-t₀}$$
+
+$$V = \frac{S-S₀}{t}$$
+
+Temos essa infomração após isso já que t₀ sempre vai ser 0, então brincando com essa equação, podemos dizer então que:
+
+$$S- S₀ = V.t → **S=* S₀ + vt**$$
 
 ## Bibliografia
 
