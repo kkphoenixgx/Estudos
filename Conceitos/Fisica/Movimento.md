@@ -43,6 +43,12 @@ Então quando temos um corpo extenso, S pode ser aberto em (S + Sc), sendo S a d
 
 Precisamos entender que o espaço atual é S, que S₀ é o inicial, velocidade é v e t é tempo. 
 
+### Encontro de dois objetos
+
+Podemos dizer então que quando um objeto, descrito por uma função passa por um ponto x num plano cartesiano e que temos um mesmo objeto, que precisa ter uma função horária também para ele estão no mesmo plano cartesiano, podemos dizer quando eles irão se encontrar, novamente levano em conta somente o eixo x simplesmente igualando os dois.
+
+Temos um carro que começa no ponto 0 e anda numa velocidade de 4m/s, sua função horária ficaria 
+
 ### Exercícios para compreensão
 
 #### Exercício 1
@@ -95,7 +101,12 @@ t= 7s
 
 ![[Pasted image 20220421151830.png]]
 
+**S = S₀ + v.t**
+**S + Sc = S₀ + v.t**
 
+50+Sc = 0 + 20 . 3,5
+Sc = 70 - 50
+Sc = 20
 
 ## Bibliografia
 
