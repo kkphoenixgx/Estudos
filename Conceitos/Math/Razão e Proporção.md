@@ -39,7 +39,25 @@ $$ \frac{▲S}{▲t} = ▲v → \frac{10km}{5h}= 2km/h $$
 
 Precisamos reduzir o tamanho de um mapa, porém precisamos ainda respeitar os delimitadores de cada estado, se não seria um completo caos, logo usamos na Geografia a escala sempre em cm. Podemos identificar essa escala no primeiro traço do mapa, demtro de uma linha numérica de 0 a algum número, essa primeira linha identifica quanto é 1: (se lê "para") 1cm, se for 400km por exemplo:
 
-$$ 1 → 400km = \frac{1cm}{400km} → 1cm/4000.0000cm  $$
+$$ 1 → 400km = \frac{1cm}{400km} → 1cm/40.000.000cm  $$
+A cada 1cm temos, esse número aí, de cm da vida real 
+
+### Decidade Demográfica
+
+A quantidade da população sobre a área que ela ocupa
+
+$$ \frac{Área}{pessoas} $$
+### Renda percapta
+
+É a quantidade de pessoas em uma família pela renda da familia, idependente se contribuíram ou não para o processo:
+
+$$\frac{Renda Familiar}{Pessoas}$$
+
+Indicie de massa corporal
+
++ Porcentagem
+* Densidade, em engenharia
+* Porcentagem
 
 
 -----------------------------------------------
