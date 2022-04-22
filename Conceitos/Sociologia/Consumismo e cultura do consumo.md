@@ -33,6 +33,14 @@ Quando um trabalhador trabalha e não vê sendo produzido o que ele faz, ele nã
 * Liberdade está relacionada a criação e a industria não te da a forma da criação.
 
 
+## Zygmunt Bauman
+
+Livros do Bauman
+
+* **Modernidade líquida** → Livro do Bauman que fala que vivemos numa sociedade de consumo e antes uma **sociedade de produção**, antigamente viviamos em uma sociedade que produzia em massa, para durar, para ser usados, enquanto hoje eles são feitos para quebrar e comprarmos outro, logo eles devem ser recomprados e isso é uma característica de uma **sociedade de consumo**, na **sociedade líquida** e as relaçoes humanas seguem esse fluxo, as relações são feitas para consumo, não para produção
+
+* **Vida para o consumo** → o centro da nossa sociedade é o consumo, as pessoas vivem em torno do consumo pois até o trabalhador é uma mercadoria. A maior vitrine de pessoas que existe é as redes sociais.
+
 
 -----------------------------------------------
 ## Bibliografia
