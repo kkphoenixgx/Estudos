@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fc8fd81276be63e9",
+        "id": "c501436f03e5701a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Conceitos/Fisica/Movimento.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -113,7 +109,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Fisica/Movimento.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Fisica/Movimento.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +167,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Fisica/Movimento.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +179,7 @@
     "direction": "horizontal",
     "width": 272.9852600097656
   },
-  "active": "fc8fd81276be63e9",
+  "active": "c501436f03e5701a",
   "lastOpenFiles": [
     "Conceitos/Fisica/Movimento.md",
     "Conceitos/Linguagens/Português do Brasil/Gramática/Semântica/Generos textuais/Redação.md",
