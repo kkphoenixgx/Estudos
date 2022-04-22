@@ -7,8 +7,12 @@
         "id": "c501436f03e5701a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Conceitos/Filosofia/Política e a Filosofia.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -109,6 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Conceitos/Filosofia/Política e a Filosofia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -151,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Conceitos/Filosofia/Política e a Filosofia.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Conceitos/Filosofia/Política e a Filosofia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -181,6 +188,7 @@
   },
   "active": "c501436f03e5701a",
   "lastOpenFiles": [
+    "Conceitos/Filosofia/Política e a Filosofia.md",
     "Conceitos/Fisica/Movimento.md",
     "Conceitos/Linguagens/Português do Brasil/Gramática/Semântica/Generos textuais/Redação.md",
     "Conceitos/Linguagens/Português do Brasil/Gramática/Morfologia/Verbos/Verbos Essenciais.md",
@@ -189,7 +197,6 @@
     "Conceitos/Linguagens/Português do Brasil/Gramática/Sintaxe/Sintaxe.md",
     "Conceitos/Linguagens/Português do Brasil/Gramática/Semântica/Semântica.md",
     "Conceitos/Linguagens/Português do Brasil/Gramática/Fonologia/Fonologia.md",
-    "Conceitos/Linguagens/Português do Brasil/Gramática/Estilistica/Estilistica.md",
-    "Conceitos/Linguagens/Português do Brasil/Gramática/Gramática Brasileira.md"
+    "Conceitos/Linguagens/Português do Brasil/Gramática/Estilistica/Estilistica.md"
   ]
 }
