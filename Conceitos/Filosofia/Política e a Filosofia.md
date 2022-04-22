@@ -13,9 +13,17 @@ Eles acreditavam que a política estava em decadencia, eles não tinham
 
 ## Idade Média
 
-São thomaz de Aquino → O rei deve se subordinar a ética cristã
-Maquiavel - O que faz um bom r
+* São thomaz de Aquino → O rei deve se subordinar a ética cristã
+* Maquiavel - O que faz um bom governante são incompativeis com os valores de um bom político "Aquilo que nos ajuda a salvar a alma não nos ajuda a salvar a cidade
 
+## Política na modernidade
+
+* Thomas Hobbes → "O estado de natureza é a guerra de todos contra todos" Eles criam o estado para parar os problemas da cidade, para protejer os indivíduos.
+* John Lock → Para lock, gozamos de direitos, liberdades e propriedades, faz tudo ai que você quiser dês que não acabe com a liberdade do próximo, para ele o estado é a mão de ferro da justiça
+
+
+
+* Rousseau → Pensa no humano como amoral, bem e mal são conceitos que nós como sociedade criamos. São criações sociais e precisa-se diminuir a desigualdade, não acabar com ela, mas diminui-la 
 
 -----------------------------------------------
 ## Bibliografia
