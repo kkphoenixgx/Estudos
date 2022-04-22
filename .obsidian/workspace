@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "006bd47202e04a66",
+        "id": "7fe7ea12da8a8d9a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Linguagens/Português do Brasil/Gramática/Gramática Brasileira.md",
+            "file": "Conceitos/Sociologia/Consumismo e cultura do consumo.md",
             "mode": "source",
             "source": false
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Linguagens/Português do Brasil/Gramática/Gramática Brasileira.md",
+                "file": "Conceitos/Sociologia/Consumismo e cultura do consumo.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Linguagens/Português do Brasil/Gramática/Gramática Brasileira.md",
+                "file": "Conceitos/Sociologia/Consumismo e cultura do consumo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Linguagens/Português do Brasil/Gramática/Gramática Brasileira.md",
+                "file": "Conceitos/Sociologia/Consumismo e cultura do consumo.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -186,8 +186,9 @@
     "direction": "horizontal",
     "width": 272.9852600097656
   },
-  "active": "006bd47202e04a66",
+  "active": "7fe7ea12da8a8d9a",
   "lastOpenFiles": [
+    "Conceitos/Sociologia/Consumismo e cultura do consumo.md",
     "Conceitos/Linguagens/Português do Brasil/Gramática/Gramática Brasileira.md",
     "Conceitos/Linguagens/Português do Brasil/Portugês do Brasil.md",
     "Conceitos/Filosofia/Política e a Filosofia.md",
@@ -196,7 +197,6 @@
     "Conceitos/Linguagens/Português do Brasil/Gramática/Morfologia/Verbos/Verbos Essenciais.md",
     "Conceitos/Linguagens/Português do Brasil/Gramática/Morfologia/Morfologia.md",
     "Conceitos/Linguagens/Português do Brasil/Gramática/Morfologia/Verbos/Verbos.md",
-    "Conceitos/Linguagens/Português do Brasil/Gramática/Sintaxe/Sintaxe.md",
-    "Conceitos/Linguagens/Português do Brasil/Gramática/Semântica/Semântica.md"
+    "Conceitos/Linguagens/Português do Brasil/Gramática/Sintaxe/Sintaxe.md"
   ]
 }
