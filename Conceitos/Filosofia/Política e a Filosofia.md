@@ -21,9 +21,34 @@ Eles acreditavam que a política estava em decadencia, eles não tinham
 * Thomas Hobbes → "O estado de natureza é a guerra de todos contra todos" Eles criam o estado para parar os problemas da cidade, para protejer os indivíduos.
 * John Lock → Para lock, gozamos de direitos, liberdades e propriedades, faz tudo ai que você quiser dês que não acabe com a liberdade do próximo, para ele o estado é a mão de ferro da justiça
 
-
+Sécul XIII
 
 * Rousseau → Pensa no humano como amoral, bem e mal são conceitos que nós como sociedade criamos. São criações sociais e precisa-se diminuir a desigualdade, não acabar com ela, mas diminui-la 
+
+Século XXIV
+
+As ideias deles se concolidam.
+
+Liberalismo juz-naturalista → 
+	O estado deve garantir os direitos naturais 
+Liberais utilitaristas →
+	Para eles a justiça está na utilidade
+	É bom o que produz felicidade para o maior número de pessoas
+	No mesmo rumo tinham medo que o estado tirasse os direitos naturais e que acabassem com o Liberalismo
+Anarquistas
+	Acredita que devemos suprimir o estado
+Socialistas
+	Socialistas Marxistas → Comunismo é o fim do estado, a igualdade, Terminar com o estado 
+
+
+século XX
+
+Revolução russa influência muito essas ideias
+Os liberais do século XX criticam o autoritarismo soviético
+
+Hanna Harent → Diz que o século XX teve muitos totalitarimos e que o século XX produz muita insegurança e por isso nesses momenotos se cri
+
+
 
 -----------------------------------------------
 ## Bibliografia
