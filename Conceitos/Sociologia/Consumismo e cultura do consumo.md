@@ -24,6 +24,14 @@ Quando um trabalhador trabalha e não vê sendo produzido o que ele faz, ele nã
 * Valor de troca está relacionada aos nossos desejos pelos produtos, que são construidos pela publicidade
 	* Não é que ela tem uma camiseta porque quer ficar bela, ela quer usar a camiseta pela marca que te trás "poderes"
 
+## Herbert Marcuse
+
+* A publicidade faz com que surjam novas necessidades de consumir
+	* A industria cria a nescessidade de consumir para vender
+		*	A falsa sensação de liberdade por ter várias escolhas, porém são escolhas todas iguais e geridas por quem produz e chama isso de **Sociedade unidimensional**
+
+* Liberdade está relacionada a criação e a industria não te da a forma da criação.
+
 
 
 -----------------------------------------------
