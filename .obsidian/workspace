@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c501436f03e5701a",
+        "id": "006bd47202e04a66",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Conceitos/Filosofia/Política e a Filosofia.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -113,7 +109,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Filosofia/Política e a Filosofia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Filosofia/Política e a Filosofia.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +167,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Filosofia/Política e a Filosofia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +179,7 @@
     "direction": "horizontal",
     "width": 272.9852600097656
   },
-  "active": "c501436f03e5701a",
+  "active": "006bd47202e04a66",
   "lastOpenFiles": [
     "Conceitos/Filosofia/Política e a Filosofia.md",
     "Conceitos/Fisica/Movimento.md",
