@@ -16,7 +16,7 @@ Estamos tratadando aqui de consumo
 
 Quando um trabalhador trabalha e não vê sendo produzido o que ele faz, ele não tem noção do que produz e compra mais caro do que recebe pelo trabalho gasto.
 
-
+* Fetichismo da mercad
 
 -----------------------------------------------
 ## Bibliografia
