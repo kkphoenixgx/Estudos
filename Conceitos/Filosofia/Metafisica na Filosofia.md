@@ -16,7 +16,7 @@ tags: [[-5 V ac]]
 * **Kant** → Olha só a tua mente e seus sentidos trabalham juntos. E outra, vivemos na realidade dos Fenomenos, tu nunca vai saber o quem tem fora do que podemos entender, isso tudo tá fadado ao fracasso. → **Revolução Copernica**
 
 
-* **Nietcheze** → Tudo isso são coisas que não existem, tudo é nada e criamos nossos valores. No fundo precisamos
+* Nietcheze → Tudo isso são coisas que não existem, tudo é nada e criamos nossos valores. No fundo precisamos deles pela ética, são criações da sociedade, e isso não significa que não devem existir.
 
 
 
