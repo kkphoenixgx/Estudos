@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7fe7ea12da8a8d9a",
+        "id": "b47eb6f0b1bd7b03",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Conceitos/Sociologia/Consumismo e cultura do consumo.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -113,7 +109,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Sociologia/Consumismo e cultura do consumo.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Sociologia/Consumismo e cultura do consumo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +167,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Sociologia/Consumismo e cultura do consumo.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +179,7 @@
     "direction": "horizontal",
     "width": 272.9852600097656
   },
-  "active": "7fe7ea12da8a8d9a",
+  "active": "b47eb6f0b1bd7b03",
   "lastOpenFiles": [
     "Conceitos/Sociologia/Consumismo e cultura do consumo.md",
     "Conceitos/Linguagens/Português do Brasil/Gramática/Gramática Brasileira.md",
