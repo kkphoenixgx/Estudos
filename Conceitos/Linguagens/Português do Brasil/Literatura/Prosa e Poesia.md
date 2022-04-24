@@ -17,8 +17,20 @@ Na grécia, tinha duas divisões de Drama
 Mas se apegou mesmo na idade média
 
 * Trovadorismo → Poemas mais simples para serem passados pela oralidade
+* Haikai →  Gênero que tem frases rápidas e simples, provenientes da China
+* Soneto → Século 11 -> Tem 14 versos e 4 estrofes.
 
 A prosa só apareceu no século I em satirico e Dafine y Cloe. Prosa significa fala livre e se englobava em Romanço, ou seja, Romance da atalidade 
+
+## Divisão de silabas poéticas
+
+**métrica** → Classifica-se pelos versos de acordo com as silbas poéticas que eles tem
+
+* São contadas até a última silaba tônica de cada verso
+*  Se tem duas sílabas poéticas que uma termina com uma vogal e a outra começa com uma vogal, elas se juntam se contam como uma sílaba poética so
+
+A **escançao** de uma poesia é justamente partir essas sílabas
+
 
 
 
