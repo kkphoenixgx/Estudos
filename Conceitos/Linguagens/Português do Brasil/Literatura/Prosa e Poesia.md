@@ -31,7 +31,16 @@ A prosa só apareceu no século I em satirico e Dafine y Cloe. Prosa significa f
 
 A **escançao** de uma poesia é justamente partir essas sílabas
 
+1. Conte as sílabas
+2. Se a última for sílaba tônica, conta até ela, se não, conta até a sílaba tônica
+3. Vê se tem um que termina com vogal e começa com vogal
 
+![[Pasted image 20220424140714.png]]
+
+
+Se tem 5 ou 7 são categorizadas reredondilha menor e redondilha maior, quando tem 12 são versos Alexandriacos e quando tem mais de 12 são versos Bárbaros
+
+Se a métrica varia, temos versos livres.
 
 
 -----------------------------------------------
