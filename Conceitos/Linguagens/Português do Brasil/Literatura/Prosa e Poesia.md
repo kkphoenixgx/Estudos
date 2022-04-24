@@ -2,7 +2,12 @@
 2022-04-24
 tags: [[Literatura Brasileira]] 
 
+* Prosa = texto
+* Poesia = Poesia
+
+Não tem que ter sentido para você.
 Agora para entendermos os generos textuais, precisamos entender que existem características de cada gênero textual e as características vão ser o que vão distinguir um gênero de outro, generos são mutáveis, diferentemente dos tipos textuais. O que essa aula fala é sobre os gêneros textuais literários.
+
 
 * Generos textuais Literários (Na grécia era tudo Poesia)
 	* **Épico** → Narrador em terceira pessoa  (Grandes Feitos de herois e Deuses)
