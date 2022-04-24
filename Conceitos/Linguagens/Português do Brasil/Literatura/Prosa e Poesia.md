@@ -4,10 +4,19 @@ tags: [[Literatura Brasileira]]
 
 Agora para entendermos os generos textuais, precisamos entender que existem características de cada gênero textual e as características vão ser o que vão distinguir um gênero de outro, generos são mutáveis, diferentemente dos tipos textuais. O que essa aula fala é sobre os gêneros textuais literários.
 
-* Generos textuais Literários
-	* Épico → Narrador em terceira pessoa  
-	* Lírico → Eu lírico (Era citado com )
-	* Dramático →
+* Generos textuais Literários (Na grécia era tudo Poesia)
+	* **Épico** → Narrador em terceira pessoa  (Grandes Feitos de herois e Deuses)
+	* **Lírico** → Eu lírico (Era citado com uma Lira)
+	* **Dramático** → Expõe conflitos da sociedade, pelo drama
+
+Na grécia, tinha duas divisões de Drama
+
+* Tragedia → desperta terror e sofrimentos por meio de histórias de um nobre que não tinham como escapar do seu destino trágico
+* Comédia → Pessoas do povo com problemas cotidianos
+
+Mas se apegou mesmo na idade média
+
+* Trovadorismo → Poemas mais simples para serem passados pela oralidade
 
 A prosa só apareceu no século I em satirico e Dafine y Cloe. Prosa significa fala livre e se englobava em Romanço, ou seja, Romance da atalidade 
 
