@@ -18,11 +18,10 @@ tags: [[-5 V ac]]
 * Froid, Young Lakan → **Noção de inconsiente**
 * Nietcheze → Tudo isso são coisas que não existem, tudo é nada e criamos nossos valores. No fundo precisamos deles pela ética, são criações da sociedade, e isso não significa que não devem existir. **Nilismo Ativo → nadificação de conceitos**
 
-
 * Existencialistas → Sartre, Camus → O ser humano não é nada e podemos então criar tudo e somos livres
 * Fuco → O poder não é uma coisa. O poder só existe em relação a loucura depende da episteme de cada época
 
-* Bauman → 
+* Bauman → Sociedade Líquida, uma crise dos projetos utopicos → Tudo que é sólido se desmancha no ar (Marx)
 
 ----------------------------------------------- 
 ## Bibliografia
