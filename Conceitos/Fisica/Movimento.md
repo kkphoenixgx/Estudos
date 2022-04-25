@@ -134,9 +134,18 @@ Sc = 20
 
 ## Movimento Uniformemente Variado → MUV
 
-O problema da Mu é que ela não é encontrada facilmente, no mundo real, o que mais possuímos é movimentos que não possuem velocidade constante, esses são MUV. Mesmo que quase nunca ocorra esses movimentos de forma uin
+O problema da Mu é que ela não é encontrada facilmente, no mundo real, o que mais possuímos é movimentos que não possuem velocidade constante, esses são MUV. Mesmo que quase nunca ocorra esses movimentos de forma uniforme, é possível determinar uma média para esse ▲V:
 
+$$am = \frac{▲v}{▲t}$$
 
+* am = aceleração média
+* ▲v em m/s
+* ▲t em s
+* am em m/s²
+
+O objeto se movimenta sempre aumentando constantemente. Quando isso acontece chamamaos de MUV 
+
+Então quando temos um MUV, 
 
 ## Bibliografia
 
