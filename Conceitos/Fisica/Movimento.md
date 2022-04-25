@@ -162,7 +162,7 @@ perceba que isso pode dar uma equação do segundo grau.
 Função horária da velocidade para o MUV
 
 $$v=v₀+at$$
-**Vovo Ateu.**
+**Vovo Ateu.** Explica a forma que a velocidade se comporta
 
 Podemos chegar na conclusão de quando a velocidade se anula por essa função isolando o tempo e usando  v = 0. Não somente isso mas podemos chegar a conclusão de em qual posição a velocidade se anula se usarmos a função horária do MUV e colocarmos o tempo em t.
 
@@ -183,6 +183,11 @@ Essa equação me permite descobrir a velocidade e o deslocamento sem precisar d
 
 ![[Pasted image 20220425202504.png]]
 
+
+**Sorvete**  → S = S₀ + vt → Serve para calcular a velocidade e a aceleração 
+**Sorvetão** → S = S₀ + vt at/2
+**Vovô Ateu** → v = v₀ + at
+**Vi você e mais dois num triângulo sexual** → v² = v₀² + 2 a▲s
 
 
 ## Bibliografia
