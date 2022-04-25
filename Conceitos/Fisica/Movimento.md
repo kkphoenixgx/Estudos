@@ -4,6 +4,12 @@
 De acordo com o referencial podemos calcular o movimento, se um cara dentro de um trêm observa uma lampada do trêm, para ele, ela está parada. Porém para alguém de fora do trêm. ela está em movimento.  
 Não existe um parado ou andando. Depende do referêncial.
 
+* **Aceleração** → Quando algum objeto se movimenta cada vez mais rápido
+* **Freando** → Quando um objeto se movimenta cada vez mais devagar
+
+Mas é importante entender que quando lidamos com problemas, elas serão tratadas da mesma forma
+
+
 ▲ = delta   
 **Posição (S)**= Podemos definir S = 5, num eixo x e o começo, podemos definir como S0 = 1, então no momento ele está em 5 e começou no 1
 **Deslocamento** = ▲t 
@@ -125,10 +131,22 @@ t= 7s
 Sc = 70 - 50
 Sc = 20
 
+
+## Movimento Uniformemente Variado → MUV
+
+O problema da Mu é que ela não é encontrada facilmente, no mundo real, o que mais possuímos é movimentos que não possuem velocidade constante, esses são MUV. Mesmo que quase nunca ocorra esses movimentos de forma uin
+
+
+
 ## Bibliografia
 
+MU
 https://plataforma.seliga.com.br/aula/8b8a8030-d28a-11ea-b47e-57cbfe09057a;missao_id=ee721cc0-4178-11ec-9952-afdc330a50af;plano_id=83044210-4177-11ec-8f00-a746b13d8695
+
+MUV
+https://plataforma.seliga.com.br/aula/3957fb60-fcf8-11ea-83a4-71229b38ac5f;missao_id=1d029670-4179-11ec-a4ab-913f23ba6765;plano_id=83044210-4177-11ec-8f00-a746b13d8695
 
 Faz ai algum dia quando você for pika
 
 https://plataforma.seliga.com.br/aula/8b8a8030-d28a-11ea-b47e-57cbfe09057a;missao_id=ee721cc0-4178-11ec-9952-afdc330a50af;plano_id=83044210-4177-11ec-8f00-a746b13d8695
+ 
