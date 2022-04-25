@@ -43,7 +43,7 @@ Temos essa infomração após isso já que t₀ sempre vai ser 0, então brincan
 
 $$S- S₀ = V.t → S= S₀ + vt$$
 
-* **S = S₀ + vt** = essa equação é a **função horária** da posição para o M.U, ou o Sorvete 
+* **S = S₀ + vt** = essa equação é a **função horária** da posição para o M.U, ou o **Sorvete** 
 
 Dessa função, podemos inclusive falar que se a velocidade for positiva ela vai ser para a direita de um eixo x, chamada de **Progressivo**, e for negativa, vai ser para o lado esquerdo, chamada de   **Retrógrado**
 
@@ -150,7 +150,7 @@ $$am = \frac{▲v}{▲t}$$
 
 O objeto se movimenta sempre aumentando constantemente. Quando isso acontece chamamaos de MUV 
 
-Então quando temos um MUV, podemos usar a seguinte função horária:
+Então quando temos um MUV, podemos usar a seguinte função horária: O **sorvetão**
 
 $$S = S₀ + V₀t + \frac{at²}{2}$$
 
@@ -161,10 +161,16 @@ perceba que isso pode dar uma equação do segundo grau.
 
 Função horária da velocidade para o MUV
 
-$$v=v$$
+$$v=v₀+at$$
+**Vovo Ateu.**
 
-v = 
+Podemos chegar na conclusão de quando a velocidade se anula por essa função isolando o tempo e usando  v = 0. Não somente isso mas podemos chegar a conclusão de em qual posição a velocidade se anula se usarmos a função horária do MUV e colocarmos o tempo em t.
 
+Outro toque interessante é que podemos calcular a velocidade média entre dois valores usando a função horária nesses dois tempos e fazendo a média aritimética simples desses valores.
+
+Equeação de Torriceli 
+
+v² = v²₀ + 2.a 
 
 ## Bibliografia
 
