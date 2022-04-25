@@ -170,7 +170,14 @@ Outro toque interessante é que podemos calcular a velocidade média entre dois 
 
 Equeação de Torriceli 
 
-v² = v²₀ + 2.a 
+$$v² = v²₀ + 2.a▲s$$
+* v² → m/s
+* a → m/s²
+* ▲s → m (Deslocamento)
+
+**Vi você e 2 amigos em um trângulo sexual**
+
+Essa equação me permite descobrir a velocidade e o deslocamento sem precisar de tempo
 
 ## Bibliografia
 
