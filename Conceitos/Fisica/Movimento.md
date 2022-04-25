@@ -179,6 +179,11 @@ $$v² = v²₀ + 2.a▲s$$
 
 Essa equação me permite descobrir a velocidade e o deslocamento sem precisar de tempo
 
+## Conclusão
+
+
+
+
 ## Bibliografia
 
 MU

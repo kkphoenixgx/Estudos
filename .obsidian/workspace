@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Conceitos/Fisica/Movimento.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216,
-    "collapsed": true
+    "width": 216
   },
   "right": {
     "id": "9e25cca9212e7705",
@@ -185,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.9852600097656,
-    "collapsed": true
+    "width": 223.9852752685547
   },
   "active": "30124f567dcfc556",
   "lastOpenFiles": [
