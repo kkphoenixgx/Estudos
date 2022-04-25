@@ -7,6 +7,11 @@ Não existe um parado ou andando. Depende do referêncial.
 * **Aceleração** → Quando algum objeto se movimenta cada vez mais rápido
 * **Freando** → Quando um objeto se movimenta cada vez mais devagar
 
+* **Progressivo** → velocidade positiva
+* **Retrogrado** → diminui a velocidade
+* **Acelerado** → acelerando variadamamente
+* **Retardado** → diminui variadamente
+
 Mas é importante entender que quando lidamos com problemas, elas serão tratadas da mesma forma
 
 
@@ -145,7 +150,15 @@ $$am = \frac{▲v}{▲t}$$
 
 O objeto se movimenta sempre aumentando constantemente. Quando isso acontece chamamaos de MUV 
 
-Então quando temos um MUV, 
+Então quando temos um MUV, podemos usar a seguinte função horária:
+
+$$S = S₀ + V₀t + \frac{at²}{2}$$
+
+![[Pasted image 20220425163515.png]]
+
+
+
+
 
 ## Bibliografia
 
