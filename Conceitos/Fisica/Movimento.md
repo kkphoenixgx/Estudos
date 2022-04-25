@@ -181,6 +181,7 @@ Essa equação me permite descobrir a velocidade e o deslocamento sem precisar d
 
 ## Conclusão
 
+![[Pasted image 20220425202504.png]]
 
 
 
