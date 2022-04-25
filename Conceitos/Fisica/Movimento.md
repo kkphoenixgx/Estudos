@@ -141,9 +141,9 @@ Sc = 20
 
 O problema da Mu é que ela não é encontrada facilmente, no mundo real, o que mais possuímos é movimentos que não possuem velocidade constante, esses são MUV. Mesmo que quase nunca ocorra esses movimentos de forma uniforme, é possível determinar uma média para esse ▲V:
 
-$$am = \frac{▲v}{▲t}$$
+$$a = \frac{▲v}{▲t}$$
 
-* am = aceleração média
+* a = aceleração média
 * ▲v em m/s
 * ▲t em s
 * am em m/s²
@@ -192,9 +192,11 @@ Essa equação me permite descobrir a velocidade e o deslocamento sem precisar d
 MRU → Movimento retilinio uniforme → Não varia
 MRUV → Movimento retilinio uniforme variado → Fica variando
 
-$$MRU → \frac{▲s}{▲t} → (Espaço - espaço
-Inicial)/(tempoInicial) $$
+$$MRU → \frac{▲s}{▲t} →  \frac{espaçoAtual - espaçoInicial}{tempoAtual - tempoInicial} → \frac{S-S₀}{t-t₀} $$
 
+$$MRU = \frac{S-S₀}{t-t₀} $$
+
+E isso faz muito sentindo, pois pensa, tenho um movimento em linha reta, a velocidade dele, vai ser sempre o espaço pelo tempo.
 
 ## Bibliografia
 
