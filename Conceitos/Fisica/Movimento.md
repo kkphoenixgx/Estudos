@@ -157,7 +157,13 @@ $$S = S₀ + V₀t + \frac{at²}{2}$$
 ![[Pasted image 20220425163515.png]]
 
 
+perceba que isso pode dar uma equação do segundo grau.
 
+Função horária da velocidade para o MUV
+
+$$v=v$$
+
+v = 
 
 
 ## Bibliografia
