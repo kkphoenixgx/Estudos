@@ -189,6 +189,12 @@ Essa equação me permite descobrir a velocidade e o deslocamento sem precisar d
 **Vovô Ateu** → v = v₀ + at
 **Vi você e mais dois num triângulo sexual** → v² = v₀² + 2 a▲s
 
+MRU → Movimento retilinio uniforme → Não varia
+MRUV → Movimento retilinio uniforme variado → Fica variando
+
+$$MRU → \frac{▲s}{▲t} → (Espaço - espaço
+Inicial)/(tempoInicial) $$
+
 
 ## Bibliografia
 
