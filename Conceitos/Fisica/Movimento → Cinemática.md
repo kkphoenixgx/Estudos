@@ -189,13 +189,16 @@ Essa equação me permite descobrir a velocidade e o deslocamento sem precisar d
 ![[Pasted image 20220425202504.png]]
 
 
-**Sorvete**  → S = S₀ + vt → Serve para calcular a velocidade e a aceleração 
+**O movimento é variado quando tem aceleração**
+
+**Sorvete**  → S = S₀ + vt 
 **Sorvetão** → a = S₀ + vt at/2
+
 **Vovô Ateu** → v = v₀ + at
 **Vi você e mais dois num triângulo sexual** → v² = v₀² + 2 a ▲S
 
-MRU → Movimento retilinio uniforme → Não varia → Constante
-MRUV → Movimento retilinio uniforme variado → Fica variando
+MRU → Movimento retilinio uniforme → Não varia → Constante sem aceleração
+MRUV → Movimento retilinio uniforme variado → Fica variando, tem aceleração
 
 $$MRU → \frac{▲s}{▲t} →  \frac{espaçoAtual - espaçoInicial}{tempoAtual - tempoInicial} → \frac{S-S₀}{t-t₀} $$
 
