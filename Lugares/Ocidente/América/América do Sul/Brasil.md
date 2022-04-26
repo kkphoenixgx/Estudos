@@ -4,7 +4,7 @@ tags: #Locate
 
 ## Divisão de poder no Brasil
 
-A divisão de poderes no Brasil é feita a partir do Método de Montesquieu, ou seja, dividimos os
+A divisão de poderes no Brasil é feita a partir do Método de Montesquieu, ou seja, dividimos os paísem em poder **Legislativo**,  **Executivo** e **Judiciário**, onde a ideia é que os poderes fique, 
 
 
 -----------------------------------------------
