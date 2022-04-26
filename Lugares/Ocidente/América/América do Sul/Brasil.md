@@ -6,7 +6,14 @@ tags: #Locate
 
 A divisão de poderes no Brasil é feita a partir do Método de Montesquieu, ou seja, dividimos os paísem em poder **Legislativo**,  **Executivo** e **Judiciário**, onde a ideia é que os poderes fiquem se supervisionando e sejam equilibrados.
 
+* Legislativo → Cria a leis
+* Executivo → Gerencia
+* Judiciário → Pune
 
+Presidencialismo → Tem presidente
+| Legislativo | Executivo | Judiciário|
+|--------|------|----|
+| STF | Presidencia | Congresso |
 
 
 -----------------------------------------------
