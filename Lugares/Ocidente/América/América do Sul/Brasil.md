@@ -8,16 +8,20 @@ A divisão de poderes no Brasil é feita a partir do Método de Montesquieu, ou 
 
 * Executivo → Gerencia
 * Legislativo → Cria a leis
-* Judiciário → Pune
+* Judiciário → Pune e se assegura que as leis estão sendo cumpridas
 
 Presidencialismo → Tem presidente
 |Âmbito| Legislativo | Executivo | Judiciário|
-|--------|--------|------|----|
-| Brasil  | STF | Presidencia e ministérios | Congresso |
-| Brail  | STF | Presidencia | Congresso |
+|--------|--------|------|--------|
+| Brasil  | Congresso | Presidencia | STF |
+| Federal  | Câmera dos deputados e congresso nascional → Deputados e Senadores | Presidente e ministérios | 11 ministros (Juízes) de cada Tribunal|
+| Estado  | Congresso | Governador e secretarias | STF |
+| Cidades  | Congresso | Prefeitos | STF |
+| Municípios  | Congresso | Vereadores | STF |
 
+|Ministério p|
 
-Ministérios do poder executivo
+Ministérios do poder executivo ou secretarias do poder executivo
 * Educação
 * Ciência e Tecnolgia
 * Saúde
