@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Fisica/Movimento → Cinemática.md",
+            "file": "Conceitos/Fisica/Resumo de Cinemática.md",
             "mode": "source",
             "source": false
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Fisica/Movimento → Cinemática.md",
+                "file": "Conceitos/Fisica/Resumo de Cinemática.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Fisica/Movimento → Cinemática.md",
+                "file": "Conceitos/Fisica/Resumo de Cinemática.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Fisica/Movimento → Cinemática.md",
+                "file": "Conceitos/Fisica/Resumo de Cinemática.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -188,6 +188,7 @@
   },
   "active": "30124f567dcfc556",
   "lastOpenFiles": [
+    "Conceitos/Fisica/Resumo de Cinemática.md",
     "Conceitos/Fisica/Movimento → Cinemática.md",
     "img/Pasted image 20220425163515.png",
     "Pasted image 20220425163511.png",
@@ -196,7 +197,6 @@
     "Conceitos/Linguagens/Português do Brasil/Literatura/Prosa e Poesia.md",
     "Conceitos/Math/Razão e Proporção.md",
     "Lugares/Ocidente/Grécia Antiga.md",
-    "Conceitos/Filosofia/Metafisica na Filosofia.md",
-    "Conceitos/Sociologia/Consumismo e cultura do consumo.md"
+    "Conceitos/Filosofia/Metafisica na Filosofia.md"
   ]
 }
