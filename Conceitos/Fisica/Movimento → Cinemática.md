@@ -192,9 +192,9 @@ Essa equação me permite descobrir a velocidade e o deslocamento sem precisar d
 **O movimento é variado quando tem aceleração**
 
 **Sorvete**  → S = S₀ + vt 
-**Sorvetão** → a = S₀ + vt at/2
+**Sorvetão** → a = S₀ + vt at/2  → Calcular a 
 
-**Vovô Ateu** → v = v₀ + at
+**Vovô Ateu** → v = v₀ + at → Velocidade
 **Vi você e mais dois num triângulo sexual** → v² = v₀² + 2 a ▲S
 
 MRU → Movimento retilinio uniforme → Não varia → Constante sem aceleração
