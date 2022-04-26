@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Fisica/Movimento.md",
+            "file": "Conceitos/Fisica/Movimento → Cinemática.md",
             "mode": "source",
             "source": false
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Fisica/Movimento.md",
+                "file": "Conceitos/Fisica/Movimento → Cinemática.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Fisica/Movimento.md",
+                "file": "Conceitos/Fisica/Movimento → Cinemática.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Fisica/Movimento.md",
+                "file": "Conceitos/Fisica/Movimento → Cinemática.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -188,7 +188,7 @@
   },
   "active": "30124f567dcfc556",
   "lastOpenFiles": [
-    "Conceitos/Fisica/Movimento.md",
+    "Conceitos/Fisica/Movimento → Cinemática.md",
     "img/Pasted image 20220425163515.png",
     "Pasted image 20220425163511.png",
     "Pasted image 20220425163451.png",

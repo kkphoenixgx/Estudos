@@ -179,6 +179,11 @@ $$v² = v²₀ + 2.a▲s$$
 
 Essa equação me permite descobrir a velocidade e o deslocamento sem precisar de tempo
 
+### Desinvolvimento da MRUV
+
+![[Pasted image 20220425210657.png]]
+
+
 ## Conclusão
 
 ![[Pasted image 20220425202504.png]]
@@ -189,7 +194,7 @@ Essa equação me permite descobrir a velocidade e o deslocamento sem precisar d
 **Vovô Ateu** → v = v₀ + at
 **Vi você e mais dois num triângulo sexual** → v² = v₀² + 2 a▲s
 
-MRU → Movimento retilinio uniforme → Não varia
+MRU → Movimento retilinio uniforme → Não varia → Constante
 MRUV → Movimento retilinio uniforme variado → Fica variando
 
 $$MRU → \frac{▲s}{▲t} →  \frac{espaçoAtual - espaçoInicial}{tempoAtual - tempoInicial} → \frac{S-S₀}{t-t₀} $$
@@ -198,6 +203,9 @@ $$MRU = \frac{S-S₀}{t-t₀} $$
 
 E isso faz muito sentindo, pois pensa, tenho um movimento em linha reta, a velocidade dele, vai ser sempre o espaço pelo tempo.
 
+$$ a =  $$
+
+
 ## Bibliografia
 
 MU
@@ -205,6 +213,8 @@ https://plataforma.seliga.com.br/aula/8b8a8030-d28a-11ea-b47e-57cbfe09057a;missa
 
 MUV
 https://plataforma.seliga.com.br/aula/3957fb60-fcf8-11ea-83a4-71229b38ac5f;missao_id=1d029670-4179-11ec-a4ab-913f23ba6765;plano_id=83044210-4177-11ec-8f00-a746b13d8695
+
+https://www.youtube.com/watch?v=XK5lDFaLm10
 
 Faz ai algum dia quando você for pika
 
