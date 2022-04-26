@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:IMPORTANT",
@@ -91,10 +91,10 @@
   "nodeSizeMultiplier": 1.7625,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
-  "centerStrength": 0.553571428571429,
+  "centerStrength": 0.382101926359425,
   "repelStrength": 19.8809523809524,
   "linkStrength": 1,
   "linkDistance": 156,
-  "scale": 0.16348370567221246,
+  "scale": 0.32133638605037906,
   "close": true
 }

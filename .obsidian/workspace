@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "30124f567dcfc556",
+        "id": "873b8f731cf733d9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Fisica/Resumo de Cinemática.md",
-            "mode": "preview",
+            "file": "Lugares/Ocidente/América/América do Sul/Brasil.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Fisica/Resumo de Cinemática.md",
+                "file": "Lugares/Ocidente/América/América do Sul/Brasil.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Fisica/Resumo de Cinemática.md",
+                "file": "Lugares/Ocidente/América/América do Sul/Brasil.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Fisica/Resumo de Cinemática.md",
+                "file": "Lugares/Ocidente/América/América do Sul/Brasil.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -186,17 +186,17 @@
     "direction": "horizontal",
     "width": 223.9852752685547
   },
-  "active": "30124f567dcfc556",
+  "active": "873b8f731cf733d9",
   "lastOpenFiles": [
+    "Lugares/Ocidente/América/América do Sul/Brasil.md",
+    "Conceitos/Linguagens/Português do Brasil/Portugês do Brasil.md",
+    "Conceitos/Linguagens/Português do Brasil/Gramática/Semântica/Generos textuais/Redação.md",
     "Conceitos/Fisica/Resumo de Cinemática.md",
     "Conceitos/Fisica/Movimento → Cinemática.md",
     "img/Pasted image 20220425163515.png",
     "Pasted image 20220425163511.png",
     "Pasted image 20220425163451.png",
     "Conceitos/Fisica/Fisica.md",
-    "Conceitos/Linguagens/Português do Brasil/Literatura/Prosa e Poesia.md",
-    "Conceitos/Math/Razão e Proporção.md",
-    "Lugares/Ocidente/Grécia Antiga.md",
-    "Conceitos/Filosofia/Metafisica na Filosofia.md"
+    "Conceitos/Linguagens/Português do Brasil/Literatura/Prosa e Poesia.md"
   ]
 }
