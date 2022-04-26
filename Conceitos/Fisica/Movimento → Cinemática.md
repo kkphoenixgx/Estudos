@@ -190,7 +190,7 @@ Essa equação me permite descobrir a velocidade e o deslocamento sem precisar d
 
 
 **Sorvete**  → S = S₀ + vt → Serve para calcular a velocidade e a aceleração 
-**Sorvetão** → S = S₀ + vt at/2
+**Sorvetão** → a = S₀ + vt at/2
 **Vovô Ateu** → v = v₀ + at
 **Vi você e mais dois num triângulo sexual** → v² = v₀² + 2 a ▲S
 
