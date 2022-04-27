@@ -10,9 +10,9 @@ A mesopotamia é parte da Asia, entre dois mares, o Mar mediterrâneo e o mar Pe
 Claro que nessa mesma região, existe a Crescente Fértil, marcada em verde, mas ela não é a mesopotamia, ela vai da Babilonia até o Egito. Enquanto a mesopotamia é somente entre os rios Tigre e Eufrades.
 
 Como pode ver, a geografia do lugar mostra que existem montanhas ao norte, essas montranhas com o tempo descongelam as geleiras e enchem os rios, fazendo os povos da Mesopotamia ter que lidar com esse problema.
-Logo eles tiveram que se tornar uma região hidraulica, com desvios desses rios para lagos, se protegendo dessa água. O que fomenta a agricultura e tecnologia desses povos.
+Logo eles tiveram que se tornar uma região hidraulica, com desvios desses rios para lagos, se protegendo dessa água. O que fomenta a agricultura e tecnologia desses povos, se transformando na principal atividade economica desses povos e mais para frente gerando economia por moeda para as vendas e compras. Complicado andar com 100kg de comida.
 
-Esse povo era estamental.
+Esse povo era estamental. O que quer dizer que se você nasce camponez, morre camponez.
 
 **![[Pasted image 20220427190633.png]]**
 
