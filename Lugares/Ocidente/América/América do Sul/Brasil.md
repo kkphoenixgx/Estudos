@@ -14,12 +14,12 @@ Presidencialismo → Tem presidente
 |Âmbito| Legislativo | Executivo | Judiciário|
 |--------|--------|------|--------|
 | Brasil  | Congresso | Presidencia | STF |
-| Federal  | Câmera dos deputados e congresso nascional → Deputados e Senadores | Presidente e ministérios | 11 ministros (Juízes) de cada Tribunal|
-| Estado  | Congresso | Governador e secretarias | STF |
+| Federal  | Câmera dos deputados e congresso nascional → Deputados Federais e Senadores | Presidente e ministérios | 11 ministros (Juízes) de cada Tribunal|
+| Estado  | Deputado estadual | Governador e secretarias | STF |
 | Cidades  | Congresso | Prefeitos | STF |
 | Municípios  | Congresso | Vereadores | STF |
 
-|Ministério p|
+*  **Ministério público federal**  → Supervisiona todo mundo  → Procurador oficial da República
 
 Ministérios do poder executivo ou secretarias do poder executivo
 * Educação
