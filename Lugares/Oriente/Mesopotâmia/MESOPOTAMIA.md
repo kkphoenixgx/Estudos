@@ -10,13 +10,19 @@ A mesopotamia é parte da Asia, entre dois mares, o Mar mediterrâneo e o mar Pe
 Claro que nessa mesma região, existe a Crescente Fértil, marcada em verde, mas ela não é a mesopotamia, ela vai da Babilonia até o Egito. Enquanto a mesopotamia é somente entre os rios Tigre e Eufrades.
 
 Como pode ver, a geografia do lugar mostra que existem montanhas ao norte, essas montranhas com o tempo descongelam as geleiras e enchem os rios, fazendo os povos da Mesopotamia ter que lidar com esse problema.
-Logo eles tiveram que se tornar uma região hidraulica, com desvios desses rios para lagos, se protegendo dessa água. O que fomenta a agricultura e tecnologia desses povos
+Logo eles tiveram que se tornar uma região hidraulica, com desvios desses rios para lagos, se protegendo dessa água. O que fomenta a agricultura e tecnologia desses povos.
+
+Esse povo era estamental.
+
+**![[Pasted image 20220427190633.png]]**
+
+Sacerdotes da mesopotamia eram ou Reis ou sacerdotes mesmo, sendo eles geralemnte bons astronomos, sustentados no poder com a desculpa que eram mais proxímos de deus.
 
 ## Sociedades da mesopotamia 
 
 Na mesopotamia temos os povos espalhados como o sistema de freio ABS XD. E temos que entender que essas e suas peculiaridades. Leia do ultimo para o primeiro, simulando uma escada desses povos no mapa da mesopotamia.
 
-Importante lembrar que a economia principal de todos é a agricultura, eles vivem perto do rio ju
+Importante lembrar que a economia principal atividade economica de todos é a agricultura, eles vivem perto do rio justamente pela agricultura.
 
 ### Asirios do norte
 
@@ -35,3 +41,5 @@ A escrita criada por esse povo surgiu a partir da necessidade de catalogar os al
 
 -----------------------------------------------
 ## Bibliografia
+
+https://plataforma.seliga.com.br/aula/984f72e0-eabf-11e9-8513-cf8f399c3227;missao_id=7c9eae50-4179-11ec-b8c7-651375789f7b;plano_id=83044210-4177-11ec-8f00-a746b13d8695
