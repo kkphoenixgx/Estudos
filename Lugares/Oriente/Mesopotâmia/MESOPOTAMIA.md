@@ -12,19 +12,25 @@ Claro que nessa mesma região, existe a Crescente Fértil, marcada em verde, mas
 Como pode ver, a geografia do lugar mostra que existem montanhas ao norte, essas montranhas com o tempo descongelam as geleiras e enchem os rios, fazendo os povos da Mesopotamia ter que lidar com esse problema.
 Logo eles tiveram que se tornar uma região hidraulica, com desvios desses rios para lagos, se protegendo dessa água. O que fomenta a agricultura e tecnologia desses povos
 
-
 ## Sociedades da mesopotamia 
 
 Na mesopotamia temos os povos espalhados como o sistema de freio ABS XD. E temos que entender que essas e suas peculiaridades. Leia do ultimo para o primeiro, simulando uma escada desses povos no mapa da mesopotamia.
 
+Importante lembrar que a economia principal de todos é a agricultura, eles vivem perto do rio ju
+
 ### Asirios do norte
+
+Os Asírios foram conhecidos pela arte da violência e da guerra, cortavam os olhos de seus inimigos e colocavam fogo em todos que estivessem no seu caminho, tacando os olhos arrancados de seus inimigos nas cidades que iriam enfrentar, faziam a trombeta da guerra soar. Eles até mesmo criaram ferro antes de todos os outros povos, enquanto todo mundo tava no Bronse.
 
 ### Babilonicos do centro
 
+Os Babilonicos eram conhecidos pela legislação. Esses criaram um conjunto de regras em tábuas. Sobre o Comando de Amurab
+
 ### Sumérios do Sul
 
-Os sumérios é um povo muito antigo, entre os três o mais antigo, o que destaca esses povos é que eles tem uma produção de alimentos e uma pecuária muito interessante, até hoje isso marca essa civilização. Então a sua base econômica é pela agricultura fazendo escambo, porém não é somente isso que eles possuem. É evidente que eles tem uma política que se diferencia dos locais povos, esses não tem um poder centralizado em alguém, nos babillonicos e nos Asirios existe um rei que centraliza o poder, porém os Sumérios é um povo que cada cidade possuí sua própria forma de se organizar, parecidas com cidades estados.
-A escrita criada por esse povo foi 
+Os sumérios é um povo muito antigo, entre os três o mais antigo, o que destaca esses povos é que eles tem uma produção de alimentos e uma pecuária muito interessante, até hoje isso marca essa civilização. Então a sua base econômica é pela agricultura fazendo escambo, porém não é somente isso que eles possuem. É evidente que eles tem uma política que se diferencia dos locais povos, esses não tem um poder centralizado em alguém, nos babillonicos e nos Asirios existe um rei que centraliza o poder, porém os Sumérios é um povo que cada cidade possuí sua própria forma de se organizar, parecidas com cidades estados, com sacerdotes governando. O que na época, fazia esse povo ser mais good vibes.
+
+A escrita criada por esse povo surgiu a partir da necessidade de catalogar os alimentos produzidos e catalogar os escambos e as vendas na região. Fomentando cada vez mais a ciência. Sem demorar muito a mesma criou a astronomia nesses povos para controlar as estações do ano melhor e saber ler melhoros períodos de coleta e plantação.
 
 
 -----------------------------------------------
