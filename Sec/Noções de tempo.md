@@ -21,3 +21,14 @@ O tempo pode ser dividido pelos grandes Periodos além dos séculos
 * Idade Média = V
 * Idade Moderna = XV
 *  Idade Contemporânea = XIII
+
+## Para entendermos uma sociedade
+
+6 elementos para entender qualquer sociedade.
+
+* Entenda a Região
+* A política
+* Economia
+* A sociedade
+* Religião
+* A cultura

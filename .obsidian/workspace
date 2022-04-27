@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a5fd9830b5f41be2",
+        "id": "a19c1a7ec0705721",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Math/Funções.md",
+            "file": "Lugares/Oriente/Mesopotâmia/MESOPOTAMIA.md",
             "mode": "source",
             "source": false
-          }
+          },
+          "pinned": true
         }
       }
     ],
@@ -113,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Math/Funções.md",
+                "file": "Lugares/Oriente/Mesopotâmia/MESOPOTAMIA.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Math/Funções.md",
+                "file": "Lugares/Oriente/Mesopotâmia/MESOPOTAMIA.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Math/Funções.md",
+                "file": "Lugares/Oriente/Mesopotâmia/MESOPOTAMIA.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -186,8 +188,10 @@
     "direction": "horizontal",
     "width": 223.9852752685547
   },
-  "active": "a5fd9830b5f41be2",
+  "active": "a19c1a7ec0705721",
   "lastOpenFiles": [
+    "Lugares/Oriente/Mesopotâmia/MESOPOTAMIA.md",
+    "Sec/Noções de tempo.md",
     "Conceitos/Math/Funções.md",
     "Lugares/Ocidente/América/América do Sul/Brasil.md",
     "Conceitos/Linguagens/Português do Brasil/Portugês do Brasil.md",
@@ -195,8 +199,6 @@
     "Conceitos/Fisica/Resumo de Cinemática.md",
     "Conceitos/Fisica/Movimento → Cinemática.md",
     "img/Pasted image 20220425163515.png",
-    "Pasted image 20220425163511.png",
-    "Pasted image 20220425163451.png",
-    "Conceitos/Fisica/Fisica.md"
+    "Pasted image 20220425163511.png"
   ]
 }
