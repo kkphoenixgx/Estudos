@@ -16,7 +16,11 @@ Esse povo era estamental.
 
 **![[Pasted image 20220427190633.png]]**
 
-Sacerdotes da mesopotamia eram ou Reis ou sacerdotes mesmo, sendo eles geralemnte bons astronomos, sustentados no poder com a desculpa que eram mais proxímos de deus.
+Sacerdotes da mesopotamia eram ou Reis ou sacerdotes mesmo, sendo eles geralemnte bons astronomos, sustentados no poder com a desculpa que eram mais proxímos de deus. E o interessante disso é que essa era uma sociedade politeísta e justamente por isso a adesão de novos deuses era algo comum, respeitado e que mesclavam muitas vezes a cultura local
+
+Justamente por temos sacerdotes nessas cidades, que tinhamos templos gigantescos para eles se comunicarem com os astros, chamados de Zigurate
+
+![[Pasted image 20220427191643.png]]
 
 ## Sociedades da mesopotamia 
 
@@ -30,7 +34,11 @@ Os Asírios foram conhecidos pela arte da violência e da guerra, cortavam os ol
 
 ### Babilonicos do centro
 
-Os Babilonicos eram conhecidos pela legislação. Esses criaram um conjunto de regras em tábuas. Sobre o Comando de Amurab
+Os Babilonicos eram conhecidos pela legislação. Esses criaram um conjunto de regras em tábuas. Sobre o Comando de Amurab. Essa escrita era feita na argila e esquentada, se tornando impossível apagar após esquentar, chamada de **escrita cuneiforme**.
+
+Na Babilônia temos também os Jardins suspensos da Babilônia que eram jardins feitos em cima de estruturas. Mucho lindo lindo, pena que hoje sumiu
+
+![[Pasted image 20220427191434.png]]
 
 ### Sumérios do Sul
 
