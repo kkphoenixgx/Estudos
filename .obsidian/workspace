@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a19c1a7ec0705721",
+        "id": "dbc7470a48a2a340",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lugares/Oriente/Mesopotâmia/MESOPOTAMIA.md",
+            "file": "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura Brasileira.md",
             "mode": "source",
             "source": false
-          },
-          "pinned": true
+          }
         }
       }
     ],
@@ -115,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lugares/Oriente/Mesopotâmia/MESOPOTAMIA.md",
+                "file": "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura Brasileira.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -158,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lugares/Oriente/Mesopotâmia/MESOPOTAMIA.md",
+                "file": "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura Brasileira.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lugares/Oriente/Mesopotâmia/MESOPOTAMIA.md",
+                "file": "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura Brasileira.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -188,8 +186,9 @@
     "direction": "horizontal",
     "width": 223.9852752685547
   },
-  "active": "a19c1a7ec0705721",
+  "active": "dbc7470a48a2a340",
   "lastOpenFiles": [
+    "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura Brasileira.md",
     "Lugares/Oriente/Mesopotâmia/MESOPOTAMIA.md",
     "Pasted image 20220427190540.png",
     "Sec/Noções de tempo.md",
@@ -198,7 +197,6 @@
     "Conceitos/Linguagens/Português do Brasil/Portugês do Brasil.md",
     "Conceitos/Linguagens/Português do Brasil/Gramática/Semântica/Generos textuais/Redação.md",
     "Conceitos/Fisica/Resumo de Cinemática.md",
-    "Conceitos/Fisica/Movimento → Cinemática.md",
-    "img/Pasted image 20220425163515.png"
+    "Conceitos/Fisica/Movimento → Cinemática.md"
   ]
 }
