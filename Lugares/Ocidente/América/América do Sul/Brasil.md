@@ -11,13 +11,11 @@ A divisão de poderes no Brasil é feita a partir do Método de Montesquieu, ou 
 * Judiciário → Pune e se assegura que as leis estão sendo cumpridas
 
 Presidencialismo → Tem presidente
-|Âmbito| Legislativo | Executivo | Judiciário|
+| Esfera | Legislativo | Executivo | Judiciário|
 |--------|--------|------|--------|
-| Brasil  | Congresso | Presidencia | STF |
-| Federal  | Câmera dos deputados e congresso nascional → Deputados Federais e Senadores | Presidente e ministérios | 11 ministros (Juízes) de cada Tribunal|
-| Estado  | Deputado estadual | Governador e secretarias | STF |
-| Cidades  | Congresso | Prefeitos | STF |
-| Municípios  | Congresso | Vereadores | STF |
+| Federal  | Congresso = Câmera dos deputados e congresso nascional → **Deputados Federais** e **Senadores** ( 3 por estado) | Presidencia = **Presidente** e ministérios | STF = 11 ministros (Juízes) de cada **Tribunal**|
+| Estado  | Deputados estaduais | Governador estadual e secretarias | --- |
+| Municipal  | Vereador | Prefeito | --- |
 
 *  **Ministério público federal**  → Supervisiona todo mundo  → Procurador oficial da República
 
