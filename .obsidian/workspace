@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "873b8f731cf733d9",
+        "id": "a5fd9830b5f41be2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Lugares/Ocidente/América/América do Sul/Brasil.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -113,7 +109,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lugares/Ocidente/América/América do Sul/Brasil.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lugares/Ocidente/América/América do Sul/Brasil.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +167,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lugares/Ocidente/América/América do Sul/Brasil.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +179,7 @@
     "direction": "horizontal",
     "width": 223.9852752685547
   },
-  "active": "873b8f731cf733d9",
+  "active": "a5fd9830b5f41be2",
   "lastOpenFiles": [
     "Lugares/Ocidente/América/América do Sul/Brasil.md",
     "Conceitos/Linguagens/Português do Brasil/Portugês do Brasil.md",
