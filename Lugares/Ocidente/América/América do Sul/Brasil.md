@@ -24,6 +24,7 @@ Ministérios do poder executivo ou secretarias do poder executivo
 * Ciência e Tecnolgia
 * Saúde
 * Segurança Pública
+* Ministério da Justiça
 * Economia
 * (Pode se adicionar mais)
 
