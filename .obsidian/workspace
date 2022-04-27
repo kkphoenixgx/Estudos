@@ -7,8 +7,12 @@
         "id": "a5fd9830b5f41be2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Conceitos/Math/Funções.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -109,6 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Conceitos/Math/Funções.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -151,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Conceitos/Math/Funções.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Conceitos/Math/Funções.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -181,6 +188,7 @@
   },
   "active": "a5fd9830b5f41be2",
   "lastOpenFiles": [
+    "Conceitos/Math/Funções.md",
     "Lugares/Ocidente/América/América do Sul/Brasil.md",
     "Conceitos/Linguagens/Português do Brasil/Portugês do Brasil.md",
     "Conceitos/Linguagens/Português do Brasil/Gramática/Semântica/Generos textuais/Redação.md",
@@ -189,7 +197,6 @@
     "img/Pasted image 20220425163515.png",
     "Pasted image 20220425163511.png",
     "Pasted image 20220425163451.png",
-    "Conceitos/Fisica/Fisica.md",
-    "Conceitos/Linguagens/Português do Brasil/Literatura/Prosa e Poesia.md"
+    "Conceitos/Fisica/Fisica.md"
   ]
 }
