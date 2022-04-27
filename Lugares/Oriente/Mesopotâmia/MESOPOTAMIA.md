@@ -15,13 +15,16 @@ Logo eles tiveram que se tornar uma região hidraulica, com desvios desses rios 
 
 ## Sociedades da mesopotamia 
 
-Na mesopotamia temos os povos espalhados como o sistema de freio ABS XD. E temos que entender que essas e suas peculiaridades
+Na mesopotamia temos os povos espalhados como o sistema de freio ABS XD. E temos que entender que essas e suas peculiaridades. Leia do ultimo para o primeiro, simulando uma escada desses povos no mapa da mesopotamia.
 
 ### Asirios do norte
 
 ### Babilonicos do centro
 
 ### Sumérios do Sul
+
+Os sumérios é um povo muito antigo, entre os três o mais antigo, o que destaca esses povos é que eles tem uma produção de alimentos e uma pecuária muito interessante, até hoje isso marca essa civilização. Então a sua base econômica é pela agricultura fazendo escambo, porém não é somente isso que eles possuem. É evidente que eles tem uma política que se diferencia dos locais povos, esses não tem um poder centralizado em alguém, nos babillonicos e nos Asirios existe um rei que centraliza o poder, porém os Sumérios é um povo que cada cidade possuí sua própria forma de se organizar, parecidas com cidades estados.
+A escrita criada por esse povo foi 
 
 
 -----------------------------------------------
