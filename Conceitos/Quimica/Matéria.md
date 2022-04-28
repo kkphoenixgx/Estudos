@@ -5,4 +5,7 @@ tags: [[Quimica]]
 
 ## Reações químicas
 
-Existem dois tipos de classificação par
+Existem dois tipos de classificação para reações químicas
+
+-----------------------------------------------
+## Bibliografia
