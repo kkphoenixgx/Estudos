@@ -31,23 +31,23 @@ Podemos dividir a Literatura em periodos.
 
 Terminou com o fim da Roma
 
-## Medieval -  século XII
+### Medieval -  século XII
 
-### Trovadorismo
+#### Trovadorismo
 Arte dionisíaca
 
 * Cantigas 
 * Descrição do Brasil para portugal
 
-### Humanismo
+#### Humanismo
 Arte apolinica
 
 * Retomada menor dos textos da Grécia, então se torna  uma arte mais Apolinica
 
 
-## Era clássica - XVI
+### Era clássica - XVI
 
-### Renascimento Século XVI
+#### Renascimento Século XVI
 Arte Apolinica
 
 Já na Idade Média o que foi marcado foi o periodo renascentista, o Renascimento, a concretização do trovadorismo e humanismo buscando a simetria.
@@ -60,7 +60,7 @@ Arte Apolínea **Quinhentismo ou Literatura de Informação**
 
 Retomada do estilo do Periodo Clássico com o trovadorismo, descrevendo a terra Brasileira e mandando para a Europa a descrição
 
-### Barroco
+#### Barroco
 Arte Dionisica
 
 Tendencia religiosa onde a culpa é muito forte. Começa com a morte de Camões em Portugal e é um periodo que Portugal estava em domínio Espanhol.
@@ -70,18 +70,19 @@ Tendencia religiosa onde a culpa é muito forte. Começa com a morte de Camões 
 Se contrapõe a razão do Renascimento
 * A presopopeia
 
-### Arcadismo Neo Classissísmo Século XVIII
+#### Arcadismo Neo Classissísmo Século XVIII
 Arte Apolinea
 
 Retomada do Classisismo com o Iluminismo (1753)
 
-### Arcadismo no Brasil
+##### Arcadismo no Brasil
 * Obras poéticas
 
-## Era Romantica
+
+### Era Romantica
 Quebra total com o passado
 
-### Romantismo
+#### Romantismo
 Arte Dionisíaca
 
 Um extremo Dionisíaco. é o periodo que neguin se matava por amor no OH MINHA AMADA! ;-; Sentimentalismo, indivídualismo.
@@ -93,10 +94,13 @@ Um extremo Dionisíaco. é o periodo que neguin se matava por amor no OH MINHA A
 * Suspiro poético de saudade
 
 
-### Realismo - século XIX
+#### Realismo - século XIX
 Arte apolínia
 
-### Realismo no Brasil
+
+
+#### Realismo no Brasil
+* Memorias postulas de Brazcubas de Machado de Assis
 
 #### Naturalismo 
 #### Parnasianismo
@@ -107,6 +111,44 @@ Arte apolínia
 No Brasil, Começou com a Semana da arte moderna de 22
 
 -----------------------------------------------
+
+## literatura em Portugal
+
+### Era Medieval
+
+* Trovadorismo e Humanismo
+
+### Era clássica
+
+* Classissismo
+* Barroco
+* Arcadismo
+
+### Era Romantica ou Moderna
+
+* Romantism
+* Realismo
+* Simbolismo
+* Modernismo
+
+## Literatura Brasileira
+
+### Periodo Colonial
+
+* Quinhentismo
+* Barroco
+* Arcadismo
+
+### Periodo Nacional
+
+* Romantismo
+* Realismo
+	* Naturalismo
+	* Parnasianismo
+* Simbolismo
+* Pré-Modernsimo
+* Modernismo
+
 ## Bibliografia
 
 Aula do se liga:
