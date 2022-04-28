@@ -82,7 +82,7 @@ A partir desse ponto entramos no Periodo nacional da Literatura Brasileira entã
 ### Era Romantica
 Quebra total com o passado.
 
-#### Romantismo
+#### Romantismo - século XVI
 Arte Dionisíaca. Roptura total com a arte Apolinia
 
 * Começa em Portugal com Camões de Almeida Garreti
@@ -93,27 +93,29 @@ Um extremo Dionisíaco. é o periodo que neguin se matava por amor no OH MINHA A
 #### Realismo - século XIX
 Arte apolínia. Veja a realidade, de uma maneira imparcial e objetiva.
 
-* Começa com 
-*  Realismo no Brasil começa com Memorias postulas de Brazcubas de Machado de Assis
+* Começa em Portugal com a questão Coimbrã (1865)
+*  Realismo no Brasil começa com Memórias postulas de Brazcubas de Machado de Assis
 
 ##### Naturalismo 
 Arte Apolinia
-
 ##### Parnasianismo
 Arte Apolinia
-
 Discrição de objetos OH MINHA CANETA ELA NÃO ESCREVE COMO ANTES
 
-#### Simbolismo
-Arte Aopolinia
+#### Simbolismo - século XIX
+Arte Dionisiaca. Penetrar nas camadas mais profundas do subconscniente. Retomada mais profunda do romantismo (1890)
 
-* Pré-Modernismo (Brasil sem Simbolismo)
+* O aristo de Eugenio de Castro  
+* No brasil temos Cruzes Souza
+
+* **Pré-Modernismo** (Brasil sem Simbolismo)
 
 No brasil O simbolismo não foi tão importante, com o apego ao Parnasianismo, estavamos já numa época de Modernismo praticamnte, não tivemos essa quebra da Arte Dionisia
 
-#### Modernismo
-Arte Dionisiaca. Roptura com a escrita academica
+#### Modernismo - século XX
+Roptura com a escrita academica. Dificil de dizer qual tipo de arte é
 
+* Revista Orfeu - 1915
 * No Brasil, Começou com a Semana da arte moderna de 1922
 
 -----------------------------------------------
