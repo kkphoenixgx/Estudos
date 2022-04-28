@@ -1,11 +1,12 @@
 # O que fazer
 2022-04-27
-tags: #IMPORTANT 
+tags: #IMPORTANT
 
--[ ] Questões de Física sobre cinemática #todo
--[ ] Faz um simulado #todo
--[ ] Revisar logarítimo #todo
--[ ] Aprender Função logarítima #todo
+#todo
+- [ ] Questões de Física sobre cinemática 
+- [ ] Faz um simulado 
+- [ ] Revisar logarítimo 
+- [ ] Aprender Função logarítima 
 
 
 ## Links

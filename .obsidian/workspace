@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7cd57a84d275bdc",
+        "id": "966b28b0e4fca5d2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "O que fazer.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -25,7 +21,7 @@
       {
         "id": "a1c4b7f2c853ba67",
         "type": "tabs",
-        "dimension": 71.18155619596543,
+        "dimension": 69.23076923076923,
         "children": [
           {
             "id": "c7f1036188dabcfd",
@@ -41,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,13 +56,21 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "af56de7aabf76acc",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ]
       },
       {
         "id": "50dab862316bd7a8",
         "type": "tabs",
-        "dimension": 28.818443804034576,
+        "dimension": 30.76923076923077,
         "children": [
           {
             "id": "ee6bfe23909d3553",
@@ -113,7 +117,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "O que fazer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -136,22 +139,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.32133638605036224,
-                  "close": false
+                  "scale": 0.16348370567220694,
+                  "close": true
                 }
               }
             }
-          },
-          {
-            "id": "af56de7aabf76acc",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "2ea49873ca7b06d5",
@@ -164,7 +159,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que fazer.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +175,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que fazer.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -194,8 +187,9 @@
     "direction": "horizontal",
     "width": 223.9852752685547
   },
-  "active": "f7cd57a84d275bdc",
+  "active": "966b28b0e4fca5d2",
   "lastOpenFiles": [
+    "Untitled.md",
     "O que fazer.md",
     "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura e Literatura Brasileira.md",
     "Conceitos/Linguagens/Português do Brasil/Portugês do Brasil.md",
@@ -204,7 +198,6 @@
     "Lugares/Oriente/Mesopotâmia/MESOPOTAMIA.md",
     "Pasted image 20220427190540.png",
     "Conceitos/Math/Funções.md",
-    "Lugares/Ocidente/América/América do Sul/Brasil.md",
-    "Conceitos/Linguagens/Português do Brasil/Gramática/Semântica/Generos textuais/Redação.md"
+    "Lugares/Ocidente/América/América do Sul/Brasil.md"
   ]
 }
