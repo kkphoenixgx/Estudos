@@ -44,25 +44,37 @@ Arte apolinica
 
 * Retomada menor dos textos da Grécia, então se torna  uma arte mais Apolinica
 
-## Idade Média -  Era clássica 
 
-### Renascimento
+## Era clássica
+
+### Renascimento Século XVI
 Arte Apolinica
 
 Já na Idade Média o que foi marcado foi o periodo renascentista, o Renascimento, a concretização do trovadorismo e humanismo buscando a simetria.
 
+#### Renascimento em Portugal (Classissismo)
+Arte Apolínia chamada de  Classissismo
 
-### Classissismo
+####  Renascimento no Brasil (Quinhentismo)
+Arte Apolínea **Quinhentismo ou Literatura de Informação**
 
-#### Literatura de Informação
-
-###  Quinhentismo
-
-Retomada do estilo do Periodo Clássico
+Retomada do estilo do Periodo Clássico com o trovadorismo, descrevendo a terra Brasileira e mandando para a Europa a descrição
 
 * A prosopopeia
 
+
 ### Barroco
+Arte Dionisica
+
+Tendencia religiosa onde a culpa é muito forte. Começa com a morte de Camões em Portugal e é um periodo que Portugal estava 
+
+### Arcadismo Neo Classissísmo Século XVIII
+Arte 
+
+Retomada do Classisismo
+
+#### Barroco no Brasil
+
 ### Neo-Clássissismo ou Arcadismo
 ### Romantismo
 ### Realismo, Naturalismo e Parnasianismo
