@@ -161,3 +161,6 @@ Roptura com a escrita academica. Dificil de dizer qual tipo de arte é
 
 Aula do se liga:
 https://plataforma.seliga.com.br/aula/6386c3a0-06e0-11ea-b612-05fa80ce8144;missao_id=c1447e50-4178-11ec-a5e5-29901cea0cc6;plano_id=83044210-4177-11ec-8f00-a746b13d8695
+
+https://plataforma.seliga.com.br/aula/b02aced0-0a25-11ea-8dbd-d73b8b698168;missao_id=7c9eae50-4179-11ec-b8c7-651375789f7b;plano_id=83044210-4177-11ec-8f00-a746b13d8695
+
