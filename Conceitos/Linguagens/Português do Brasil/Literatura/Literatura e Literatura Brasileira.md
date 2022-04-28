@@ -45,7 +45,7 @@ Arte apolinica
 * Retomada menor dos textos da Grécia, então se torna  uma arte mais Apolinica
 
 
-## Era clássica
+## Era clássica - XVI
 
 ### Renascimento Século XVI
 Arte Apolinica
@@ -60,24 +60,47 @@ Arte Apolínea **Quinhentismo ou Literatura de Informação**
 
 Retomada do estilo do Periodo Clássico com o trovadorismo, descrevendo a terra Brasileira e mandando para a Europa a descrição
 
-* A prosopopeia
-
-
 ### Barroco
 Arte Dionisica
 
-Tendencia religiosa onde a culpa é muito forte. Começa com a morte de Camões em Portugal e é um periodo que Portugal estava 
-
-### Arcadismo Neo Classissísmo Século XVIII
-Arte 
-
-Retomada do Classisismo
+Tendencia religiosa onde a culpa é muito forte. Começa com a morte de Camões em Portugal e é um periodo que Portugal estava em domínio Espanhol.
 
 #### Barroco no Brasil
 
-### Neo-Clássissismo ou Arcadismo
+Se contrapõe a razão do Renascimento
+* A presopopeia
+
+### Arcadismo Neo Classissísmo Século XVIII
+Arte Apolinea
+
+Retomada do Classisismo com o Iluminismo (1753)
+
+### Arcadismo no Brasil
+* Obras poéticas
+
+## Era Romantica
+Quebra total com o passado
+
 ### Romantismo
-### Realismo, Naturalismo e Parnasianismo
+Arte Dionisíaca
+
+Um extremo Dionisíaco. é o periodo que neguin se matava por amor no OH MINHA AMADA! ;-; Sentimentalismo, indivídualismo.
+
+* Camões de Almeida Garreti
+
+#### Romantismo no Brasil
+
+* Suspiro poético de saudade
+
+
+### Realismo - século XIX
+Arte apolínia
+
+### Realismo no Brasil
+
+#### Naturalismo 
+#### Parnasianismo
+
 ### Simbolismo
 ### Pré-Modernismo
 ### Modernismo
