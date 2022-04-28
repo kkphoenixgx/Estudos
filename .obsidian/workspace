@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "O que fazer.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -141,9 +141,17 @@
                 }
               }
             }
+          },
+          {
+            "id": "af56de7aabf76acc",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "2ea49873ca7b06d5",

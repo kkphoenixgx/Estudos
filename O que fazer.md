@@ -2,8 +2,10 @@
 2022-04-27
 tags: #IMPORTANT 
 
-() Questões de Física sobre cinemática
-() Faz um simulado
+-[ ] Questões de Física sobre cinemática #todo
+-[ ] Faz um simulado #todo
+-[ ] Revisar logarítimo #todo
+-[ ] Aprender Função logarítima #todo
 
 
 ## Links
