@@ -7,8 +7,12 @@
         "id": "966b28b0e4fca5d2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Conceitos/Quimica/Matéria.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -117,10 +121,11 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Conceitos/Quimica/Matéria.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 3,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -139,7 +144,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.16348370567220694,
+                  "scale": 0.16348370567220705,
                   "close": true
                 }
               }
@@ -159,6 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Conceitos/Quimica/Matéria.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,6 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Conceitos/Quimica/Matéria.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -189,6 +196,8 @@
   },
   "active": "966b28b0e4fca5d2",
   "lastOpenFiles": [
+    "Conceitos/Quimica/Matéria.md",
+    "Conceitos/Quimica/PH.md",
     "Untitled.md",
     "O que fazer.md",
     "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura e Literatura Brasileira.md",
@@ -196,8 +205,6 @@
     "Sec/Noções de tempo.md",
     "Conceitos/Linguagens/Português.md",
     "Lugares/Oriente/Mesopotâmia/MESOPOTAMIA.md",
-    "Pasted image 20220427190540.png",
-    "Conceitos/Math/Funções.md",
-    "Lugares/Ocidente/América/América do Sul/Brasil.md"
+    "Pasted image 20220427190540.png"
   ]
 }
