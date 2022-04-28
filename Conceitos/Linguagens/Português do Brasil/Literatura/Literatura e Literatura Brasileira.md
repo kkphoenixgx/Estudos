@@ -80,38 +80,41 @@ Retomada do Classisismo com o Iluminismo (1753)
 A partir desse ponto entramos no Periodo nacional da Literatura Brasileira então temos dentro das Eras e Estilos literários como aconteceu no Brasil 
 
 ### Era Romantica
-Quebra total com o passado
+Quebra total com o passado.
 
 #### Romantismo
-Arte Dionisíaca
+Arte Dionisíaca. Roptura total com a arte Apolinia
+
+* Começa em Portugal com Camões de Almeida Garreti
+* Romantismo no Brasil começa com Suspiros poéticos de saudade
 
 Um extremo Dionisíaco. é o periodo que neguin se matava por amor no OH MINHA AMADA! ;-; Sentimentalismo, indivídualismo.
 
-* Camões de Almeida Garreti
-
-#### Romantismo no Brasil
-
-* Suspiro poético de saudade
-
-
 #### Realismo - século XIX
-Arte apolínia
+Arte apolínia. Veja a realidade, de uma maneira imparcial e objetiva.
 
+* Começa com 
+*  Realismo no Brasil começa com Memorias postulas de Brazcubas de Machado de Assis
 
+##### Naturalismo 
+Arte Apolinia
 
-#### Realismo no Brasil
-* Memorias postulas de Brazcubas de Machado de Assis
+##### Parnasianismo
+Arte Apolinia
 
-#### Naturalismo 
-#### Parnasianismo
+Discrição de objetos OH MINHA CANETA ELA NÃO ESCREVE COMO ANTES
 
 #### Simbolismo
-##### Pré-Modernismo (Brasil sem Simbolismo)
+Arte Aopolinia
 
-No brasil O simbolismo não foi tão importante, com o apego ao Parnasianismo, esta
+* Pré-Modernismo (Brasil sem Simbolismo)
+
+No brasil O simbolismo não foi tão importante, com o apego ao Parnasianismo, estavamos já numa época de Modernismo praticamnte, não tivemos essa quebra da Arte Dionisia
 
 #### Modernismo
-No Brasil, Começou com a Semana da arte moderna de 22
+Arte Dionisiaca. Roptura com a escrita academica
+
+* No Brasil, Começou com a Semana da arte moderna de 1922
 
 -----------------------------------------------
 
