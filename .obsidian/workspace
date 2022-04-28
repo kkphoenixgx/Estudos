@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura Brasileira.md",
+            "file": "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura e Literatura Brasileira.md",
             "mode": "source",
             "source": false
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura Brasileira.md",
+                "file": "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura e Literatura Brasileira.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura Brasileira.md",
+                "file": "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura e Literatura Brasileira.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura Brasileira.md",
+                "file": "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura e Literatura Brasileira.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -188,7 +188,8 @@
   },
   "active": "dbc7470a48a2a340",
   "lastOpenFiles": [
-    "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura Brasileira.md",
+    "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura e Literatura Brasileira.md",
+    "Conceitos/Linguagens/Português.md",
     "Lugares/Oriente/Mesopotâmia/MESOPOTAMIA.md",
     "Pasted image 20220427190540.png",
     "Sec/Noções de tempo.md",
@@ -196,7 +197,6 @@
     "Lugares/Ocidente/América/América do Sul/Brasil.md",
     "Conceitos/Linguagens/Português do Brasil/Portugês do Brasil.md",
     "Conceitos/Linguagens/Português do Brasil/Gramática/Semântica/Generos textuais/Redação.md",
-    "Conceitos/Fisica/Resumo de Cinemática.md",
-    "Conceitos/Fisica/Movimento → Cinemática.md"
+    "Conceitos/Fisica/Resumo de Cinemática.md"
   ]
 }

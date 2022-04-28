@@ -1,4 +1,4 @@
-# Literatura Brasileira
+# Literatura e Literatura Brasileira
 2022-04-20
 tags: [[Portugês do Brasil]]
 
@@ -11,8 +11,14 @@ Para ele, isso trás prazer e conhecimento.
 
 A Literatura busca proporcionar **prazer** e **catarze**, assim como os Gregos pensavam na época de Aristóteles
 
-Catarze é basicamente um é um alívio de sentimentos que foram gerados pela leitura.
+Catarze é basicamente um é um alívio de sentimentos que foram gerados pela leitura. E essa catarse pode ser obtida em diferentes estilos de literatura, iremos então citar dois, que de acordo com o filosofo Nietchze pode ser divididos em dois tipos e essas duas categorias funcionam como uma moeda de  duas faces que é sempre virada, como um pendulo que vai e volta, um movimento pendular que possuí médias e que tem uma intersecção
 
+* Apolo = Mais razão = **Apoliniaca** 
+* Dionísio = mais subjetivo = **Dionísiaca**
+
+E eles ficam intercalando entre esses dois estilos
+
+---------------------------------------------
 * Eu lírico é quem fala na poezia.
 
 Podemos dividir a Literatura em periodos.
@@ -25,10 +31,16 @@ Podemos dividir a Literatura em periodos.
 
 Terminou com o fim da Roma
 
-### Renascimento
-Já na Idade Média o que foi marcado foi o periodo renascentista, o Renascimento, trovadorismo e humanismo
+### Humanismo
 
-### Classissismo (ou Quinhentismo no Brasil)
+* Trovadorismo
+* Cantigas 
+
+### Renascimento - Era clássica
+
+Já na Idade Média o que foi marcado foi o periodo renascentista, o Renascimento, a concretização do trovadorismo e humanismo
+
+### Classissismo (ou Quinhentismo  no Brasil)
 Retomada do estilo do Periodo Clássico
 
 ### Barroco

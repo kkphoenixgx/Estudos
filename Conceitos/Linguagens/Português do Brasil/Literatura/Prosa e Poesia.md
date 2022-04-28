@@ -1,6 +1,6 @@
 # Prosa e Poesia
 2022-04-24
-tags: [[Literatura Brasileira]] 
+tags: [[Literatura e Literatura Brasileira]] 
 
 * Prosa = texto
 * Poesia = Poesia
