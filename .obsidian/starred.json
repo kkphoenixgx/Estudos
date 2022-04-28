@@ -2,6 +2,11 @@
   "items": [
     {
       "type": "file",
+      "title": "O que fazer",
+      "path": "O que fazer.md"
+    },
+    {
+      "type": "file",
       "title": "Regras de Convivência",
       "path": "img/Regras de Convivência.md"
     },
