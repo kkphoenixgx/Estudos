@@ -31,17 +31,36 @@ Podemos dividir a Literatura em periodos.
 
 Terminou com o fim da Roma
 
-### Humanismo
+## Medieval -  século XII
 
-* Trovadorismo
+### Trovadorismo
+Arte dionisíaca
+
 * Cantigas 
+* Descrição do Brasil para portugal
 
-### Renascimento - Era clássica
+### Humanismo
+Arte apolinica
 
-Já na Idade Média o que foi marcado foi o periodo renascentista, o Renascimento, a concretização do trovadorismo e humanismo
+* Retomada menor dos textos da Grécia, então se torna  uma arte mais Apolinica
 
-### Classissismo (ou Quinhentismo  no Brasil)
+## Idade Média -  Era clássica 
+
+### Renascimento
+Arte Apolinica
+
+Já na Idade Média o que foi marcado foi o periodo renascentista, o Renascimento, a concretização do trovadorismo e humanismo buscando a simetria.
+
+
+### Classissismo
+
+#### Literatura de Informação
+
+###  Quinhentismo
+
 Retomada do estilo do Periodo Clássico
+
+* A prosopopeia
 
 ### Barroco
 ### Neo-Clássissismo ou Arcadismo
