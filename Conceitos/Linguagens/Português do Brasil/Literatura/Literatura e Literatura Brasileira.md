@@ -52,12 +52,11 @@ Arte Apolinica
 
 Já na Idade Média o que foi marcado foi o periodo renascentista, o Renascimento, a concretização do trovadorismo e humanismo buscando a simetria.
 
-#### Renascimento em Portugal (Classissismo)
+##### Renascimento em Portugal (Classissismo)
 Arte Apolínia chamada de  Classissismo
 
-####  Renascimento no Brasil (Quinhentismo)
-Arte Apolínea **Quinhentismo ou Literatura de Informação**
 
+*  **Renascimento no Brasil (Quinhentismo ou  literatura de informação)** = 
 Retomada do estilo do Periodo Clássico com o trovadorismo, descrevendo a terra Brasileira e mandando para a Europa a descrição
 
 #### Barroco
@@ -65,19 +64,20 @@ Arte Dionisica
 
 Tendencia religiosa onde a culpa é muito forte. Começa com a morte de Camões em Portugal e é um periodo que Portugal estava em domínio Espanhol.
 
-#### Barroco no Brasil
+ * Barroco no Brasil
+	 *  A presopopeia
 
-Se contrapõe a razão do Renascimento
-* A presopopeia
+
+
 
 #### Arcadismo Neo Classissísmo Século XVIII
 Arte Apolinea
 
 Retomada do Classisismo com o Iluminismo (1753)
-
-##### Arcadismo no Brasil
 * Obras poéticas
 
+
+A partir desse ponto entramos no Periodo nacional da Literatura Brasileira então temos dentro das Eras e Estilos literários como aconteceu no Brasil 
 
 ### Era Romantica
 Quebra total com o passado
@@ -105,9 +105,12 @@ Arte apolínia
 #### Naturalismo 
 #### Parnasianismo
 
-### Simbolismo
-### Pré-Modernismo
-### Modernismo
+#### Simbolismo
+##### Pré-Modernismo (Brasil sem Simbolismo)
+
+No brasil O simbolismo não foi tão importante, com o apego ao Parnasianismo, esta
+
+#### Modernismo
 No Brasil, Começou com a Semana da arte moderna de 22
 
 -----------------------------------------------
