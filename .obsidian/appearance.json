@@ -1,5 +1,6 @@
 {
   "interfaceFontFamily": "",
   "cssTheme": "Obsidianite",
-  "translucency": false
+  "translucency": false,
+  "baseFontSize": 16
 }

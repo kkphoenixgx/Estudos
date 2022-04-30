@@ -2,12 +2,16 @@
   "legacyEditor": false,
   "livePreview": true,
   "showLineNumber": true,
-  "spellcheck": false,
+  "spellcheck": true,
   "tabSize": 2,
   "vimMode": false,
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
   "promptDelete": false,
   "defaultViewMode": "source",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheckLanguages": [
+    "en-GB",
+    "pt-BR"
+  ]
 }
