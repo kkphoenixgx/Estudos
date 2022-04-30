@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "4ea3060fbda50da2",
+        "id": "2bd2225ceb92cd7a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Linguagens/Inglês/Aulas de Inglês/Resumo, lessons 1-5.md",
+            "file": "Pessoas/França/Durkheim.md",
             "mode": "source",
-            "backlinks": true,
+            "backlinks": false,
             "source": false
           }
         }
@@ -70,8 +70,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "50dab862316bd7a8",
@@ -123,11 +122,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Linguagens/Inglês/Aulas de Inglês/Resumo, lessons 1-5.md",
+                "file": "Pessoas/França/Durkheim.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
-                  "localJumps": 3,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -139,14 +138,14 @@
                   "collapse-display": false,
                   "showArrow": true,
                   "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 1.57740794928066,
+                  "nodeSizeMultiplier": 0.595257254328213,
                   "lineSizeMultiplier": 4.03636917824921,
-                  "collapse-forces": true,
+                  "collapse-forces": false,
                   "centerStrength": 0.258096269317846,
-                  "repelStrength": 17.3836007481051,
+                  "repelStrength": 8.10777859058766,
                   "linkStrength": 1,
-                  "linkDistance": 364,
-                  "scale": 0.11660891579457561,
+                  "linkDistance": 111,
+                  "scale": 0.6316046762907662,
                   "close": true
                 }
               }
@@ -166,9 +165,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Linguagens/Inglês/Aulas de Inglês/Resumo, lessons 1-5.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "Pessoas/França/Durkheim.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -183,30 +182,29 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Linguagens/Inglês/Aulas de Inglês/Resumo, lessons 1-5.md",
+                "file": "Pessoas/França/Durkheim.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 223.9852752685547
   },
-  "active": "4ea3060fbda50da2",
+  "active": "2bd2225ceb92cd7a",
   "lastOpenFiles": [
-    "Conceitos/Linguagens/Inglês/Aulas de Inglês/Resumo, lessons 1-5.md",
-    "Conceitos/Linguagens/Português do Brasil/Gramática/Gramática Brasileira.md",
-    "Conceitos/Sociologia/Sociologia.md",
+    "Pessoas/França/Durkheim.md",
     "Conceitos/Sociologia/Massificação Cultural.md",
     "Conceitos/Sociologia/Consumismo e cultura do consumo.md",
-    "Conceitos/Quimica/Matéria.md",
-    "Conceitos/Quimica/PH.md",
     "Untitled.md",
-    "O que fazer.md",
-    "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura e Literatura Brasileira.md"
+    "Untitled 1.md",
+    "Conceitos/Filosofia/Política e a Filosofia.md",
+    "Conceitos/Filosofia/Metafisica na Filosofia.md",
+    "Conceitos/Linguagens/Inglês/Aulas de Inglês/Resumo, lessons 1-5.md",
+    "Conceitos/Linguagens/Português do Brasil/Gramática/Gramática Brasileira.md",
+    "Conceitos/Sociologia/Sociologia.md"
   ]
 }
