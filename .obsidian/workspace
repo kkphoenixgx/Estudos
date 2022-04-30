@@ -126,26 +126,41 @@
                 "options": {
                   "collapse-filter": true,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 3,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
                   "showTags": true,
                   "showAttachments": true,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:Pessoas",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16711680
+                      }
+                    },
+                    {
+                      "query": "path:Conceitos",
+                      "color": {
+                        "a": 1,
+                        "rgb": 9175295
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
                   "textFadeMultiplier": -3,
                   "nodeSizeMultiplier": 0.595257254328213,
                   "lineSizeMultiplier": 4.03636917824921,
-                  "collapse-forces": false,
+                  "collapse-forces": true,
                   "centerStrength": 0.258096269317846,
                   "repelStrength": 8.10777859058766,
                   "linkStrength": 1,
                   "linkDistance": 111,
-                  "scale": 0.6316046762907662,
+                  "scale": 0.4505081176757966,
                   "close": true
                 }
               }
@@ -184,7 +199,7 @@
               "state": {
                 "file": "Pessoas/França/Durkheim.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -192,19 +207,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.9852752685547
+    "width": 259.9852294921875
   },
   "active": "2bd2225ceb92cd7a",
   "lastOpenFiles": [
     "Pessoas/França/Durkheim.md",
+    "img/Regras de Convivência.md",
+    "Lugares/Ocidente/Europa/França.md",
     "Conceitos/Sociologia/Massificação Cultural.md",
     "Conceitos/Sociologia/Consumismo e cultura do consumo.md",
     "Untitled.md",
     "Untitled 1.md",
     "Conceitos/Filosofia/Política e a Filosofia.md",
     "Conceitos/Filosofia/Metafisica na Filosofia.md",
-    "Conceitos/Linguagens/Inglês/Aulas de Inglês/Resumo, lessons 1-5.md",
-    "Conceitos/Linguagens/Português do Brasil/Gramática/Gramática Brasileira.md",
-    "Conceitos/Sociologia/Sociologia.md"
+    "Conceitos/Linguagens/Inglês/Aulas de Inglês/Resumo, lessons 1-5.md"
   ]
 }
