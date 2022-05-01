@@ -8,5 +8,9 @@ tags: #IMPORTANT
 - [ ] Revisar logarítimo 
 - [ ] Aprender Função logarítima 
 
+## Tópicos criativos
+
+* Sociedade patriarcal
+
 
 ## Links
