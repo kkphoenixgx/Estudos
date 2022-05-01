@@ -26,7 +26,6 @@
       {
         "id": "a1c4b7f2c853ba67",
         "type": "tabs",
-        "dimension": 69.23076923076923,
         "children": [
           {
             "id": "c7f1036188dabcfd",
@@ -62,21 +61,6 @@
               }
             }
           },
-          {
-            "id": "af56de7aabf76acc",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "50dab862316bd7a8",
-        "type": "tabs",
-        "dimension": 30.76923076923077,
-        "children": [
           {
             "id": "ee6bfe23909d3553",
             "type": "leaf",
@@ -164,6 +148,14 @@
                   "close": true
                 }
               }
+            }
+          },
+          {
+            "id": "af56de7aabf76acc",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           }
         ],
