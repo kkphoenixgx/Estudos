@@ -1,18 +1,5 @@
 {
   "legacyEditor": false,
   "livePreview": true,
-  "showLineNumber": true,
-  "spellcheck": true,
-  "tabSize": 2,
-  "vimMode": false,
-  "newFileLocation": "current",
-  "showUnsupportedFiles": true,
-  "promptDelete": false,
-  "defaultViewMode": "source",
-  "alwaysUpdateLinks": true,
-  "spellcheckLanguages": [
-    "en-GB",
-    "pt-BR"
-  ],
-  "smartIndentList": false
+  "promptDelete": false
 }
