@@ -35,7 +35,25 @@ Porém quando eles voltam para a Palestina já entra numa nova fase política na
 Como precisavam de mais diciplina para acabar com os povos que dominavam Canaã ( Cananaeus e Filisteus ) eles denominaram os juíses que são líderes maiores para lutar contra esses povos e daí saiu 
 
 * Isaú
-* Isaias
+* Josué
+* Samuel 
+	→ Samuel Samuel → Me chamo tio? → Nonono → Samuel Samuel , Deus? Isso memu, Escolhe um rei ai menor → Taporra, beleza, tu memo  Saú
+
+### Monarquia
+
+Rei Saú que vazou e o **Rei Davi** que fez diversas coisas para essa sociedade.
+
+* Rei Davi
+	* Cria Exercíto fixo
+	* Religião como base de leis
+* Salomão
+	* Templo de Salomão cobrando banstante imposto
+
+Daí Salomão teve dois filhos que dividiram essas tribos em duas partes, duas para um lado e 10 para o outro, Roboão e Geroboão, roboão com duas tribos e Geroboão com as outras 10 e isso é chamado de **O sisma hebraico** dês daí já tem o drama. Roboão forma judá e Geroboão forma 
+
+
+
+
 
 
 -----------------------------------------------
