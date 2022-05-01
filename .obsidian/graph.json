@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:IMPORTANT",
@@ -83,6 +83,13 @@
         "a": 1,
         "rgb": 8454282
       }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": true,
@@ -95,6 +102,6 @@
   "repelStrength": 19.8809523809524,
   "linkStrength": 1,
   "linkDistance": 156,
-  "scale": 0.030182895067324203,
-  "close": true
+  "scale": 0.4505081176757834,
+  "close": false
 }

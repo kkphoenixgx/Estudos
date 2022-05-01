@@ -7,8 +7,13 @@
         "id": "4b6be06189e2c4b4",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Conceitos/Sociologia/Antropologia.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -101,6 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Conceitos/Sociologia/Antropologia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -138,7 +144,7 @@
                   "repelStrength": 8.10777859058766,
                   "linkStrength": 1,
                   "linkDistance": 111,
-                  "scale": 0.45050811767580123,
+                  "scale": 0.32133638605037285,
                   "close": true
                 }
               }
@@ -153,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "2ea49873ca7b06d5",
@@ -166,6 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Conceitos/Sociologia/Antropologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,6 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Conceitos/Sociologia/Antropologia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -204,6 +212,7 @@
   },
   "active": "4b6be06189e2c4b4",
   "lastOpenFiles": [
+    "Conceitos/Sociologia/Antropologia.md",
     "Pessoas/-Povos/Persas.md",
     "Pessoas/-Povos/Fenicios (Cananeus).md",
     "O que fazer.md",
@@ -212,7 +221,6 @@
     "img/mediterraneo.jpg",
     "Lugares/Ocidente/Mediterrâneo.md",
     "Lugares/Roma.md",
-    "Pessoas/Belgica/Lévi-strauss.md",
-    "img/Rio jordão atual.png"
+    "Pessoas/Belgica/Lévi-strauss.md"
   ]
 }
