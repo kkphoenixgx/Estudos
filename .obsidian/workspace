@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bfb8e169cb95ffed",
+        "id": "07e8853eb0e2aa2d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pessoas/Belgica/Lévi-strauss.md",
+            "file": "Pessoas/-Povos/Hebreus.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pessoas/Belgica/Lévi-strauss.md",
+                "file": "Pessoas/-Povos/Hebreus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,7 +144,7 @@
                   "repelStrength": 8.10777859058766,
                   "linkStrength": 1,
                   "linkDistance": 111,
-                  "scale": 0.4505081176757978,
+                  "scale": 0.22920135941750158,
                   "close": true
                 }
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pessoas/Belgica/Lévi-strauss.md",
+                "file": "Pessoas/-Povos/Hebreus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pessoas/Belgica/Lévi-strauss.md",
+                "file": "Pessoas/-Povos/Hebreus.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -201,10 +201,10 @@
     "direction": "horizontal",
     "width": 259.9852294921875
   },
-  "active": "bfb8e169cb95ffed",
+  "active": "07e8853eb0e2aa2d",
   "lastOpenFiles": [
-    "Pessoas/Belgica/Lévi-strauss.md",
     "Pessoas/-Povos/Hebreus.md",
+    "Pessoas/Belgica/Lévi-strauss.md",
     "img/Rio jordão atual.png",
     "img/Região da Palestina.png",
     "Pasted image 20220501114706.png",

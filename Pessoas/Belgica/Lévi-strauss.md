@@ -18,11 +18,18 @@ Foi [[Ferdinand de Saussure]]  que fundou a linguistica, não queria saber da hi
 Então seguindo o Rumo de Ferdinand, Lévi irá pensar a antropologia como essa ideia, para ele a cultura é uma línguagem e a vida social como um sistema de signos. Quais são essas estruturas? É isso que ele estuda no estruturalismo.
 
 ## Obra fundamental
+
+
 ## Luta contra os pré-conceitos
+
+
 ## Mitos
 
 
 
 -----------------------------------------------
 ## Bibliografia
+
+https://www.youtube.com/watch?v=lJKX7jHmocA&t=619s
+
 ## Mapa Mental

@@ -12,7 +12,9 @@ E até hoje essa região tem muitos conflitos, é a  região mais disputada do m
 
 ## Política
 
-A política dos hebreus muda bastante conforme os anos justamente pelo tempo de existencia dessa civilização.
+A política dos hebreus muda bastante conforme os anos justamente pelo tempo de existencia dessa civilização. Ela começa bem descentrealizada e vai centralizando conforme o tempo passa
+
+### 
 
 
 
