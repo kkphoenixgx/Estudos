@@ -25,9 +25,21 @@ A política deles era **muito centralizada**. E o rei Sírio tinha uma ideia mui
 
 E isso é muito importante, pois tem mais dinheiro e menos guerra, guerra gasta dinheiro de mais ;-; 
 
-Inclusive se você olhar no mapa, eles não tinham rios no começo, o Golfo Persico não era tão bom assim e eles ganhavam dinheiro pelo comercio pela falta desse recurso agronomo gigantesco 
+## Economia
 
+Inclusive se você olhar no mapa, eles não tinham rios no começo, o Golfo Persico não era tão bom assim então **ganhavam dinheiro pelo comercio**, pela falta desse recurso agronomo gigantesco, faziam comércio inclusive, somente pela terra
+
+## Sociedade
+
+Estamental e eles valorizavam a guerra, não o comércio, os caras que se davam bem nessa sociedade eram os soldados.
+
+<img src="img/Soldado Persa.png" alt ="Persa" >
+
+![[Soldado Persa.png]]
 
 -----------------------------------------------
 ## Bibliografia
-## Mapa Ment
+
+https://plataforma.seliga.com.br/aula/f25ebcb0-eabf-11e9-82ed-d5c8c08aded4;missao_id=b2c2af90-4179-11ec-b558-01595fc30134;plano_id=83044210-4177-11ec-8f00-a746b13d8695
+
+## Mapa Mental
