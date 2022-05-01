@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pessoas/França/Tocqueville.md",
+            "file": "Pessoas/França/Durkheim.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pessoas/França/Tocqueville.md",
+                "file": "Pessoas/França/Durkheim.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pessoas/França/Tocqueville.md",
+                "file": "Pessoas/França/Durkheim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pessoas/França/Tocqueville.md",
+                "file": "Pessoas/França/Durkheim.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -211,8 +211,8 @@
   },
   "active": "5133725750224546",
   "lastOpenFiles": [
-    "Pessoas/França/Tocqueville.md",
     "Pessoas/França/Durkheim.md",
+    "Pessoas/França/Tocqueville.md",
     "-Templetes/Concept.md",
     "img/Regras de Convivência.md",
     "Lugares/Ocidente/Europa/França.md",
