@@ -85,14 +85,21 @@
       }
     },
     {
-      "query": "",
+      "query": "line:(Fisico)",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 13172480
+      }
+    },
+    {
+      "query": "line:(Filosofo)",
+      "color": {
+        "a": 1,
+        "rgb": 7381515
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.7625,
@@ -102,6 +109,6 @@
   "repelStrength": 19.8809523809524,
   "linkStrength": 1,
   "linkDistance": 156,
-  "scale": 0.4505081176757834,
-  "close": false
+  "scale": 0.22920135941749958,
+  "close": true
 }

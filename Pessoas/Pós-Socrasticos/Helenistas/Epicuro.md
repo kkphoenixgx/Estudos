@@ -1,4 +1,4 @@
 # Epicuro
 #pós-socrático #Helenista
 
-Viveu na [[Grécia Antiga]]
+Filosofo que viveu na [[Grécia Antiga]]

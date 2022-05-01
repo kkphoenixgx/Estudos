@@ -1,6 +1,6 @@
 # Persas
 2022-05-01
-tags: 
+tags:  [[Mediterrâneo]]
 
 Eles ficaram famosos pois perderam a guerra media contra os gregos mas essa população não é só isso. Ele se localizavam para o leste da mesopotâmia, começando no Golfo persico e indo dominando geral
 

@@ -1,4 +1,4 @@
 # Xenofanes de Cólofon
 #pré-srcráticos
 
-Xenofanes de Cólofon nasceu em Cólofon, na [[Grécia Antiga]]
+Xenofanes de Cólofon, Filosofo que nasceu em Cólofon, na [[Grécia Antiga]]

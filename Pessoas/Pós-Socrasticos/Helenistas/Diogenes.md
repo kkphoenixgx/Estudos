@@ -1,4 +1,4 @@
 # Diogenes Sinope
 #pós-socrático #Helenista 
 
-Viveu na [[Grécia Antiga]], na polis de Sinope
+Filosofo que viveu na [[Grécia Antiga]], na polis de Sinope
