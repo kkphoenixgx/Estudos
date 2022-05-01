@@ -16,11 +16,11 @@ Fatos sociais são coisas, podemos observar que podemos observar e experimentar.
 * Fato Coersitivo
 	Existe uma força para que você faça isso. Se você não fizer você pode ser punido por isso, dependendo do caso pode ser judicialmente, em outros casos você é mal visto por olhares e tentam te forçar a fazer isso.
 
-Para Durkheim a socialização e a educação é essencial para introduzir esses valores na gente. A sociedade tem meio que uma consciência coletiva que compartilha desses ideais e quanto mais unida essas ideias forem, melhor será,  menos problemática, todos devem ter uma ética parecida. Uma boa sociedade é aquela que possuí as instituições sociais (familia, educação e igreja) sejam solidas.
+Para Durkheim a socialização e a educação é essencial para introduzir esses valores na gente. A sociedade tem meio que uma consciência coletiva que compartilha desses ideais e quanto mais unida essas ideias forem,  será menos problemática a sociedade. Portanto Todos devem ter uma ética parecida para que as regras estejam coexistindo com a sociedade. Uma sociedade saldável é aquela que possuí as **instituições sociais (família, educação e igreja)** bem solidas.
 
 ## Anomia
 
-A anomia é justamente essa falta de regras, de acordo com Durkheim é justamente a anomia que vai acabar com a sociedade
+A anomia é justamente essa falta de regras gerado pela confusão dessas instituições sociais, de acordo com Durkheim é justamente a anomia que vai acabar com a sociedade. Essa anomia é o que gera as patologias da sociedade e essas patologias são normais, embora a desorganização das mesmas é algo horrível.
 
 
 

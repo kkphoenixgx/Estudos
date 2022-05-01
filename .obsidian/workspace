@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2bd2225ceb92cd7a",
+        "id": "7e6d48ad53dc9f35",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -209,9 +209,10 @@
     "direction": "horizontal",
     "width": 259.9852294921875
   },
-  "active": "2bd2225ceb92cd7a",
+  "active": "7e6d48ad53dc9f35",
   "lastOpenFiles": [
     "Pessoas/França/Durkheim.md",
+    "-Templetes/Concept.md",
     "img/Regras de Convivência.md",
     "Lugares/Ocidente/Europa/França.md",
     "Conceitos/Sociologia/Massificação Cultural.md",
@@ -219,7 +220,6 @@
     "Untitled.md",
     "Untitled 1.md",
     "Conceitos/Filosofia/Política e a Filosofia.md",
-    "Conceitos/Filosofia/Metafisica na Filosofia.md",
-    "Conceitos/Linguagens/Inglês/Aulas de Inglês/Resumo, lessons 1-5.md"
+    "Conceitos/Filosofia/Metafisica na Filosofia.md"
   ]
 }
