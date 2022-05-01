@@ -31,11 +31,19 @@ Inclusive se você olhar no mapa, eles não tinham rios no começo, o Golfo Pers
 
 ## Sociedade
 
-Estamental e eles valorizavam a guerra, não o comércio, os caras que se davam bem nessa sociedade eram os soldados.
+Estamental e eles valorizavam a guerra, não o comércio, os caras que se davam bem nessa sociedade eram os soldados. 300.000 soldados persas.
 
-<img src="img/Soldado Persa.png" alt ="Persa" >
 
 ![[Soldado Persa.png]]
+
+## Religião
+
+**Religião politeista** onde exitem duas forças, a força do bem e a do mal, a força da criação e a força da destruição que estão em constante embate. **Dualismo**.
+
+## Cultura
+
+Faziam jardins com fontes de água gigantes em regiões secas, chamadas de paradaise, e eles eram geniais nos tapetes, não é atoa que tem os tapetes persas
+
 
 -----------------------------------------------
 ## Bibliografia
