@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1d3db317523f621a",
+        "id": "d35e7045ae7f18f4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pessoas/-Povos/Fenicios (Cananeus).md",
+            "file": "Pessoas/-Povos/Persas.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pessoas/-Povos/Fenicios (Cananeus).md",
+                "file": "Pessoas/-Povos/Persas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,7 +144,7 @@
                   "repelStrength": 8.10777859058766,
                   "linkStrength": 1,
                   "linkDistance": 111,
-                  "scale": 0.45050811767580096,
+                  "scale": 0.16348370567221207,
                   "close": true
                 }
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pessoas/-Povos/Fenicios (Cananeus).md",
+                "file": "Pessoas/-Povos/Persas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pessoas/-Povos/Fenicios (Cananeus).md",
+                "file": "Pessoas/-Povos/Persas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -210,8 +210,9 @@
     "direction": "horizontal",
     "width": 259.9852294921875
   },
-  "active": "1d3db317523f621a",
+  "active": "d35e7045ae7f18f4",
   "lastOpenFiles": [
+    "Pessoas/-Povos/Persas.md",
     "Pessoas/-Povos/Fenicios (Cananeus).md",
     "O que fazer.md",
     "Pessoas/-Povos/Hebreus.md",
@@ -220,7 +221,6 @@
     "Lugares/Ocidente/Mediterrâneo.md",
     "Lugares/Roma.md",
     "Pessoas/Belgica/Lévi-strauss.md",
-    "img/Rio jordão atual.png",
-    "img/Região da Palestina.png"
+    "img/Rio jordão atual.png"
   ]
 }
