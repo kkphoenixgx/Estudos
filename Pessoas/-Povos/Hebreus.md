@@ -1,6 +1,6 @@
 # Hebreus
 2022-05-01
-tags:  [[]]
+tags:  [[Mediterrâneo]]
 
 Dizem que Abraão foi o primeiro hebreu e ele chamavam de hebri por ele ter atravessado o rio. Então temos que os hebreus atravessararam o rio, ou seja, vieram da Mesopotamia, caminharam muito até chegar na Palestina, que não tem muitas regiões para plantar, então escolhem o melhor lugar que era o vale do rio Jordão. Contudo nesse lugar exitem diversas disputas para ter essa região, afinal é uma região rica no meio de muitos lugares ruins para plantio.
 
@@ -63,7 +63,16 @@ Agricultura e pastoreio
 
 ## Sociedade
 
+Eles eram semi nomades mas a maior característica é jusatamente o patriarcalismo.
 
+## Religião
+
+A religião era o centro dessa sociedade, **teocentrismo**, **monoteístas**
+
+## Cultura
+
+Teocentrismo. 
+No começo eles eram monogramicos, um homem pode ter várias mulheres
 
 
 -----------------------------------------------
