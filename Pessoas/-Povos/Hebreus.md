@@ -55,7 +55,7 @@ Daí Salomão teve dois filhos que dividiram essas tribos em duas partes, duas p
 ### Sisma Ebraico
 
 Dês daí já tem o drama. Roboão forma judá (Judeus) e Geroboão forma Israel (Que são invadidos pelos Assirios e acabam muio fast pelo século 8ac , *contra os asssírios é foda*) .
-Já o reino de Judá aguentou até 587 ac, quando Nabucodonosor, rei dos Babilonios, invade os Judeus e transformaram eles em escravos (Cativeiro da Babilonia). O que não dura muito tempo, eles são resgatados pelos Persas, que  deixam eles voltarem para Palestina, mas aí tem que pagar os Persas por isso infinitamente e eles ficam dependentes dos persas até vêm os Macedonios e depois os Romanos, Romanos que queriam muito acabar com eles
+Já o reino de Judá aguentou até 587 ac, quando Nabucodonosor, rei dos Babilonios, invade os Judeus e transformaram eles em escravos (Cativeiro da Babilonia). O que não dura muito tempo, eles são resgatados pelos Persas, que  deixam eles voltarem para Palestina, mas aí tem que pagar os Persas por isso infinitamente e eles ficam dependentes dos persas até vêm os Macedonios e depois os Romanos, Romanos que queriam muito acabar com eles por causa de um tal de Jesus e com isso meu parceiro, não rola, eles acabaram se 
 
 
 
