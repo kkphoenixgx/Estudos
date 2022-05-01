@@ -15,9 +15,16 @@ E até hoje essa região tem muitos conflitos, é a  região mais disputada do m
 A política dos hebreus muda bastante conforme os anos justamente pelo tempo de existencia dessa civilização. Ela começa bem descentrealizada e vai centralizando conforme o tempo passa, os primeirs hebreus vem de 2000 anos antes de cristo, então tem tempo.
 
 ### Começo patriarcal
- A sociedade hebreia começou com um patriarca, ou seja , o mais velho comanda a familia numa sociedade patriarcal. O primeiro patriarca seria Abraão, ele que Deus disse para olhar para as estrelas e que essas estrelas seriam a quantidade de filhos que ele possuíria, embora ele fosse velho, ele teria que ter vários filhos mesmo assim e teve vários filhos.
+ A sociedade hebreia começou com um patriarca, ou seja , o mais velho comanda a familia numa sociedade patriarcal. O primeiro patriarca seria Abraão, ele que Deus disse para olhar para as estrelas e que essas estrelas seriam a quantidade de filhos que ele possuíria, embora ele fosse velho, ele teria que ter vários filhos mesmo assim e teve vários filhos. Primeiro o Isac, que deus mandou sacrificar por ele e quando tava quase matando disse: (Leia como o Silvio Santos) -Pegadinha maoe, a pegadinha hahae.
 
-## 
+* Abraão
+	* Isac 
+		* Jaco 
+			* 12 filhos → Serão as 12 tribos de Israel
+		* Isau
+
+
+Ai ali na palestina 
 
 -----------------------------------------------
 ## Bibliografia

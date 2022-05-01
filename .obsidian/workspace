@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "07e8853eb0e2aa2d",
+        "id": "8fcfe3f40ef13f37",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -82,7 +82,7 @@
       {
         "id": "d8e1b81d2fce9a02",
         "type": "tabs",
-        "dimension": 55.763688760806915,
+        "dimension": 61.471103327495626,
         "children": [
           {
             "id": "01ecff457f5aed1f",
@@ -144,7 +144,7 @@
                   "repelStrength": 8.10777859058766,
                   "linkStrength": 1,
                   "linkDistance": 111,
-                  "scale": 0.22920135941750158,
+                  "scale": 0.32133638605037057,
                   "close": true
                 }
               }
@@ -158,13 +158,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "2ea49873ca7b06d5",
         "type": "tabs",
-        "dimension": 44.236311239193085,
+        "dimension": 38.528896672504374,
         "children": [
           {
             "id": "456da733f5b8f9ff",
@@ -194,14 +193,23 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "af4959a780fe1851",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 259.9852294921875
   },
-  "active": "07e8853eb0e2aa2d",
+  "active": "8fcfe3f40ef13f37",
   "lastOpenFiles": [
     "Pessoas/-Povos/Hebreus.md",
     "O que fazer.md",
