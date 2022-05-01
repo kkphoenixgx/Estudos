@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "553e959805b85a49",
+        "id": "bfb8e169cb95ffed",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Pessoas/-Povos/Hebreus.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -106,7 +101,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pessoas/-Povos/Hebreus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +166,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pessoas/-Povos/Hebreus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +182,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pessoas/-Povos/Hebreus.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -201,7 +193,7 @@
     "direction": "horizontal",
     "width": 259.9852294921875
   },
-  "active": "553e959805b85a49",
+  "active": "bfb8e169cb95ffed",
   "lastOpenFiles": [
     "Pessoas/-Povos/Hebreus.md",
     "img/Rio jordão atual.png",
