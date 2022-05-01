@@ -15,9 +15,19 @@ Era uma monarquia centralizada, sobretudo, mas que conforme vai dominando os lug
 Métodos
 
 * **Estradas** que facilitavam a locomoção, tinha estrada em tudo qualquer lugar. E hospedagens com 1 dia de cavalo de distância
-* **Um grande sistema de correios**, um posto de descanso de 25 em 25 km
+* **Um grande sistema de correios**, um posto de descanso de 25 em 25 km e vai dando as cartas para o cara que tá esperando de 25 em 25 km e vai, atravessando muito rápido.
+* A moeda **darico**, era aceita em tudo qualquer lugar.
+* **Divide essas terras em 20 provincias chamadas de Satrapias**, que cada uma tem um satrapa que cuida para mim daquela região e se não me obedecer tem uma tropa militar especialmente para matar esse maluco se me desobedecer.
+
+A política deles era **muito centralizada**. E o rei Sírio tinha uma ideia muito diferente, quando dominava um lugar ele só falava que esses caras tinham que obedecer ele e que tinha que acreditar no deus dele. Os reis inclusive continuavam governando as cidades, só que governavam as regiões para ele, pagando imposto para ele e o rei Sírio falava bem assim
+
+-Não tem problema a religião de vocês, temos tolerância religiosa e adequamos seu deus aqui, não tem problema. 
+
+E isso é muito importante, pois tem mais dinheiro e menos guerra, guerra gasta dinheiro de mais ;-; 
+
+Inclusive se você olhar no mapa, eles não tinham rios no começo, o Golfo Persico não era tão bom assim e eles ganhavam dinheiro pelo comercio pela falta desse recurso agronomo gigantesco 
 
 
 -----------------------------------------------
 ## Bibliografia
-## Mapa Mental
+## Mapa Ment
