@@ -8,6 +8,11 @@ tags: #IMPORTANT
 - [ ] Revisar logarítimo 
 - [ ] Aprender Função logarítima 
 
+- [ ] Mapa Mental Mate matemática
+- [ ] Mapa mental Gramática
+- [ ] Mapa mental Hebreus
+
+
 ## Tópicos criativos
 
 * Sociedade patriarcal
