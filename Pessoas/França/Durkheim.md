@@ -24,7 +24,7 @@ Para Durkheim a socialização e a educação é essencial para introduzir esses
 
 A anomia é justamente essa falta de regras gerado pela confusão dessas instituições sociais, de acordo com Durkheim é justamente a anomia que vai acabar com a sociedade. Essa anomia é o que gera as patologias da sociedade e essas patologias são normais, embora a desorganização das mesmas é algo horrível.
 
-## Solidariedade Organica
+## Solidariedade Orgânica
 
 Para Durkheim a coesão da sociedade também depende da quantidade de pessoas da população, quanto menor, menos divergência de ideias ela terá. Porém essa divisão de ideias não irá acabar com a sociedade, essa divisão de ideais fará a sociedade agir como um organismo que as ideias formarão os principais orgãos com funções específicas e interdependências mais complexas. Contrapondo a sociedade mecânica das sociedades pequenas.
 
