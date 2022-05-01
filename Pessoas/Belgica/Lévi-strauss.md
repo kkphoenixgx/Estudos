@@ -13,7 +13,9 @@ Ele é um grande nome da antropologia estrutural, com isso tendo algumas obras b
 
 ## Estruturalismo
 
-Foi [[Ferdinand de Saussure]]  que fundou a linguistica, não queria saber da historia das palavras e sim as regras que organizavam esse discurso, denominado de sistemas, que chamaremos de estruturas, denomina uma parte mais profunda do que se aparenta, po exemplo, quando falamos, a estrutura linguista preza o que está por trás dessas simples falas, com verbos, concordancia e muito mais. Ou seja, 
+Foi [[Ferdinand de Saussure]]  que fundou a linguistica, não queria saber da historia das palavras e sim as regras que organizavam esse discurso, denominado de sistemas, que chamaremos de estruturas, denomina uma parte mais profunda do que se aparenta, po exemplo, quando falamos, a estrutura linguista preza o que está por trás dessas simples falas, com verbos, concordancia e muito mais. Ou seja, ele está estudando essa regras por trás disso e, pelo que ele preza, existe uma regra que fundamenta tudo isso.
+
+Então seguindo o Rumo de Ferdinand, Lévi irá pensar a antropologia como essa ideia, para ele a cultura é uma línguagem e a vida social como um sistema de signos. Quais são essas estruturas? É isso que ele estuda no estruturalismo.
 
 ## Obra fundamental
 ## Luta contra os pré-conceitos
