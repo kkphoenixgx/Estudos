@@ -49,7 +49,13 @@ Rei Saú que vazou e o **Rei Davi** que fez diversas coisas para essa sociedade.
 * Salomão
 	* Templo de Salomão cobrando banstante imposto
 
-Daí Salomão teve dois filhos que dividiram essas tribos em duas partes, duas para um lado e 10 para o outro, Roboão e Geroboão, roboão com duas tribos e Geroboão com as outras 10 e isso é chamado de **O sisma hebraico** dês daí já tem o drama. Roboão forma judá e Geroboão forma 
+Daí Salomão teve dois filhos que dividiram essas tribos em duas partes, duas para um lado e 10 para o outro, Roboão e Geroboão, roboão com duas tribos e Geroboão com as outras 10 e isso é chamado de **O sisma hebraico** 
+
+
+### Sisma Ebraico
+
+Dês daí já tem o drama. Roboão forma judá (Judeus) e Geroboão forma Israel (Que são invadidos pelos Assirios e acabam muio fast pelo século 8ac , *contra os asssírios é foda*) .
+Já o reino de Judá aguentou até 587 ac, quando Nabucodonosor, rei dos Babilonios, invade os Judeus e transformaram eles em escravos (Cativeiro da Babilonia). O que não dura muito tempo, eles são resgatados pelos Persas, que  deixam eles voltarem para Palestina, mas aí tem que pagar os Persas por isso infinitamente e eles ficam dependentes dos persas até vêm os Macedonios e depois os Romanos, Romanos que queriam muito acabar com eles
 
 
 
