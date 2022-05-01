@@ -19,12 +19,24 @@ A política dos hebreus muda bastante conforme os anos justamente pelo tempo de 
 
 * Abraão
 	* Isac 
+		* Isau
 		* Jaco 
 			* 12 filhos → Serão as 12 tribos de Israel
-		* Isau
 
 
-Ai ali na palestina 
+Ai ali na palestina, por volda de 1800 ac, eles começam a ir para o Egito e quando os Egipsios foram atacados pelos Iksus e voltaram dessa invasão eles começam a escravisar esses hebreus e depois do tempo Moises (ou o lider que tira os hebreus do Egito) faz o exodo desses hebreus escravos.
+
+Moises foi um grande Patriarca, ele sobre no monte Sinai e faz os 12 mandamentos, ele é um grande Legislador.  O que são leis para os Hebreus.
+
+Porém quando eles voltam para a Palestina já entra numa nova fase política na busca por Canaã
+
+### Os juíses
+
+Como precisavam de mais diciplina para acabar com os povos que dominavam Canaã ( Cananaeus e Filisteus ) eles denominaram os juíses que são líderes maiores para lutar contra esses povos e daí saiu 
+
+* Isaú
+* Isaias
+
 
 -----------------------------------------------
 ## Bibliografia
