@@ -7,8 +7,13 @@
         "id": "bfb8e169cb95ffed",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Pessoas/Belgica/Lévi-strauss.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -101,6 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Pessoas/Belgica/Lévi-strauss.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,6 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pessoas/Belgica/Lévi-strauss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,6 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pessoas/Belgica/Lévi-strauss.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -195,6 +203,7 @@
   },
   "active": "bfb8e169cb95ffed",
   "lastOpenFiles": [
+    "Pessoas/Belgica/Lévi-strauss.md",
     "Pessoas/-Povos/Hebreus.md",
     "img/Rio jordão atual.png",
     "img/Região da Palestina.png",
@@ -203,7 +212,6 @@
     "Pessoas/França/Tocqueville.md",
     "-Templetes/Concept.md",
     "img/Regras de Convivência.md",
-    "Lugares/Ocidente/Europa/França.md",
-    "Conceitos/Sociologia/Massificação Cultural.md"
+    "Lugares/Ocidente/Europa/França.md"
   ]
 }
