@@ -190,11 +190,11 @@ Somente dando uma revisada na vida do estudante com as relações trigonométric
 ![[Trângulo Retângulo.png]]
 
 
-A partir disso temos que entender os princípios básicos de uma função de primeiro grau
+A partir disso temos que entender os princípios básicos de uma função de primeiro grau. b = o coeficiente linear, um dos pontos que passa a reta em y e a vai ser a tangente desse triângulo formado.
 
 ![[Entendendo MRU.png]]
 
-E daí entendemos um gráfico de uma função horária
+E daí entendemos um gráfico de uma função horária para calcular o a velocidade, usamos a formula padrão mesmo e quando calculamos
 
 
 ![[Função Horária.png]]
