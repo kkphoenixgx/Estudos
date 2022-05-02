@@ -219,11 +219,22 @@ Para fazer o plano cartesiano é só fazer a orfem inversa
 
 ## MRUV
 
-Então vamos entender uma relação simples de uma função de 2° grau, quando mais x tiver, mais curvas esse movimento vai dar, o que transmitindo pa
+Então vamos entender uma relação simples de uma função de 2° grau, quando mais x tiver, mais curvas esse movimento vai dar, o que transmitindo para equações, seria a maior grandesa, pensa, se tiver um x e outro x, eles iriam somar, por que? porque essas direções seriam iguais. a mesma coisa com outro movimento para outra dimensão, outra escala
+
+x =  a primeira direção
+
+x² = as outras duas direções
+
+sendo "a" se o gráfico é para cima ou para baixo
+
+e "c" onde o gráfico começa. Agora o b é mais subjetivo
+
 
 ![[Pasted image 20220502175714.png]]
 
+Sobre o conceito de velocidade média, é justamente tratar essa variação como tanto faz taca uma linha reta a
 
+![[Pasted image 20220502180741.png]]
 
 ## Conclusão
 
