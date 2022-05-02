@@ -190,6 +190,8 @@ Somente dando uma revisada na vida do estudante com as relações trigonométric
 ![[Trângulo Retângulo.png]]
 
 
+## MRU
+
 **A partir disso temos que entender os princípios básicos de uma função de primeiro grau. b = o coeficiente linear, o ponto "b" que passa a reta em y, "a" vai ser a tangente desse triângulo formado e t vai ser o x dessa reta.** 
 
 ![[Entendendo MRU.png]]
@@ -207,10 +209,21 @@ S = 6
 y = b + ax (y = ax + b)  
 S= S₀ + vt 
 
+![[Retas do MRU.png]]
+
 se v é crescente, a acelerção é positiva
 se for decrescente a aceleração é negativa
 
 Para fazer o plano cartesiano é só fazer a orfem inversa
+
+
+## MRUV
+
+Então vamos entender uma relação simples de uma função de 2° grau, quando mais x tiver, mais curvas esse movimento vai dar, o que transmitindo pa
+
+![[Pasted image 20220502175714.png]]
+
+
 
 ## Conclusão
 
