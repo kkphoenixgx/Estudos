@@ -27,7 +27,7 @@ $$V = \frac{▲S}{▲T} ou \frac{d}{▲t} $$
 
 Velocidade constante é quando temos que a média da velocidade é sempre a mesma independente do momento da distância percorrida.
 
-## Movimento Uniforme → MU
+## Movimento Uniforme → MRU
 
 **Movimento Retilínio** = Movimento reto em uma linha reta, podemos até mesmo definir um eixo x por exemplo (Um eixo orientado). Logo temos que um **Movimento Retilinio Uniforme** (MRU) é um movimento infinito em linha reta que não muda.
 
@@ -137,7 +137,7 @@ Sc = 70 - 50
 Sc = 20
 
 
-## Movimento Uniformemente Variado → MUV
+## Movimento Uniformemente Variado → MRUV
 
 O problema da Mu é que ela não é encontrada facilmente, no mundo real, o que mais possuímos é movimentos que não possuem velocidade constante, esses são MUV. Mesmo que quase nunca ocorra esses movimentos de forma uniforme, é possível determinar uma média para esse ▲V:
 
@@ -183,7 +183,7 @@ Essa equação me permite descobrir a velocidade e o deslocamento sem precisar d
 
 ![[Pasted image 20220425210657.png]]
 
-## Gráficos de MU e MRU
+## Gráficos de MRU e MRUV
 
 Somente dando uma revisada na vida do estudante com as relações trigonométricas básicas de um triângulo retângulo
 
@@ -267,7 +267,16 @@ Calculamos individualmente e depois somamos
 
 ![[Pasted image 20220502184652.png]]
 
-### Aceleração por tempo
+### Aceleração por tempo (MRUV)
+
+![[Pasted image 20220502184940.png]]
+
+Quanto dá A? *resposta na ultima linha* 
+
+
+
+
+## Exercícios para compreensão
 
 
 
@@ -295,6 +304,7 @@ E isso faz muito sentindo, pois pensa, tenho um movimento em linha reta, a veloc
 
 $$ a = \frac{▲S}{▲t}$$
 
+![[Pasted image 20220502185410.png]]
 
 ## Bibliografia
 
@@ -314,3 +324,4 @@ Faz ai algum dia quando você for pika
 
 https://plataforma.seliga.com.br/aula/8b8a8030-d28a-11ea-b47e-57cbfe09057a;missao_id=ee721cc0-4178-11ec-9952-afdc330a50af;plano_id=83044210-4177-11ec-8f00-a746b13d8695
  
+A = 36
