@@ -179,7 +179,7 @@ $$v² = v²₀ + 2.a▲s$$
 
 Essa equação me permite descobrir a velocidade e o deslocamento sem precisar de tempo
 
-## Desinvolvimento da MRUV
+### Desinvolvimento da MRUV
 
 ![[Pasted image 20220425210657.png]]
 
@@ -189,8 +189,8 @@ Somente dando uma revisada na vida do estudante com as relações trigonométric
 
 ![[Trângulo Retângulo.png]]
 
-
-## MRU
+### Espaço por tempo
+#### MRU
 
 **A partir disso temos que entender os princípios básicos de uma função de primeiro grau. b = o coeficiente linear, o ponto "b" que passa a reta em y, "a" vai ser a tangente desse triângulo formado e t vai ser o x dessa reta.** 
 
@@ -217,7 +217,7 @@ se for decrescente a aceleração é negativa
 Para fazer o plano cartesiano é só fazer a orfem inversa
 
 
-## MRUV
+#### MRUV
 
 Então vamos entender uma relação simples de uma função de 2° grau, quando mais x tiver, mais curvas esse movimento vai dar, o que transmitindo para equações, seria a maior grandesa, pensa, se tiver um x e outro x, eles iriam somar, por que? porque essas direções seriam iguais. a mesma coisa com outro movimento para outra dimensão, outra escala
 
@@ -243,6 +243,20 @@ E para não se perder, se o a for negativo, a parabola irá estar com a concavid
 ![[Concavidade da função de segundo grau.png]]
 
 Inclusive podemos dividir na metade essa parabula e entender que em uma parte a velocidade está decaindo e na outra parte a velocidade está aumentando, ou vici-versa.
+
+
+
+### Velocidade por tempo
+
+#### v = v₀ + t
+
+![[gráfico v = v₀ + t.png]]
+
+
+
+
+
+![[Pasted image 20220502183741.png]]
 
 ## Conclusão
 
@@ -271,13 +285,17 @@ $$ a = \frac{▲S}{▲t}$$
 
 ## Bibliografia
 
-MU
+* MRU
 https://plataforma.seliga.com.br/aula/8b8a8030-d28a-11ea-b47e-57cbfe09057a;missao_id=ee721cc0-4178-11ec-9952-afdc330a50af;plano_id=83044210-4177-11ec-8f00-a746b13d8695
 
-MUV
+* MRUV
 https://plataforma.seliga.com.br/aula/3957fb60-fcf8-11ea-83a4-71229b38ac5f;missao_id=1d029670-4179-11ec-a4ab-913f23ba6765;plano_id=83044210-4177-11ec-8f00-a746b13d8695
 
 https://www.youtube.com/watch?v=XK5lDFaLm10
+
+* Gráficos MRUV e MRU
+
+https://plataforma.seliga.com.br/aula/44db5640-d28b-11ea-90da-73b4a305433f;missao_id=b2c2af90-4179-11ec-b558-01595fc30134;plano_id=83044210-4177-11ec-8f00-a746b13d8695
 
 Faz ai algum dia quando você for pika
 
