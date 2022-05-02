@@ -190,23 +190,27 @@ Somente dando uma revisada na vida do estudante com as relações trigonométric
 ![[Trângulo Retângulo.png]]
 
 
-A partir disso temos que entender os princípios básicos de uma função de primeiro grau. b = o coeficiente linear, um dos pontos que passa a reta em y e a vai ser a tangente desse triângulo formado.
+**A partir disso temos que entender os princípios básicos de uma função de primeiro grau. b = o coeficiente linear, o ponto "b" que passa a reta em y, "a" vai ser a tangente desse triângulo formado e t vai ser o x dessa reta.** 
 
 ![[Entendendo MRU.png]]
 
-E daí entendemos um gráfico de uma função horária para calcular o a velocidade, usamos a formula padrão mesmo, v=  ▲S/▲t
+E daí entendemos um gráfico de uma função horária para calcular o a velocidade, usamos a formula padrão mesmo, v=  ▲S/▲t. Se precisamos formar o gráfico, temos que realizar essa operação
+
+se a = 1, b = -2 e x = 8
+
+S = -2 + 1.8
+S = 6 
 
 
 ![[Função Horária.png]]
-
-
-A velocidade é justamente o teta (tangente) desse angulo. Qualquer lugar do gráfico, temos a tangente igual, não temos variação de velocidade nem aceleração e podemos relacionar a função horária do MRU ( S= S₀ + vt ) com uma função comum.
 
 y = b + ax (y = ax + b)  
 S= S₀ + vt 
 
 se v é crescente, a acelerção é positiva
 se for decrescente a aceleração é negativa
+
+Para fazer o plano cartesiano é só fazer a orfem inversa
 
 ## Conclusão
 
