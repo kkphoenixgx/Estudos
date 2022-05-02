@@ -2,6 +2,6 @@
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
-  "spellcheck": true,
+  "spellcheck": false,
   "showFrontmatter": false
 }

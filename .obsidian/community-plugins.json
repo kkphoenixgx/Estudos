@@ -1,7 +1,6 @@
 [
   "calendar",
   "obsidian-outliner",
-  "obsidian-mind-map",
   "obsidian-git",
   "obsidian-style-settings",
   "obsidian-icon-folder",
@@ -13,5 +12,6 @@
   "table-editor-obsidian",
   "table-extended",
   "obsidian-checklist-plugin",
-  "customjs"
+  "customjs",
+  "obsidian-mind-map"
 ]

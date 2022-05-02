@@ -21,12 +21,13 @@ Até que teve [[Franz Boas]] e acabou com o Etnocentrismo, Olhou para as outras 
 
 ## Funcionalismo
 
-[[Marinowisk]] [[Readcliffe Brawn]], esses dois fazem uam grande mudança na antropologia, eles dizem que para que você entenda a cultura, você deve se estabelecer nessa cultura e olhar a cultura do ponto de vista nativo, o que gera a **Antropologia ao ar livre**, fazendo um método indutivo, coletando dados sem conectar nada e depois entender as práticas. Eles evitavam essas ideias de comparar a cultura de outro lugar com a 
+[[Marinowisk]] [[Readcliffe Brawn]], esses dois fazem uam grande mudança na antropologia, eles dizem que para que você entenda a cultura, você deve se estabelecer nessa cultura e olhar a cultura do ponto de vista nativo, o que gera a **Antropologia ao ar livre**, fazendo um método indutivo, coletando dados sem conectar nada e depois entender as práticas. Eles evitavam essas ideias de comparar a cultura de outro lugar com a cultura nativa.
 
+O que descobriram era que as culturas tinham como viés primário atender as necessidades do ser humano, e o que varia é a forma que elas fazem isso.
 
 ## Antropologia estrutural
 
-[[Lévi-strauss]]
+[[Lévi-strauss]] foi um antropologo que veio da frança para o Brasil e a forma que ele estudava os resquícios antropologicos era uma forma bem diferente dos demais. Para o Lévi-strauss, a cultura poderia ser compreendida como um jogo de cartas, você chega numa cultura e ganha algumas cartas, a primeira delas é a linguagem, que começa a deter
 
 ## Bibliografia
 

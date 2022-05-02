@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d0b052f854182808",
+        "id": "788668c159e62f81",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -161,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Conceitos/Sociologia/Antropologia.md"
+              }
             }
           }
         ],
@@ -207,9 +209,10 @@
     "direction": "horizontal",
     "width": 260.33331298828125
   },
-  "active": "d0b052f854182808",
+  "active": "788668c159e62f81",
   "lastOpenFiles": [
     "Conceitos/Sociologia/Antropologia.md",
+    "Pessoas/Belgica/Lévi-strauss.md",
     "Pessoas/França/Henrri Lefreb.md",
     "Conceitos/Sociologia/Consumismo e cultura do consumo.md",
     "Conceitos/Sociologia/Sociologia.md",
