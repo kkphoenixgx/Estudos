@@ -150,10 +150,18 @@
                   "repelStrength": 7.03983975072335,
                   "linkStrength": 0.829290006677053,
                   "linkDistance": 95,
-                  "scale": 0.5087618855792639,
+                  "scale": 0.5087618855792657,
                   "close": true
                 }
               }
+            }
+          },
+          {
+            "id": "be54be9ed5e7b099",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
             }
           }
         ],
