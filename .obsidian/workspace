@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 212
   },
   "right": {
     "id": "1f8376e3e70246bb",
@@ -77,6 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Conceitos/Sociologia/Antropologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 232.33331298828125
   },
   "active": "d0b052f854182808",
   "lastOpenFiles": [
