@@ -185,6 +185,24 @@ Essa equação me permite descobrir a velocidade e o deslocamento sem precisar d
 
 ## Gráficos de MU e MRU
 
+Somente dando uma revisada na vida do estudante com as relações trigonométricas básicas de um triângulo retângulo
+
+![[Trângulo Retângulo.png]]
+
+
+A partir disso temos que entender os princípios básicos de uma função de primeiro grau
+
+![[Entendendo MRU.png]]
+
+E daí entendemos um gráfico de uma função horária
+
+
+![[Função Horária.png]]
+
+
+A velocidade é justamente o teta (tangente) desse angulo. Qualquer lugar do gráfico, temos a tangente igual, não temos variação de velocidade nem aceleração e podemos relacionar a função horária do MRU (S= S₀ + vt) com a função 
+
+
 
 
 

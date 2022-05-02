@@ -4,5 +4,6 @@
   "showLineNumber": true,
   "spellcheck": false,
   "showFrontmatter": false,
-  "legacyEditor": false
+  "legacyEditor": false,
+  "promptDelete": false
 }
