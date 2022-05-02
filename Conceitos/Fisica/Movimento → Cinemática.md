@@ -278,6 +278,17 @@ Quanto dá A? *resposta na ultima linha*
 
 ## Exercícios para compreensão
 
+![[Pasted image 20220502192920.png]]
+
+![[Pasted image 20220502192839.png]]
+
+
+![[Pasted image 20220502193021.png]]
+
+---------------------------------------
+
+MRUV 
+
 
 
 ## Conclusão
