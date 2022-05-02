@@ -230,13 +230,19 @@ sendo "a" se o gráfico é para cima ou para baixo
 e "c" onde o gráfico começa. Agora o b é mais subjetivo
 
 
-![[Pasted image 20220502175714.png]]
+![[função de 2° grau.png]]
 
 Sobre o conceito de velocidade média, é justamente tratar essa variação como tanto faz, taca uma linha reta aí, e calcular a velocidade como se fosse no MRU
 
-![[Pasted image 20220502180741.png]]
+![[velocidade média de uma função horária.png]]
 
-perceba então que não temos t para refazer esse gráfico, então temos que fazer baskara para chegar até o t e reformular o gráfico e usar o tempo positivo e depois isolamos o s para discobrir em qual momento t 
+perceba então que não temos t para refazer esse gráfico, então temos que fazer baskara para chegar até o t e reformular o gráfico e usar o tempo positivo e depois isolamos o s para discobrir em qual momento t encontrará s
+
+E para não se perder, se o a for negativo, a parabola irá estar com a concavidade para cima e quando por positiva, será para baixo
+
+![[Concavidade da função de segundo grau.png]]
+
+Inclusive podemos dividir na metade essa parabula e entender que em uma parte a velocidade está decaindo e na outra parte a velocidade está aumentando, ou vici-versa.
 
 ## Conclusão
 
