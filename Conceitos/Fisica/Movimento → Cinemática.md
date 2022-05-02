@@ -253,10 +253,23 @@ Inclusive podemos dividir na metade essa parabula e entender que em uma parte a 
 ![[gráfico v = v₀ + t.png]]
 
 
+#### ▲s = v₀ + vt
 
-
+Isolamos o ▲s e formamos que é só multiplicar v por ▲t e sendo v constante, o que muda é t, nesse exemplo temos que a figura é um quadrado.
 
 ![[Pasted image 20220502183741.png]]
+
+#### No caso de duas figuras
+
+![[Pasted image 20220502184424.png]]
+
+Calculamos individualmente e depois somamos
+
+![[Pasted image 20220502184652.png]]
+
+### Aceleração por tempo
+
+
 
 ## Conclusão
 
