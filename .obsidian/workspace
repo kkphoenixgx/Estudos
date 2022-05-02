@@ -1,18 +1,17 @@
 {
   "main": {
-    "id": "d12e855422103afa",
+    "id": "fc1daa83cb8fbcca",
     "type": "split",
     "children": [
       {
-        "id": "6bccbf019228ff5e",
+        "id": "d0b052f854182808",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Conceitos/Sociologia/Antropologia.md",
             "mode": "source",
-            "backlinks": false,
-            "source": false
+            "backlinks": false
           }
         }
       }
@@ -20,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d6a5d9279af59e13",
+    "id": "169290f161d925c6",
     "type": "split",
     "children": [
       {
-        "id": "a1c4b7f2c853ba67",
+        "id": "b6e822dc645a2adb",
         "type": "tabs",
         "children": [
           {
-            "id": "c7f1036188dabcfd",
+            "id": "4f21e55f16ef6ef6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -36,7 +35,7 @@
             }
           },
           {
-            "id": "4d25c09d2ebfece8",
+            "id": "0e58ecfe5ef021c8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -49,9 +48,42 @@
                 "sortOrder": "alphabetical"
               }
             }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1f8376e3e70246bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b330c9ef0a50ad19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5918eaeada9c3712",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           },
           {
-            "id": "4bc88cb1e60447c5",
+            "id": "7ef9c8862bda658e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61842d7fb3f0a83e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -62,10 +94,10 @@
             }
           },
           {
-            "id": "ee6bfe23909d3553",
+            "id": "b22457c49b7235d1",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "todo",
               "state": {}
             }
           }
@@ -73,154 +105,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216
+    "width": 300,
+    "collapsed": true
   },
-  "right": {
-    "id": "9e25cca9212e7705",
-    "type": "split",
-    "children": [
-      {
-        "id": "d8e1b81d2fce9a02",
-        "type": "tabs",
-        "dimension": 61.471103327495626,
-        "children": [
-          {
-            "id": "01ecff457f5aed1f",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "084580edf98bb253",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "134a1119905b4014",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Conceitos/Sociologia/Antropologia.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 3,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "path:Pessoas",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16711680
-                      }
-                    },
-                    {
-                      "query": "path:Conceitos",
-                      "color": {
-                        "a": 1,
-                        "rgb": 9175295
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 0.595257254328213,
-                  "lineSizeMultiplier": 4.03636917824921,
-                  "collapse-forces": true,
-                  "centerStrength": 0.258096269317846,
-                  "repelStrength": 8.10777859058766,
-                  "linkStrength": 1,
-                  "linkDistance": 111,
-                  "scale": 0.32133638605037285,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
-            "id": "af56de7aabf76acc",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "2ea49873ca7b06d5",
-        "type": "tabs",
-        "dimension": 38.528896672504374,
-        "children": [
-          {
-            "id": "456da733f5b8f9ff",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Conceitos/Sociologia/Antropologia.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "114ae50a03798c73",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Conceitos/Sociologia/Antropologia.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "af4959a780fe1851",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 2
-      }
-    ],
-    "direction": "horizontal",
-    "width": 259.9852294921875
-  },
-  "active": "6bccbf019228ff5e",
+  "active": "d0b052f854182808",
   "lastOpenFiles": [
     "Conceitos/Sociologia/Antropologia.md",
-    "Pessoas/Belgica/Lévi-strauss.md",
-    "Pessoas/-Povos/Persas.md",
-    "Pessoas/Pós-Socrasticos/Sofistas/Gorgias.md",
-    "Pessoas/Pós-Socrasticos/Sofistas/Protágoras.md",
-    "Pessoas/Pós-Socrasticos/Helenistas/Epicuro.md",
-    "Pessoas/Pós-Socrasticos/Helenistas/Diogenes.md",
-    "Pessoas/Inglaterra/Newton.md",
-    "Pessoas/Itália/Galileu.md",
-    "Pessoas/Pré-Socrático/Empidocles 🔥💧🌬🗻.md"
+    "Pessoas/França/Henrri Lefreb.md",
+    "Conceitos/Sociologia/Consumismo e cultura do consumo.md",
+    "Conceitos/Sociologia/Sociologia.md",
+    "Lugares/Ocidente/África/Egito antigo.md",
+    "Conceitos/Quimica/Matéria.md",
+    "Conceitos/Quimica/Equilibrio Químico.md",
+    "Untitled.md"
   ]
 }
