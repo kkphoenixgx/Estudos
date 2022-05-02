@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "788668c159e62f81",
+        "id": "f07e5b44b80a6447",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Conceitos/Sociologia/Antropologia.md",
+            "mode": "source",
+            "backlinks": false
+          }
         }
       }
     ],
@@ -101,6 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Conceitos/Sociologia/Antropologia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Conceitos/Sociologia/Antropologia.md"
+              }
             }
           }
         ],
@@ -173,6 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Conceitos/Sociologia/Antropologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,6 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Conceitos/Sociologia/Antropologia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +209,7 @@
     "direction": "horizontal",
     "width": 260.33331298828125
   },
-  "active": "788668c159e62f81",
+  "active": "f07e5b44b80a6447",
   "lastOpenFiles": [
     "Conceitos/Sociologia/Antropologia.md",
     "Pessoas/Belgica/Lévi-strauss.md",
