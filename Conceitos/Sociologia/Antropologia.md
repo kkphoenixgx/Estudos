@@ -27,7 +27,7 @@ O que descobriram era que as culturas tinham como viés primário atender as nec
 
 ## Antropologia estrutural
 
-[[Lévi-strauss]] foi um antropologo que veio da frança para o Brasil e a forma que ele estudava os resquícios antropologicos era uma forma bem diferente dos demais. Para o Lévi-strauss, a cultura poderia ser compreendida como um jogo de cartas, você chega numa cultura e ganha algumas cartas, a primeira delas é a linguagem, que começa a deter
+[[Lévi-strauss]] foi um antropologo que veio da frança para o Brasil e a forma que ele estudava os resquícios antropologicos era uma forma bem diferente dos demais. Para o Lévi-strauss, a cultura poderia ser compreendida como um jogo de cartas, você chega numa cultura e ganha algumas cartas, a primeira delas é a linguagem, que começa a determinar a forma que pensamos, ela recebe determinadas regras. Ademais, todos os seres humanos possuem as mesmas operações lógicas, o que muda é o material com que operamos essas operações e cabe ao antropólogo entender essas regras. A partir dessa dimensão simbolica que iremos entender a cultura. Então essa antropoplogia estrutural **usa tanto a Antropologia ao ar livre e a Antropologia de gabinete**
 
 ## Bibliografia
 

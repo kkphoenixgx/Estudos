@@ -7,12 +7,8 @@
         "id": "788668c159e62f81",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Conceitos/Sociologia/Antropologia.md",
-            "mode": "source",
-            "backlinks": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -61,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212
+    "width": 211
   },
   "right": {
     "id": "1f8376e3e70246bb",
@@ -105,9 +101,8 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Sociologia/Antropologia.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 3,
                   "localBacklinks": true,
@@ -143,14 +138,14 @@
                   "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 0.777798798130425,
+                  "nodeSizeMultiplier": 0.499154239928778,
                   "lineSizeMultiplier": 3.04676162920098,
                   "collapse-forces": false,
-                  "centerStrength": 0.0173603383040285,
-                  "repelStrength": 7.03983975072335,
-                  "linkStrength": 0.829290006677053,
-                  "linkDistance": 95,
-                  "scale": 0.5087618855792657,
+                  "centerStrength": 0.74595180909584,
+                  "repelStrength": 16.6049430541567,
+                  "linkStrength": 1,
+                  "linkDistance": 185,
+                  "scale": 0.5087618855792732,
                   "close": true
                 }
               }
@@ -161,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Conceitos/Sociologia/Antropologia.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -180,7 +173,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Sociologia/Antropologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +189,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Sociologia/Antropologia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
