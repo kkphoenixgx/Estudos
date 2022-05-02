@@ -194,7 +194,7 @@ A partir disso temos que entender os princípios básicos de uma função de pri
 
 ![[Entendendo MRU.png]]
 
-E daí entendemos um gráfico de uma função horária para calcular o a velocidade, usamos a formula padrão mesmo e quando calculamos
+E daí entendemos um gráfico de uma função horária para calcular o a velocidade, usamos a formula padrão mesmo, v=  ▲S/▲t
 
 
 ![[Função Horária.png]]
@@ -205,7 +205,8 @@ A velocidade é justamente o teta (tangente) desse angulo. Qualquer lugar do gr�
 y = b + ax (y = ax + b)  
 S= S₀ + vt 
 
-
+se v é crescente, a acelerção é positiva
+se for decrescente a aceleração é negativa
 
 ## Conclusão
 
