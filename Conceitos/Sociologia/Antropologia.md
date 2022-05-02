@@ -21,7 +21,7 @@ Até que teve [[Franz Boas]] e acabou com o Etnocentrismo, Olhou para as outras 
 
 ## Funcionalismo
 
-[[Marinowisk]] [[Readcliffe Brawn]], esses dois fazem uam grande mudança na antropologia, eles dizem que para que você entenda a cultura, você deve se estabelecer nessa cultura e olhar a cultura do ponto de vista nativo, o que gera a **Antropologia ao ar livre**.
+[[Marinowisk]] [[Readcliffe Brawn]], esses dois fazem uam grande mudança na antropologia, eles dizem que para que você entenda a cultura, você deve se estabelecer nessa cultura e olhar a cultura do ponto de vista nativo, o que gera a **Antropologia ao ar livre**, fazendo um método indutivo, coletando dados sem conectar nada e depois entender as práticas. Eles evitavam essas ideias de comparar a cultura de outro lugar com a 
 
 
 ## Antropologia estrutural
