@@ -62,6 +62,7 @@
       {
         "id": "b330c9ef0a50ad19",
         "type": "tabs",
+        "dimension": 64.97373029772329,
         "children": [
           {
             "id": "5918eaeada9c3712",
@@ -69,18 +70,6 @@
             "state": {
               "type": "calendar",
               "state": {}
-            }
-          },
-          {
-            "id": "7ef9c8862bda658e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Conceitos/Sociologia/Antropologia.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
             }
           },
           {
@@ -102,11 +91,47 @@
               "state": {}
             }
           }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7d2ce7e439e42683",
+        "type": "tabs",
+        "dimension": 35.02626970227671,
+        "children": [
+          {
+            "id": "1dad546673d9b590",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "7ef9c8862bda658e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Conceitos/Sociologia/Antropologia.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 232.33331298828125
+    "width": 260.33331298828125
   },
   "active": "d0b052f854182808",
   "lastOpenFiles": [
@@ -116,7 +141,4 @@
     "Conceitos/Sociologia/Sociologia.md",
     "Lugares/Ocidente/África/Egito antigo.md",
     "Conceitos/Quimica/Matéria.md",
-    "Conceitos/Quimica/Equilibrio Químico.md",
-    "Untitled.md"
-  ]
-}
+    "Conceitos/Quimica/Equilibrio Químico.md"
