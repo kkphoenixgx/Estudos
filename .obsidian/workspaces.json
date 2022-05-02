@@ -2,31 +2,34 @@
   "workspaces": {
     "Estudos Gerais": {
       "main": {
-        "id": "d12e855422103afa",
+        "id": "fc1daa83cb8fbcca",
         "type": "split",
         "children": [
           {
-            "id": "34a7a89ddb895c1d",
+            "id": "d0b052f854182808",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Conceitos/Sociologia/Antropologia.md",
+                "mode": "source",
+                "backlinks": false
+              }
             }
           }
         ],
         "direction": "vertical"
       },
       "left": {
-        "id": "d6a5d9279af59e13",
+        "id": "169290f161d925c6",
         "type": "split",
         "children": [
           {
-            "id": "a1c4b7f2c853ba67",
+            "id": "b6e822dc645a2adb",
             "type": "tabs",
-            "dimension": 71.18155619596543,
             "children": [
               {
-                "id": "c7f1036188dabcfd",
+                "id": "4f21e55f16ef6ef6",
                 "type": "leaf",
                 "state": {
                   "type": "file-explorer",
@@ -34,7 +37,7 @@
                 }
               },
               {
-                "id": "4d25c09d2ebfece8",
+                "id": "0e58ecfe5ef021c8",
                 "type": "leaf",
                 "state": {
                   "type": "search",
@@ -49,25 +52,7 @@
                 }
               },
               {
-                "id": "4bc88cb1e60447c5",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "alphabetical",
-                    "useHierarchy": true
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "50dab862316bd7a8",
-            "type": "tabs",
-            "dimension": 28.81844380403458,
-            "children": [
-              {
-                "id": "ee6bfe23909d3553",
+                "id": "a02913e81349774b",
                 "type": "leaf",
                 "state": {
                   "type": "starred",
@@ -78,19 +63,19 @@
           }
         ],
         "direction": "horizontal",
-        "width": 200
+        "width": 212
       },
       "right": {
-        "id": "9e25cca9212e7705",
+        "id": "1f8376e3e70246bb",
         "type": "split",
         "children": [
           {
-            "id": "d8e1b81d2fce9a02",
+            "id": "b330c9ef0a50ad19",
             "type": "tabs",
-            "dimension": 55.763688760806915,
+            "dimension": 64.97373029772329,
             "children": [
               {
-                "id": "01ecff457f5aed1f",
+                "id": "5918eaeada9c3712",
                 "type": "leaf",
                 "state": {
                   "type": "calendar",
@@ -98,44 +83,114 @@
                 }
               },
               {
-                "id": "084580edf98bb253",
+                "id": "61842d7fb3f0a83e",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "b22457c49b7235d1",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
                   "state": {}
+                }
+              },
+              {
+                "id": "8052ebe3830fcefa",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Conceitos/Sociologia/Antropologia.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 3,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [
+                        {
+                          "query": "path:Sec",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14701138
+                          }
+                        },
+                        {
+                          "query": "path:Conceitos",
+                          "color": {
+                            "a": 1,
+                            "rgb": 44262
+                          }
+                        },
+                        {
+                          "query": "path:Pessoas",
+                          "color": {
+                            "a": 1,
+                            "rgb": 7353343
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": -3,
+                      "nodeSizeMultiplier": 0.777798798130425,
+                      "lineSizeMultiplier": 3.04676162920098,
+                      "collapse-forces": false,
+                      "centerStrength": 0.0173603383040285,
+                      "repelStrength": 7.03983975072335,
+                      "linkStrength": 0.829290006677053,
+                      "linkDistance": 95,
+                      "scale": 0.5087618855792639,
+                      "close": true
+                    }
+                  }
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           },
           {
-            "id": "2ea49873ca7b06d5",
+            "id": "7d2ce7e439e42683",
             "type": "tabs",
-            "dimension": 44.236311239193085,
+            "dimension": 35.02626970227671,
             "children": [
               {
-                "id": "456da733f5b8f9ff",
+                "id": "1dad546673d9b590",
                 "type": "leaf",
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "Conceitos/Sociologia/Antropologia.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
                     "showSearch": false,
                     "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": false
                   }
                 }
               },
               {
-                "id": "114ae50a03798c73",
+                "id": "7ef9c8862bda658e",
                 "type": "leaf",
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "linksCollapsed": false,
+                    "file": "Conceitos/Sociologia/Antropologia.md",
+                    "linksCollapsed": true,
                     "unlinkedCollapsed": true
                   }
                 }
@@ -144,9 +199,9 @@
           }
         ],
         "direction": "horizontal",
-        "width": 300
+        "width": 260.33331298828125
       },
-      "active": "34a7a89ddb895c1d"
+      "active": "d0b052f854182808"
     }
   },
   "active": "Estudos Gerais"

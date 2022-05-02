@@ -48,6 +48,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "a02913e81349774b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -90,9 +98,66 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "8052ebe3830fcefa",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Conceitos/Sociologia/Antropologia.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "path:Sec",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "path:Conceitos",
+                      "color": {
+                        "a": 1,
+                        "rgb": 44262
+                      }
+                    },
+                    {
+                      "query": "path:Pessoas",
+                      "color": {
+                        "a": 1,
+                        "rgb": 7353343
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 0.777798798130425,
+                  "lineSizeMultiplier": 3.04676162920098,
+                  "collapse-forces": false,
+                  "centerStrength": 0.0173603383040285,
+                  "repelStrength": 7.03983975072335,
+                  "linkStrength": 0.829290006677053,
+                  "linkDistance": 95,
+                  "scale": 0.5087618855792639,
+                  "close": true
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "7d2ce7e439e42683",
@@ -105,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Conceitos/Sociologia/Antropologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,4 +207,7 @@
     "Conceitos/Sociologia/Sociologia.md",
     "Lugares/Ocidente/África/Egito antigo.md",
     "Conceitos/Quimica/Matéria.md",
-    "Conceitos/Quimica/Equilibrio Químico.md"
+    "Conceitos/Quimica/Equilibrio Químico.md",
+    "Untitled.md"
+  ]
+}

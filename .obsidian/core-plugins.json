@@ -11,11 +11,13 @@
   "note-composer",
   "command-palette",
   "editor-status",
+  "starred",
   "markdown-importer",
   "word-count",
   "slides",
   "audio-recorder",
   "open-with-default-app",
+  "workspaces",
   "file-recovery",
   "sync"
 ]
