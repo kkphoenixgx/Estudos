@@ -200,9 +200,10 @@ E daí entendemos um gráfico de uma função horária
 ![[Função Horária.png]]
 
 
-A velocidade é justamente o teta (tangente) desse angulo. Qualquer lugar do gráfico, temos a tangente igual, não temos variação de velocidade nem aceleração e podemos relacionar a função horária do MRU (S= S₀ + vt) com a função 
+A velocidade é justamente o teta (tangente) desse angulo. Qualquer lugar do gráfico, temos a tangente igual, não temos variação de velocidade nem aceleração e podemos relacionar a função horária do MRU ( S= S₀ + vt ) com uma função comum.
 
-
+y = b + ax (y = ax + b)  
+S= S₀ + vt 
 
 
 
