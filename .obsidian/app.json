@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
   "spellcheck": false,
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "legacyEditor": false
 }

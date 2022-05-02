@@ -4,14 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f07e5b44b80a6447",
+        "id": "375a7d53119ae491",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Sociologia/Antropologia.md",
+            "file": "Conceitos/Fisica/Movimento → Cinemática.md",
             "mode": "source",
-            "backlinks": false
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -105,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Sociologia/Antropologia.md",
+                "file": "Conceitos/Fisica/Movimento → Cinemática.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -162,12 +163,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceitos/Sociologia/Antropologia.md"
+                "file": "Conceitos/Fisica/Movimento → Cinemática.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "7d2ce7e439e42683",
@@ -180,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Sociologia/Antropologia.md",
+                "file": "Conceitos/Fisica/Movimento → Cinemática.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Sociologia/Antropologia.md",
+                "file": "Conceitos/Fisica/Movimento → Cinemática.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -209,8 +210,9 @@
     "direction": "horizontal",
     "width": 260.33331298828125
   },
-  "active": "f07e5b44b80a6447",
+  "active": "375a7d53119ae491",
   "lastOpenFiles": [
+    "Conceitos/Fisica/Movimento → Cinemática.md",
     "Conceitos/Sociologia/Antropologia.md",
     "Pessoas/Belgica/Lévi-strauss.md",
     "Pessoas/França/Henrri Lefreb.md",
