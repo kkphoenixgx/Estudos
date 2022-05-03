@@ -90,6 +90,12 @@ Diferenciamos as rochas justamente pela sia forma de criação. entre dois tipos
 
 * **Rochas sedimentares** são rochas feitas a partir do sedimento de outras rochas, o desgaste a partir de agentes externos sedimentam essa rocha em particulas e essas particulas junto com outras formam novas rochas
 
+	A erosão = O temperismo químico (Onde tem muito calor e muita água), inteperismo qímico
+
+* **Rochas Metamorficas** formado pela junção de duas rochas em meio a uma temperatura e pressão muito forte
+
+
+
 
 
 -----------------------------------------------
