@@ -49,11 +49,17 @@ Movimento de fricção de duas placas
 
 Que a tensão pdoe gerar rupturas, terremotos e falhas na superfície terrestre. Dentro desses tipos de movimentos, podemos citar alguns movimentos que causam coisas diferentes, entre eles:
 
-* **Movimentos herogenéticos** = Movimentos que tem horizontal de duas placas que podem gerar:
+* **Movimentos herogenéticos** = Movimentos transformantes que tem conscequencia horizontal, podendo gerar:
+	* Terremotos
+	 
+		São tensões acumuladas que quando aliviam a pressão entre duas placas geram um terremoto. Terremoto esse que possuí um hipocentro e um epicentro, que hipocentro é onde ocorreu o alívio dessa pressão de duas placas e epicentro a superfície que essas ondas se alastraram
+
 	* Ilhas
 	* Vulcões
-	* Terremotos
 	* Tsunamis 
+
+*  **Movimentos epitogenéticos** =  Que possuem consequencias verticais.
+	* Blocos rochosos que podem subir ou descer
 
 
 
