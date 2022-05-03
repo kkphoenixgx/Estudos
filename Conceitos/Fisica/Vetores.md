@@ -7,8 +7,11 @@ Na física temos dois tipos de  grandezas físicas, as **Escalares e as vetoriai
 * **Escalares** = são grandezas que podemos mensurar sem informações adicionais, exemplo a temperatura média de uma sala ou quantas páginas tem um livro.
 * **Vetoriais** = Enquanto as grandezas vetoriais precisam de informações complementares, exmplo, um veículo tem a = 10m/s², beleza, mas para onde ele tá andando? Pergunte ao valor: **Para onde?** se ele responder, é uma grandeza vetorial.
 
+Para representar um vetorial, nós usamos uma flecha em cima do módulo *Nota minha: O módulo representa justamente que essa grandeza é positiva e se você para para pensar, o módulo deve ser positivo para um vetor, já que ele interpreta algo que tem um Para onde* 
 
+![[Pasted image 20220503105830.png]]
 
+Onde a direção do vetor 
 
 -----------------------------------------------
 ## Bibliografia
