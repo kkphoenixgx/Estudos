@@ -13,10 +13,12 @@ Para representar um vetorial, nós usamos uma flecha em cima do módulo *Nota mi
 
 Entendendo a imagem acima, devemos entender as propriedades de um vetor
 
-Um vetor possuí
+Um vetor possuí as seguintes características que são definidas pela ponta da seta e o tamanho do vetor.
 
-* |a→| (seria o a com o vetor em cima, mas não tem como fazer no teclado) que é justamente o modulo de comprimento do vetor, não importa onde ele esteja no eixo x, ele sempre vai dar o mesmo valor.
-* 
+* |a→| =  *(seria o a com o vetor em cima, mas não tem como fazer no teclado)* É justamente o modulo de comprimento do vetor, não importa onde ele esteja no eixo x, ele sempre vai dar o mesmo valor.
+* ax = a posição x do vetor
+* dy = a posição y do vetor
+* θ 
 
 
 
