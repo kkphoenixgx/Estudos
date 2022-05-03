@@ -54,14 +54,17 @@ Que a tensão pdoe gerar rupturas, terremotos e falhas na superfície terrestre.
 	 
 		São tensões acumuladas que quando aliviam a pressão entre duas placas geram um terremoto. Terremoto esse que possuí um hipocentro e um epicentro, que hipocentro é onde ocorreu o alívio dessa pressão de duas placas e epicentro a superfície que essas ondas se alastraram
 
+		![[Pasted image 20220503183403.png]]
 	* Ilhas
-	* Vulcões
+	* Vulcões 
+		Tenha em mente que vulcões são diferentes de vulcanismos. Vulcões são estruturas criadas justamente para dicipar o magma acumulado.
 	* Tsunamis 
 
 *  **Movimentos epitogenéticos** =  Que possuem consequencias verticais.
 	* Blocos rochosos que podem subir ou descer
 
 
+## Instabi
 
 
 
