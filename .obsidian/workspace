@@ -7,28 +7,23 @@
         "id": "a2454415b5c43946",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Conceitos/Fisica/Movimento → Cinemática.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "169290f161d925c6",
+    "id": "060bc1fd1d758521",
     "type": "split",
     "children": [
       {
-        "id": "b6e822dc645a2adb",
+        "id": "a1835d113976f181",
         "type": "tabs",
         "children": [
           {
-            "id": "4f21e55f16ef6ef6",
+            "id": "40ae4d6aea754deb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -36,7 +31,7 @@
             }
           },
           {
-            "id": "0e58ecfe5ef021c8",
+            "id": "908a3560c385cab0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -51,7 +46,7 @@
             }
           },
           {
-            "id": "a02913e81349774b",
+            "id": "3eb39c08cb4fd2d9",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -62,19 +57,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211
+    "width": 300
   },
   "right": {
-    "id": "1f8376e3e70246bb",
+    "id": "1072a03bfb5134f4",
     "type": "split",
     "children": [
       {
-        "id": "b330c9ef0a50ad19",
+        "id": "5a48f5399fdf90fb",
         "type": "tabs",
-        "dimension": 64.97373029772329,
         "children": [
           {
-            "id": "5918eaeada9c3712",
+            "id": "2f3c39f6232decf1",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -82,7 +76,34 @@
             }
           },
           {
-            "id": "61842d7fb3f0a83e",
+            "id": "6e8ee657a68c96ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a0b9d5d341f4aa4e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb2515545d621074",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -93,134 +114,39 @@
             }
           },
           {
-            "id": "b22457c49b7235d1",
+            "id": "d685e499f1bde6d2",
             "type": "leaf",
             "state": {
-              "type": "todo",
+              "type": "outline",
               "state": {}
             }
           },
           {
-            "id": "8052ebe3830fcefa",
+            "id": "e2eb6dc0576ba43e",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Conceitos/Fisica/Movimento → Cinemática.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 3,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "path:Sec",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    },
-                    {
-                      "query": "path:Conceitos",
-                      "color": {
-                        "a": 1,
-                        "rgb": 44262
-                      }
-                    },
-                    {
-                      "query": "path:Pessoas",
-                      "color": {
-                        "a": 1,
-                        "rgb": 7353343
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 0.499154239928778,
-                  "lineSizeMultiplier": 3.04676162920098,
-                  "collapse-forces": false,
-                  "centerStrength": 0.74595180909584,
-                  "repelStrength": 16.6049430541567,
-                  "linkStrength": 1,
-                  "linkDistance": 185,
-                  "scale": 0.5087618855792732,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
-            "id": "be54be9ed5e7b099",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Conceitos/Fisica/Movimento → Cinemática.md"
-              }
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "7d2ce7e439e42683",
-        "type": "tabs",
-        "dimension": 35.02626970227671,
-        "children": [
-          {
-            "id": "1dad546673d9b590",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Conceitos/Fisica/Movimento → Cinemática.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "7ef9c8862bda658e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Conceitos/Fisica/Movimento → Cinemática.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": true
-              }
+              "type": "todo",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 260.33331298828125
+    "width": 300,
+    "collapsed": true
   },
   "active": "a2454415b5c43946",
   "lastOpenFiles": [
-    "Conceitos/Fisica/Movimento → Cinemática.md",
-    "Pasted image 20220502131606.png.md",
-    "img/Função Horária.png",
-    "img/Trângulo Retângulo.png",
-    "img/Entendendo MRU.png",
-    "Pasted image 20220502131606.png",
-    "Conceitos/Sociologia/Antropologia.md",
-    "Pessoas/Belgica/Lévi-strauss.md",
-    "Pessoas/França/Henrri Lefreb.md",
-    "Conceitos/Sociologia/Consumismo e cultura do consumo.md"
+    "Conceitos/Quimica/Mol.md",
+    "Conceitos/Quimica/PH.md",
+    "Pasted image 20220502193021.png",
+    "Pasted image 20220502192920.png",
+    "Pasted image 20220502192839.png",
+    "Pasted image 20220502185410.png",
+    "Pasted image 20220502184652.png",
+    "Pasted image 20220502183741.png",
+    "img/velocidade média de uma função horária.png",
+    "img/Trângulo Retângulo.png"
   ]
 }
