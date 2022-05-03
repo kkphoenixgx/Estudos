@@ -4,8 +4,11 @@ tags: [[Fisica]]
 
 Na física temos dois tipos de  grandezas físicas, as **Escalares e as vetoriais** 
 
-* **Escalares**
-* **Vetoriais**
+* **Escalares** = são grandezas que podemos mensurar sem informações adicionais, exemplo a temperatura média de uma sala ou quantas páginas tem um livro.
+* **Vetoriais** = Enquanto as grandezas vetoriais precisam de informações complementares, exmplo, um veículo tem a = 10m/s², beleza, mas para onde ele tá andando? Pergunte ao valor: **Para onde?** se ele responder, é uma grandeza vetorial.
+
+
+
 
 -----------------------------------------------
 ## Bibliografia
