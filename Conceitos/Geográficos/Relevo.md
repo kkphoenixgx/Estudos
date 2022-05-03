@@ -84,11 +84,11 @@ Podemos definir rochas como a solidificação de mineráis ou rochasmenores aind
 
 Diferenciamos as rochas justamente pela sia forma de criação. entre dois tipos
 
-* Rochas intrusivas
+* **Rochas intrusivas** são as rochas criadas no tecido da crosta, rochas criadas por vários fenômenos
 
+* **Rochas extrusivas** são as rochas criadas muito rápidamente na superfície da terra com os vulcões dos movimentos transformantes, o que causa seus minerais tendo tamanhos muito menores
 
-
-* Rochas extrusivas
+* **Rochas sedimentares** são rochas feitas a partir do sedimento de outras rochas, o desgaste a partir de agentes externos sedimentam essa rocha em particulas e essas particulas junto com outras formam novas rochas
 
 
 
