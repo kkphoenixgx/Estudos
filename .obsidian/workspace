@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f717c6f181aaf88a",
+        "id": "e1d509aa8c228ef2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Fisica/Vetores.md",
+            "file": "Conceitos/Geográficos/Relevo.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Geografia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,15 +106,15 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Fisica/Vetores.md",
+                "file": "Conceitos/Geográficos/Relevo.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 3,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
+                  "localInterlinks": true,
+                  "showTags": true,
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
@@ -141,20 +141,28 @@
                       }
                     }
                   ],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": -3,
                   "nodeSizeMultiplier": 0.777798798130425,
                   "lineSizeMultiplier": 3.04676162920098,
-                  "collapse-forces": false,
+                  "collapse-forces": true,
                   "centerStrength": 0.0173603383040285,
                   "repelStrength": 7.03983975072335,
                   "linkStrength": 0.829290006677053,
                   "linkDistance": 95,
-                  "scale": 0.5087618855792639,
+                  "scale": 0.2588386562181677,
                   "close": true
                 }
               }
+            }
+          },
+          {
+            "id": "fee652ff910044ec",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -171,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Fisica/Vetores.md",
+                "file": "Conceitos/Geográficos/Relevo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Fisica/Vetores.md",
+                "file": "Conceitos/Geográficos/Relevo.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -200,17 +208,17 @@
     "direction": "horizontal",
     "width": 260.33331298828125
   },
-  "active": "f717c6f181aaf88a",
+  "active": "e1d509aa8c228ef2",
   "lastOpenFiles": [
+    "Conceitos/Geográficos/Relevo.md",
+    "Pessoas/Alemanha/Friedrich Ratzel.md",
+    "Conceitos/Geográficos/Geografia.md",
     "Conceitos/Fisica/Vetores.md",
     "Conceitos/Sociologia/Antropologia.md",
     "Conceitos/Quimica/Mol.md",
     "Conceitos/Quimica/PH.md",
     "Pasted image 20220502193021.png",
     "Pasted image 20220502192920.png",
-    "Pasted image 20220502192839.png",
-    "Pasted image 20220502185410.png",
-    "Pasted image 20220502184652.png",
-    "Pasted image 20220502183741.png"
+    "Pasted image 20220502192839.png"
   ]
 }
