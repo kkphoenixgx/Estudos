@@ -4,6 +4,19 @@ tags:
 
 A química como área do conhecimento foi surgir no século [[18-XVIII]], embora a química seja muito antiga e que já tenha usos dela, dês de a era pré-histórica, lá no paleolítico, usavam o conhecimento de quimica para lidar com o fogo. No século XV, por exemplo, a química assumia o nome de Alquimia e essa química antiga, não continha  ciência, era cheia de misticismos, porém serviu para a base da química, pois grandes conhecimentos cientificos sairam desse momento mesmo em meio a todo misticismo.
 
+## Leis fundamentais das reações químicas
+
+
+
+
+## Mapa mental
+
+
 -----------------------------------------------
 ## Bibliografia
 https://plataforma.seliga.com.br/aula/abaf2b70-fcff-11ea-bfb3-addc889311d8
+
+
+
+https://plataforma.seliga.com.br/aula/d896bee0-fcff-11ea-b0d7-65390465ac41;missao_id=de7f9f40-4179-11ec-b104-93b6b9aa39bc;plano_id=83044210-4177-11ec-8f00-a746b13d8695
+

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e1d509aa8c228ef2",
+        "id": "7b3f051e309b5c80",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Geográficos/Relevo.md",
+            "file": "Conceitos/Quimica/Quimica.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Geográficos/Relevo.md",
+                "file": "Conceitos/Quimica/Quimica.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -171,12 +171,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceitos/Geográficos/Relevo.md"
+                "file": "Conceitos/Quimica/Quimica.md"
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "7d2ce7e439e42683",
@@ -189,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Geográficos/Relevo.md",
+                "file": "Conceitos/Quimica/Quimica.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Geográficos/Relevo.md",
+                "file": "Conceitos/Quimica/Quimica.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -218,8 +217,9 @@
     "direction": "horizontal",
     "width": 260.33331298828125
   },
-  "active": "e1d509aa8c228ef2",
+  "active": "7b3f051e309b5c80",
   "lastOpenFiles": [
+    "Conceitos/Quimica/Quimica.md",
     "Conceitos/Geográficos/Relevo.md",
     "Pessoas/Alemanha/Friedrich Ratzel.md",
     "Conceitos/Geográficos/Geografia.md",
@@ -228,7 +228,6 @@
     "Conceitos/Quimica/Mol.md",
     "Conceitos/Quimica/PH.md",
     "Pasted image 20220502193021.png",
-    "Pasted image 20220502192920.png",
-    "Pasted image 20220502192839.png"
+    "Pasted image 20220502192920.png"
   ]
 }
