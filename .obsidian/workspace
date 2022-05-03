@@ -151,7 +151,7 @@
                   "repelStrength": 7.03983975072335,
                   "linkStrength": 0.829290006677053,
                   "linkDistance": 95,
-                  "scale": 0.2588386562181677,
+                  "scale": 0.5087618855792692,
                   "close": true
                 }
               }
@@ -164,9 +164,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "bac30b01ed87ca3a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Conceitos/Geográficos/Relevo.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "7d2ce7e439e42683",
@@ -180,7 +190,7 @@
               "type": "backlink",
               "state": {
                 "file": "Conceitos/Geográficos/Relevo.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
