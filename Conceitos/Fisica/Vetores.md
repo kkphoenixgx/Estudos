@@ -11,7 +11,14 @@ Para representar um vetorial, nós usamos uma flecha em cima do módulo *Nota mi
 
 ![[Pasted image 20220503105830.png]]
 
-Onde a direção do vetor 
+Entendendo a imagem acima, devemos entender as propriedades de um vetor
+
+Um vetor possuí
+
+* |a→| (seria o a com o vetor em cima, mas não tem como fazer no teclado) que é justamente o modulo de comprimento do vetor, não importa onde ele esteja no eixo x, ele sempre vai dar o mesmo valor.
+* 
+
+
 
 -----------------------------------------------
 ## Bibliografia
