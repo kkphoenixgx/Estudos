@@ -10,14 +10,28 @@ Uma simples revisão das camadas da terra
 
 São as correntes de convicção que geram a instabilidade e a imprevisibilidade das placas tectonicas, essa teoria é chamada de **teoria tectonica de placas** e foi criada em 1960, que inclusive ressaltou a **Teoria da deriva continental 
 
+E com as placas tectonicas, temos vários tipos de movimentos e subdivisões dos movimentos. Logo podemos classificar esses mvimentos em:
+
+* Placa continental com placa continental
+* Placa continetal com placa oceânica
+* Placa oceânica com placa continetal
+
+E podemos classificar os movimentos das placas em=:
+
+* Movimentos herogenéticos
+
 ## Movimentos das placas
 
-* **Movimento divergente** que basicamente vai planando uma região
+### Movimentos divergentes  
+
+que basicamente vai planando uma região
 
 ![[Pasted image 20220503175446.png]]
 Que inclusive foi assim que criou-se os oceanos, o que gera também a dorsal Oceânica 
 
-* **Movimento convergente** que forma as montanhas, sempre a que pe mais denso, cai
+### Movimentos convergentes
+
+que forma as montanhas, sempre a que pe mais denso, cai
 
 ![[Pasted image 20220503175725.png]]
 
@@ -25,13 +39,21 @@ E no ponto mais profundo desse choque de placas pode gerar um grande buraco, uma
 
 ![[Pasted image 20220503180026.png]]
 
+* Movimento transformante = Movimento de fricção de duas placas
+
+![[Pasted image 20220503180705.png]]
+
+
+Tensão pdoe gerar terremotos
 
 
 ## Choques de placas
 
-* Placa continental com placa continental
-* Placa continetal com placa oceânica
-* Placa oceânica com placa continetal
+Destroi e constroi placas 
+
+**Dobramentos** =  ondulação de placas e magam em baixo, o que gera montanhas muito altas, como a cordilheira dos Andres
+
+
 
 
 -----------------------------------------------
