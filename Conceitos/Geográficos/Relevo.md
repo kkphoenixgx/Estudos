@@ -64,7 +64,31 @@ Que a tensão pdoe gerar rupturas, terremotos e falhas na superfície terrestre.
 	* Blocos rochosos que podem subir ou descer
 
 
-## Instabi
+## Instabilidade das placas
+
+Logicamente então quanto mais longe desses conflitos das placas, mais estável vai ser:
+
+![[Pasted image 20220503184407.png]]
+
+Então podemos ver também o conhecido como círculo de fogo do pacífico pela sua instabilidade.
+
+![[Pasted image 20220503184313.png]]
+
+de 2cm a 3cm de movimentos de placas
+
+## Relação entre placas e rochas
+
+Podemos definir rochas como a solidificação de mineráis ou rochasmenores ainda, o exemplo da imagem abaixo mostras dois tipos de rocha diferentes
+
+![[Pasted image 20220503185001.png]]
+
+Diferenciamos as rochas justamente pela sia forma de criação. entre dois tipos
+
+* Rochas intrusivas
+
+
+
+* Rochas extrusivas
 
 
 
