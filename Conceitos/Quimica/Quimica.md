@@ -10,7 +10,7 @@ A química como área do conhecimento foi surgir no século [[18-XVIII]], embora
 
 	Antonie Lavoisier fala que sua teoria se consiste em que as massas dos reagentes são iguaies aos produties
 
-![[Pasted image 20220503211114.png]]
+![[Lei de conservação das massas.png]]
 
 * **Leis das proporções constantes** = "*Uma substância composta é formada por substâncias mais simples, unidas sempre na mesma proporção em massa*"
 
@@ -18,9 +18,9 @@ A química como área do conhecimento foi surgir no século [[18-XVIII]], embora
 
 * **Leis volumétricas de Gay-Lussac** = "*Existe uma relação de números inteiros e pequenos entre os volumes dos gases participantes de uma reação*"
 
-	![[Pasted image 20220503220328.png]]
+	![[Leis volumétricas de gay-Lussac.png]]
 
-![[Pasted image 20220503220530.png]]
+![[Tabela reações químicas.png]]
 
 Percebra que com volumes gasosos, a primeira lei não funciona.
 

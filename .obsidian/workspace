@@ -9,9 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Biologia/Transporte ativo e endocitose.md",
+            "file": "Conceitos/Geográficos/Relevo.md",
             "mode": "source",
-            "backlinks": false
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -105,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Biologia/Transporte ativo e endocitose.md",
+                "file": "Conceitos/Geográficos/Relevo.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceitos/Biologia/Transporte ativo e endocitose.md"
+                "file": "Conceitos/Geográficos/Relevo.md"
               }
             }
           }
@@ -188,13 +189,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Biologia/Transporte ativo e endocitose.md",
+                "file": "Conceitos/Geográficos/Relevo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -205,9 +206,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Biologia/Transporte ativo e endocitose.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": true
+                "file": "Conceitos/Geográficos/Relevo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -219,6 +220,8 @@
   },
   "active": "9cc8d9ed42a53a67",
   "lastOpenFiles": [
+    "Conceitos/Geográficos/Relevo.md",
+    "Movimento de fricção.png",
     "Conceitos/Biologia/Transporte ativo e endocitose.md",
     "Conceitos/Quimica/Quimica.md",
     "Conceitos/Math/Simplificação.md",
@@ -226,8 +229,6 @@
     "Conceitos/Math/Produtos Notáveis e ×.md",
     "Conceitos/Quimica/Principio de Chatier.md",
     "Conceitos/Quimica/PH.md",
-    "Conceitos/Quimica/Mol.md",
-    "Conceitos/Linguagens/Inglês/Aulas de Inglês/Resumo, lessons 1-5 Book 9.md",
-    "Conceitos/Geográficos/Relevo.md"
+    "Conceitos/Quimica/Mol.md"
   ]
 }

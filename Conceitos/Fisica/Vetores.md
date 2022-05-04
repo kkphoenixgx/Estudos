@@ -9,7 +9,7 @@ Na física temos dois tipos de  grandezas físicas, as **Escalares e as vetoriai
 
 Para representar um vetorial, nós usamos uma flecha em cima do módulo *Nota minha: O módulo representa justamente que essa grandeza é positiva e se você para para pensar, o módulo deve ser positivo para um vetor, já que ele interpreta algo que tem um Para onde* 
 
-![[Pasted image 20220503105830.png]]
+![[Arrows dos vetores.png]]
 
 Entendendo a imagem acima, devemos entender as propriedades de um vetor
 

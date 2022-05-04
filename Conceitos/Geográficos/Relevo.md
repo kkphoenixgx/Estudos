@@ -4,7 +4,7 @@ tags:  #Geografia
 
 Uma simples revisão das camadas da terra
 
-![[Pasted image 20220503174556.png]]
+![[Camadas da terra.png]]
 
 **As correntes de convicção** → São movimentos gerados no manto que contem magma, que se refletem na litosfera, nas placas tectonicas.
 
@@ -18,18 +18,18 @@ E com as placas tectonicas, temos vários tipos de movimentos e subdivisões dos
 
 que basicamente vai planando uma região
 
-![[Pasted image 20220503175446.png]]
+![[Movimentos divergentes.png]]
 Que inclusive foi assim que criou-se os oceanos, o que gera também a dorsal Oceânica 
 
 ### Movimentos convergentes
 
 Que forma as montanhas, sempre a que pe mais denso, cai
 
-![[Pasted image 20220503175725.png]]
+![[Movimentos convergentes.png]]
 
 E no ponto mais profundo desse choque de placas pode gerar um grande buraco, uma grande profundidade, as fossas submarinas
 
-![[Pasted image 20220503180026.png]]
+![[Fomação de tundras oceânicas.png]]
 
 Nesse caso podemos associar esse movimento as seguintes compinações de placas:
 
@@ -45,7 +45,7 @@ Nesse caso, podemos citar as seguintes consequências:
 
 Movimento de fricção de duas placas
 
-![[Pasted image 20220503180705.png]]
+![[Movimento de fricção.png]]
 
 Que a tensão pdoe gerar rupturas, terremotos e falhas na superfície terrestre. Dentro desses tipos de movimentos, podemos citar alguns movimentos que causam coisas diferentes, entre eles:
 
@@ -54,7 +54,7 @@ Que a tensão pdoe gerar rupturas, terremotos e falhas na superfície terrestre.
 	 
 		São tensões acumuladas que quando aliviam a pressão entre duas placas geram um terremoto. Terremoto esse que possuí um hipocentro e um epicentro, que hipocentro é onde ocorreu o alívio dessa pressão de duas placas e epicentro a superfície que essas ondas se alastraram
 
-		![[Pasted image 20220503183403.png]]
+		![[Formação de tsunamis.png]]
 	* Ilhas
 	* Vulcões 
 		Tenha em mente que vulcões são diferentes de vulcanismos. Vulcões são estruturas criadas justamente para dicipar o magma acumulado.
@@ -68,11 +68,11 @@ Que a tensão pdoe gerar rupturas, terremotos e falhas na superfície terrestre.
 
 Logicamente então quanto mais longe desses conflitos das placas, mais estável vai ser:
 
-![[Pasted image 20220503184407.png]]
+![[Placas tectonicas.png]]
 
 Então podemos ver também o conhecido como círculo de fogo do pacífico pela sua instabilidade.
 
-![[Pasted image 20220503184313.png]]
+![[Círculo de fogo.png]]
 
 de 2cm a 3cm de movimentos de placas
 
@@ -80,7 +80,7 @@ de 2cm a 3cm de movimentos de placas
 
 Podemos definir rochas como a solidificação de mineráis ou rochasmenores ainda, o exemplo da imagem abaixo mostras dois tipos de rocha diferentes
 
-![[Pasted image 20220503185001.png]]
+![[Tipos de rochas.png]]
 
 Diferenciamos as rochas justamente pela sia forma de criação. entre dois tipos
 
