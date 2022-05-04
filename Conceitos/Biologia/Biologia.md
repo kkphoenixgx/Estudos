@@ -3,7 +3,6 @@
 tags: #Biologia [[19-XIX]]
 
 
-A biologia 
 
 -----------------------------------------------
 ## Bibliografia
