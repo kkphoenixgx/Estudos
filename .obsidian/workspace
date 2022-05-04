@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4c8f6ba92b2dbdd0",
+        "id": "986c4af71e33ced6",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Geografia",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,14 +108,14 @@
               "state": {
                 "file": "Conceitos/Biologia/Biologia.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 3,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
                   "showTags": true,
-                  "showAttachments": false,
+                  "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [
@@ -145,38 +145,20 @@
                   "showArrow": false,
                   "textFadeMultiplier": -3,
                   "nodeSizeMultiplier": 0.777798798130425,
-                  "lineSizeMultiplier": 3.04676162920098,
-                  "collapse-forces": true,
-                  "centerStrength": 0.0173603383040285,
-                  "repelStrength": 7.03983975072335,
-                  "linkStrength": 0.829290006677053,
+                  "lineSizeMultiplier": 5,
+                  "collapse-forces": false,
+                  "centerStrength": 0.00216936546060277,
+                  "repelStrength": 11.7440148756489,
+                  "linkStrength": 1,
                   "linkDistance": 95,
-                  "scale": 0.5087618855792719,
+                  "scale": 0.1846232622585837,
                   "close": true
                 }
               }
             }
-          },
-          {
-            "id": "fee652ff910044ec",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "bac30b01ed87ca3a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Conceitos/Biologia/Biologia.md"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "7d2ce7e439e42683",
@@ -190,13 +172,13 @@
               "type": "backlink",
               "state": {
                 "file": "Conceitos/Biologia/Biologia.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -207,8 +189,8 @@
               "type": "outgoing-link",
               "state": {
                 "file": "Conceitos/Biologia/Biologia.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -218,17 +200,17 @@
     "direction": "horizontal",
     "width": 260.33331298828125
   },
-  "active": "4c8f6ba92b2dbdd0",
+  "active": "986c4af71e33ced6",
   "lastOpenFiles": [
     "Conceitos/Biologia/Biologia.md",
+    "Conceitos/Geográficos/Biomas.md",
+    "Conceitos/Geográficos/Geografia.md",
+    "Conceitos/Geográficos/Espaço e Região.md",
     "Conceitos/Biologia/Transporte ativo e endocitose.md",
+    "Conceitos/Sociologia/Antropologia.md",
     "img/MRU de aceleração constante.png",
     "img/MRU velocidade constante.png",
     "Conceitos/Geográficos/Relevo.md",
-    "img/Movimento de fricção.png",
-    "Conceitos/Quimica/Quimica.md",
-    "Conceitos/Math/Simplificação.md",
-    "Conceitos/Math/Fatoração e Raizes.md",
-    "Conceitos/Math/Produtos Notáveis e ×.md"
+    "img/Movimento de fricção.png"
   ]
 }
