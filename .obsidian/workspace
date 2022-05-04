@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7b3f051e309b5c80",
+        "id": "c5feb7979579b589",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Quimica/Mol.md",
+            "file": "Conceitos/Quimica/Quimica.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Quimica/Mol.md",
+                "file": "Conceitos/Quimica/Quimica.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceitos/Quimica/Mol.md"
+                "file": "Conceitos/Quimica/Quimica.md"
               }
             }
           }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Quimica/Mol.md",
+                "file": "Conceitos/Quimica/Quimica.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Quimica/Mol.md",
+                "file": "Conceitos/Quimica/Quimica.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -218,17 +218,17 @@
     "direction": "horizontal",
     "width": 260.33331298828125
   },
-  "active": "7b3f051e309b5c80",
+  "active": "c5feb7979579b589",
   "lastOpenFiles": [
+    "Conceitos/Quimica/Quimica.md",
+    "Conceitos/Math/Simplificação.md",
+    "Conceitos/Math/Fatoração e Raizes.md",
+    "Conceitos/Math/Produtos Notáveis e ×.md",
+    "Conceitos/Quimica/Principio de Chatier.md",
+    "Conceitos/Quimica/PH.md",
     "Conceitos/Quimica/Mol.md",
     "Conceitos/Linguagens/Inglês/Aulas de Inglês/Resumo, lessons 1-5 Book 9.md",
-    "Conceitos/Quimica/Quimica.md",
     "Conceitos/Geográficos/Relevo.md",
-    "Pessoas/Alemanha/Friedrich Ratzel.md",
-    "Conceitos/Geográficos/Geografia.md",
-    "Conceitos/Fisica/Vetores.md",
-    "Conceitos/Sociologia/Antropologia.md",
-    "Conceitos/Quimica/PH.md",
-    "Pasted image 20220502193021.png"
+    "Pessoas/Alemanha/Friedrich Ratzel.md"
   ]
 }
