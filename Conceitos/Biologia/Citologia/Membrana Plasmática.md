@@ -9,11 +9,11 @@ tags:  [[Citologia]]
 
 ## Transportes na membrana
 
-Os transportes na membrana plasmática acontecem para que os nutrientes oxigenio sejam pegados 
+Os transportes na membrana plasmática acontecem para que os nutrientes e oxigenio sejam pegos e distribuídos pela célula, então é importante que esses ocorram para a manutenção da célula
 
 ### Transporte ativo
 
-O processo ativo acontece 
+O processo ativo acontece quando as moléculas 
 
 ### Transporte passivo
 
