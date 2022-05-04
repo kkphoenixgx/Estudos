@@ -16,6 +16,10 @@ A química como área do conhecimento foi surgir no século [[18-XVIII]], embora
 
 	Se multiplicar de um lado pode multiplicar de outro
 
+* **Leis volumétricas de Gay-Lussac** = "*Existe uma relação de números inteiros e pequenos entre os volumes dos gases participantes de uma reação*"
+
+	![[Pasted image 20220503220328.png]]
+
 
 
 
