@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5feb7979579b589",
+        "id": "9cc8d9ed42a53a67",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Conceitos/Quimica/Quimica.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -106,7 +101,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Quimica/Quimica.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,9 +164,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Conceitos/Quimica/Quimica.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -189,7 +181,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Quimica/Quimica.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +197,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Quimica/Quimica.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +208,7 @@
     "direction": "horizontal",
     "width": 260.33331298828125
   },
-  "active": "c5feb7979579b589",
+  "active": "9cc8d9ed42a53a67",
   "lastOpenFiles": [
     "Conceitos/Quimica/Quimica.md",
     "Conceitos/Math/Simplificação.md",
