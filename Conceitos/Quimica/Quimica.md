@@ -20,8 +20,9 @@ A química como área do conhecimento foi surgir no século [[18-XVIII]], embora
 
 	![[Pasted image 20220503220328.png]]
 
+![[Pasted image 20220503220530.png]]
 
-
+Percebra que com volumes gasosos, a primeira lei não funciona.
 
 ## Mapa mental
 
