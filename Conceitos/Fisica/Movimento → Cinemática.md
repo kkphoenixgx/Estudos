@@ -257,19 +257,19 @@ Inclusive podemos dividir na metade essa parabula e entender que em uma parte a 
 
 Isolamos o ▲s e formamos que é só multiplicar v por ▲t e sendo v constante, o que muda é t, nesse exemplo temos que a figura é um quadrado.
 
-![[Pasted image 20220502183741.png]]
+![[MRU velocidade constante.png]]
 
 #### No caso de duas figuras
 
-![[Pasted image 20220502184424.png]]
+![[Calculando spaces diferentes.png]]
 
 Calculamos individualmente e depois somamos
 
-![[Pasted image 20220502184652.png]]
+![[Calculando space de um gráfico.png]]
 
 ### Aceleração por tempo (MRUV)
 
-![[Pasted image 20220502184940.png]]
+![[MRU de aceleração constante.png]]
 
 Quanto dá A? *resposta na ultima linha* 
 
@@ -280,7 +280,7 @@ Quanto dá A? *resposta na ultima linha*
 
 ![[Questão de cinemática gráficos.png]]
 
-![[Pasted image 20220502192839.png]]
+![[Questão MRU fisica.png]]
 
 
 ![[Qeuestão de física MRUV.png]]
@@ -315,7 +315,7 @@ E isso faz muito sentindo, pois pensa, tenho um movimento em linha reta, a veloc
 
 $$ a = \frac{▲S}{▲t}$$
 
-![[Pasted image 20220502185410.png]]
+![[Funções horárias.png]]
 
 ## Bibliografia
 
