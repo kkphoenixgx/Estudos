@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Quimica/Quimica.md",
+            "file": "Conceitos/Quimica/Mol.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Quimica/Quimica.md",
+                "file": "Conceitos/Quimica/Mol.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -151,7 +151,7 @@
                   "repelStrength": 7.03983975072335,
                   "linkStrength": 0.829290006677053,
                   "linkDistance": 95,
-                  "scale": 0.5087618855792692,
+                  "scale": 0.5087618855792719,
                   "close": true
                 }
               }
@@ -171,11 +171,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceitos/Quimica/Quimica.md"
+                "file": "Conceitos/Quimica/Mol.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "7d2ce7e439e42683",
@@ -188,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Quimica/Quimica.md",
+                "file": "Conceitos/Quimica/Mol.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Quimica/Quimica.md",
+                "file": "Conceitos/Quimica/Mol.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -219,15 +220,15 @@
   },
   "active": "7b3f051e309b5c80",
   "lastOpenFiles": [
+    "Conceitos/Quimica/Mol.md",
+    "Conceitos/Linguagens/Inglês/Aulas de Inglês/Resumo, lessons 1-5 Book 9.md",
     "Conceitos/Quimica/Quimica.md",
     "Conceitos/Geográficos/Relevo.md",
     "Pessoas/Alemanha/Friedrich Ratzel.md",
     "Conceitos/Geográficos/Geografia.md",
     "Conceitos/Fisica/Vetores.md",
     "Conceitos/Sociologia/Antropologia.md",
-    "Conceitos/Quimica/Mol.md",
     "Conceitos/Quimica/PH.md",
-    "Pasted image 20220502193021.png",
-    "Pasted image 20220502192920.png"
+    "Pasted image 20220502193021.png"
   ]
 }

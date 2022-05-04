@@ -6,7 +6,11 @@ A química como área do conhecimento foi surgir no século [[18-XVIII]], embora
 
 ## Leis fundamentais das reações químicas
 
-* Princípio da conv
+* Princípio da conservação da massas = "*Na natureza nada se cria, tudo se transforma*" ~ Antoine Lavoisier
+
+Antonie Lavoisier fala que sua teoria se consiste em que as os reagentes são iguaies aos produties
+
+
 
 
 ## Mapa mental
