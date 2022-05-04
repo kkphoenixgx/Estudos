@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "306571f18813da97",
+        "id": "d62e07872acb5def",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Biologia/Citologia.md",
+            "file": "Conceitos/Biologia/Citologia/Membrana Plasmática.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Biologia/Citologia.md",
+                "file": "Conceitos/Biologia/Citologia/Membrana Plasmática.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Biologia/Citologia.md",
+                "file": "Conceitos/Biologia/Citologia/Membrana Plasmática.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Biologia/Citologia.md",
+                "file": "Conceitos/Biologia/Citologia/Membrana Plasmática.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -200,17 +200,17 @@
     "direction": "horizontal",
     "width": 260.33331298828125
   },
-  "active": "306571f18813da97",
+  "active": "d62e07872acb5def",
   "lastOpenFiles": [
-    "Conceitos/Biologia/Citologia.md",
+    "Conceitos/Biologia/Citologia/Membrana Plasmática.md",
+    "img/Mosaico-fluído.png",
+    "Conceitos/Biologia/Citologia/Citologia.md",
     "Conceitos/Biologia/Biologia.md",
     "Pessoas/Itália/Galileu.md",
     "Conceitos/Geográficos/Biomas.md",
     "Conceitos/Geográficos/Geografia.md",
     "Conceitos/Geográficos/Espaço e Região.md",
     "Conceitos/Biologia/Transporte ativo e endocitose.md",
-    "Conceitos/Sociologia/Antropologia.md",
-    "img/MRU de aceleração constante.png",
-    "img/MRU velocidade constante.png"
+    "Conceitos/Sociologia/Antropologia.md"
   ]
 }
