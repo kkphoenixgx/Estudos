@@ -9,7 +9,7 @@ tags:  [[Citologia]]
 
 ## Transportes na membrana
 
-Os transportes na membrana plasmática 
+Os transportes na membrana plasmática acontecem para que os nutrientes oxigenio sejam pegados 
 
 ### Transporte ativo
 
