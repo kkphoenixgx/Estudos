@@ -12,8 +12,9 @@ A química como área do conhecimento foi surgir no século [[18-XVIII]], embora
 
 ![[Pasted image 20220503211114.png]]
 
-* **Leis das proporções constantes** = 
+* **Leis das proporções constantes** = "*Uma substância composta é formada por substâncias mais simples, unidas sempre na mesma proporção em massa*"
 
+	Se multiplicar de um lado pode multiplicar de outro
 
 
 
