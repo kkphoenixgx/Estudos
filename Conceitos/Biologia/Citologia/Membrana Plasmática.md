@@ -21,8 +21,10 @@ O processo ativo acontece quando as moléculas são grandes de mais para passar 
 
 A forma mais simples de transporte de Íons, do lado exterior da membrana plasmática, temos um lado hipertônico e um hipotônico, sendo o hipotônico o lado interior da célula. Diferentemente do transporte passivo, as moléculas que estão no lado hipotônico, vão ir para o lado hipertônico com a ajuda de um facilitador.
 
-### Bomba de sódio / Potássio
+### Bomba de S / K
 
+A bomba de Sódio / Potássio facilita esse processo de difusão ativa, existe uma proteína transportadora que é a facilitadora do nosso transporte. Quando se quebra 1 ATP para a proteína se mover na célula, 3Na vão ser formados, movendo a proteína e permitindo que 2K possam entrar na célula. 
+Imagine uma alta concentração de íons Na+ no lado hipertônico da membrana (Lado de fora, no caso) e uma alta concentração de K+ do lado hipotônico da membrana, os Na+ que estão do lado hipotônico querem sair e os K+ do lado hipertônico querem entrar. Portanto quando o facilitador se abre, esses se movem e são trocados da maneira que foi dita. De forma que 3na saiam a cada abertura e 
 
 
 
