@@ -24,4 +24,3 @@ Caderno matéria do se liga, dia 02/03/22 e 06/04/22
 
 ## Mapa Mental
 
-https://plataforma.seliga.com.br/aula/4dfa2450-fcef-11ea-859e-39eed7ea7806;missao_id=de7f9f40-4179-11ec-b104-93b6b9aa39bc;plano_id=83044210-4177-11ec-8f00-a746b13d8695
