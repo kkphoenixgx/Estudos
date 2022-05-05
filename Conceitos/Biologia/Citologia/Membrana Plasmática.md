@@ -2,8 +2,8 @@
 2022-05-04
 tags:  [[Citologia]]
 
-* Hipertônico 
-* Hipotonico
+* Hipertônico = Alta concentração de Íons
+* Hipotônico = Baixa concentração de íons
 
 ## Modelo Mosaico fluído
 
@@ -18,6 +18,11 @@ Os transportes na membrana plasmática acontecem para que os nutrientes e oxigê
 O processo ativo acontece quando as moléculas são grandes de mais para passar pela barreira do ATP. Então facilitadores, pegam essas moléculas por um sistema de abre de um lado para capturar a molécula, fecha, e depois abre do outro para solta-la e isso acontece interruptamente
 
 ### Transporte ativo primário
+
+A forma mais simples de transporte de Íons, do lado exterior da membrana plasmática, temos um lado hipertônico e um hipotônico, sendo o hipotônico o lado interior da célula. Diferentemente do transporte passivo, as moléculas que estão no lado hipotônico, vão ir para o lado hipertônico com a ajuda de um facilitador.
+
+### Bomba de sódio / Potássio
+
 
 
 
