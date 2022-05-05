@@ -7,120 +7,198 @@
         "id": "1821cfbd4dd591f8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Conceitos/Biologia/Citologia/Membrana Plasmática.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0e79d7a9e614ebee",
-    "type": "mobile-drawer",
+    "id": "169290f161d925c6",
+    "type": "split",
     "children": [
       {
-        "id": "cb07a3bf9bb40e92",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "36394fe5959293ba",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "b6e822dc645a2adb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f21e55f16ef6ef6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0e58ecfe5ef021c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a02913e81349774b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "503dd24a75dd18ad",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "7f87f3cc1037d674",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 210.5
   },
   "right": {
-    "id": "99f23772fbc23624",
-    "type": "mobile-drawer",
+    "id": "1f8376e3e70246bb",
+    "type": "split",
     "children": [
       {
-        "id": "b5498d9f5785afe6",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
+        "id": "b330c9ef0a50ad19",
+        "type": "tabs",
+        "dimension": 64.97373029772329,
+        "children": [
+          {
+            "id": "5918eaeada9c3712",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "61842d7fb3f0a83e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b22457c49b7235d1",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "8052ebe3830fcefa",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "path:Sec",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "path:Conceitos",
+                      "color": {
+                        "a": 1,
+                        "rgb": 44262
+                      }
+                    },
+                    {
+                      "query": "path:Pessoas",
+                      "color": {
+                        "a": 1,
+                        "rgb": 7353343
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 0.777798798130425,
+                  "lineSizeMultiplier": 3.04676162920098,
+                  "collapse-forces": false,
+                  "centerStrength": 0.0173603383040285,
+                  "repelStrength": 7.03983975072335,
+                  "linkStrength": 0.829290006677053,
+                  "linkDistance": 95,
+                  "scale": 0.7132754626224501,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "84ab65ba529362b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
       },
       {
-        "id": "f7aefcb0d4e56248",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Conceitos/Biologia/Citologia/Membrana Plasmática.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "7d2ce7e439e42683",
+        "type": "tabs",
+        "dimension": 35.02626970227671,
+        "children": [
+          {
+            "id": "1dad546673d9b590",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "7ef9c8862bda658e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "d183a9b2f5548750",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "Conceitos/Biologia/Citologia/Membrana Plasmática.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "7752c3664be5d91f",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Conceitos/Biologia/Citologia/Membrana Plasmática.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 260.33331298828125
   },
   "active": "1821cfbd4dd591f8",
   "lastOpenFiles": [
