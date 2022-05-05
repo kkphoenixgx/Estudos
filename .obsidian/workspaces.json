@@ -6,14 +6,15 @@
         "type": "split",
         "children": [
           {
-            "id": "d0b052f854182808",
+            "id": "2eae38de7acdff28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceitos/Sociologia/Antropologia.md",
+                "file": "Conceitos/Biologia/Citologia/Citologia.md",
                 "mode": "source",
-                "backlinks": false
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -63,7 +64,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 212
+        "width": 210.5
       },
       "right": {
         "id": "1f8376e3e70246bb",
@@ -107,16 +108,16 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Conceitos/Sociologia/Antropologia.md",
+                    "file": "Conceitos/Biologia/Citologia/Citologia.md",
                     "options": {
-                      "collapse-filter": true,
+                      "collapse-filter": false,
                       "search": "",
                       "localJumps": 3,
                       "localBacklinks": true,
                       "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
+                      "localInterlinks": true,
+                      "showTags": true,
+                      "showAttachments": true,
                       "hideUnresolved": false,
                       "collapse-color-groups": true,
                       "colorGroups": [
@@ -142,7 +143,7 @@
                           }
                         }
                       ],
-                      "collapse-display": false,
+                      "collapse-display": true,
                       "showArrow": false,
                       "textFadeMultiplier": -3,
                       "nodeSizeMultiplier": 0.777798798130425,
@@ -152,9 +153,19 @@
                       "repelStrength": 7.03983975072335,
                       "linkStrength": 0.829290006677053,
                       "linkDistance": 95,
-                      "scale": 0.5087618855792639,
+                      "scale": 0.5087618855792642,
                       "close": true
                     }
+                  }
+                }
+              },
+              {
+                "id": "84ab65ba529362b8",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Conceitos/Biologia/Citologia/Citologia.md"
                   }
                 }
               }
@@ -172,7 +183,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Conceitos/Sociologia/Antropologia.md",
+                    "file": "Conceitos/Biologia/Citologia/Citologia.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -189,9 +200,9 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Conceitos/Sociologia/Antropologia.md",
-                    "linksCollapsed": true,
-                    "unlinkedCollapsed": true
+                    "file": "Conceitos/Biologia/Citologia/Citologia.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
                   }
                 }
               }
@@ -201,7 +212,7 @@
         "direction": "horizontal",
         "width": 260.33331298828125
       },
-      "active": "d0b052f854182808"
+      "active": "2eae38de7acdff28"
     }
   },
   "active": "Estudos Gerais"

@@ -1,1 +1,12 @@
-{}
+{
+  "legacyEditor": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "pt-BR"
+  ]
+}
