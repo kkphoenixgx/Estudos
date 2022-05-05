@@ -11,8 +11,7 @@
           "state": {
             "file": "Conceitos/Biologia/Citologia/Membrana Plasmática.md",
             "mode": "source",
-            "backlinks": false,
-            "source": false
+            "backlinks": false
           }
         }
       }
@@ -154,6 +153,16 @@
                   "scale": 0.5087618855792683,
                   "close": true
                 }
+              }
+            }
+          },
+          {
+            "id": "deee16ac55c9ddd4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Conceitos/Biologia/Citologia/Membrana Plasmática.md"
               }
             }
           }
