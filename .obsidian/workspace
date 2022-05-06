@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2d9d65ef1ebedf00",
+        "id": "d61172e27f4517e3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Fisica/Eletrodinamica.md",
+            "file": "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura e Literatura Brasileira.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 247.5
   },
   "right": {
     "id": "1f8376e3e70246bb",
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Fisica/Eletrodinamica.md",
+                "file": "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura e Literatura Brasileira.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceitos/Fisica/Eletrodinamica.md"
+                "file": "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura e Literatura Brasileira.md"
               }
             }
           }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Fisica/Eletrodinamica.md",
+                "file": "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura e Literatura Brasileira.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Fisica/Eletrodinamica.md",
+                "file": "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura e Literatura Brasileira.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,8 +210,9 @@
     "direction": "horizontal",
     "width": 260.33331298828125
   },
-  "active": "2d9d65ef1ebedf00",
+  "active": "d61172e27f4517e3",
   "lastOpenFiles": [
+    "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura e Literatura Brasileira.md",
     "Conceitos/Fisica/Eletrodinamica.md",
     "Conceitos/Biologia/Citologia/Citologia.md",
     "Conceitos/Fisica/Movimento → Cinemática.md",
@@ -220,7 +221,6 @@
     "Conceitos/Fisica/Eletrodinâmica/Eletrodinâmica.md",
     "Pessoas/Inglaterra/Newton.md",
     "Membrana Plasmática 2.md",
-    "Membrana Plasmática 1.md",
-    "Membrana Plasmática.md"
+    "Membrana Plasmática 1.md"
   ]
 }

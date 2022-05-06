@@ -11,6 +11,12 @@ Para ele, isso trás prazer e conhecimento.
 
 A Literatura busca proporcionar **prazer** e **catarze**, assim como os Gregos pensavam na época de Aristóteles
 
+Então ele cria três gêneros textuais:
+
+* **Gênero Lírico** = Que fala sobre o eu
+* **Épico*** = História épica
+* **Dramático** = Texto teatral
+
 Catarze é basicamente um é um alívio de sentimentos que foram gerados pela leitura. E essa catarse pode ser obtida em diferentes estilos de literatura, iremos então citar dois, que de acordo com o filosofo Nietchze pode ser divididos em dois tipos e essas duas categorias funcionam como uma moeda de  duas faces que é sempre virada, como um pendulo que vai e volta, um movimento pendular que possuí médias e que tem uma intersecção
 
 * Apolo = Mais razão = **Apoliniaca** 
@@ -19,25 +25,29 @@ Catarze é basicamente um é um alívio de sentimentos que foram gerados pela le
 E eles ficam intercalando entre esses dois estilos
 
 ---------------------------------------------
-* Eu lírico é quem fala na poezia.
+* Eu lírico é quem fala na poesia.
 
-Podemos dividir a Literatura em periodos.
+Podemos dividir a Literatura em períodos.
 
-## Periodos da Literatura
+## Períodos da Literatura
 
-### Periodo Clássico
-* Eliada, primeira obra literária, de Homero. Que escreveu a odiceia, que ocorreu após a Guerra de Tróia
+### Período Clássico
+* Eliada, primeira obra literária, de Homero. Que escreveu a Odiceia, que ocorreu após a Guerra de Tróia
 * Literatura Romana - Eneida, de Virgílio.
 
 Terminou com o fim da Roma
 
 ### Medieval -  século XII
 
+Para falarmos sobre idade média temos que ter em mente duas datas: 476ac (Queda do Império romano do Ocidente) até  1453 (Tomada de Constantinopla). A mistura de línguas que aconteceu nas invasões bárbaras e que gerou as línguas neolatinas porém nesa 
+
 #### Trovadorismo
 Arte dionisíaca
 
 * Cantigas 
-* Descrição do Brasil para portugal
+* Descrição do Brasil para Portugal
+
+
 
 #### Humanismo
 Arte apolinica
