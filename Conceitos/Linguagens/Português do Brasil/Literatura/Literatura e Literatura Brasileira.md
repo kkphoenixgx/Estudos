@@ -47,10 +47,28 @@ Arte dionisíaca
 
 * Cantigas 
 * Descrição do Brasil para Portugal
-
-#### Cantigas de 
-
 **Paralelismo**  = Ficar repetindo algo para fácil memorização
+
+##### Cantigas de amor
+
+* Eu lírico masculinos
+
+Muito culto
+
+
+##### Cantigas de amigo
+
+* Eu lírico feminino
+* Amigo é namorado
+* Desabafa com figuras do cotidiano feminino
+* Sofre por alguém
+
+Do povão 
+
+##### Cantigas Satíricas
+
+* Escarnio = Satirizam discretamente
+* Mal dizer = Satirizam sem nem ter escrúpulos
 
 
 #### Humanismo
