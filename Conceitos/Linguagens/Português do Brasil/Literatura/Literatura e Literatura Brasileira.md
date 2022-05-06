@@ -55,7 +55,6 @@ Arte dionisíaca
 
 Muito culto
 
-
 ##### Cantigas de amigo
 
 * Eu lírico feminino
@@ -70,6 +69,14 @@ Do povão
 * Escarnio = Satirizam discretamente
 * Mal dizer = Satirizam sem nem ter escrúpulos
 
+##### Novelas de cavalaria
+
+Contam histórias dos cavaleiros andantes
+
+Podemos dividir elas em círculos
+
+* Círculo Asturiano = A demanda do santo graal sobre os cavaleiros da tabula redonda.
+* Círculo Carolíngio = Rei Carlos Magnum e os dois pares de França
 
 #### Humanismo
 Arte apolinica
