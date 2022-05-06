@@ -7,23 +7,27 @@
         "id": "1821cfbd4dd591f8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Conceitos/Fisica/Eletrodinamica.md",
+            "mode": "source",
+            "backlinks": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "169290f161d925c6",
+    "id": "a81db87b3e5dc101",
     "type": "split",
     "children": [
       {
-        "id": "b6e822dc645a2adb",
+        "id": "1b8122db46b82bb5",
         "type": "tabs",
         "children": [
           {
-            "id": "4f21e55f16ef6ef6",
+            "id": "2d625ca14a6666e1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +35,7 @@
             }
           },
           {
-            "id": "0e58ecfe5ef021c8",
+            "id": "4d2d3d5ae12882e4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -46,7 +50,7 @@
             }
           },
           {
-            "id": "a02913e81349774b",
+            "id": "a4a8265f22bd40ee",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -57,19 +61,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 300
   },
   "right": {
-    "id": "1f8376e3e70246bb",
+    "id": "1a656c93fd3ee315",
     "type": "split",
     "children": [
       {
-        "id": "b330c9ef0a50ad19",
+        "id": "52816010a5fa7c35",
         "type": "tabs",
-        "dimension": 64.97373029772329,
         "children": [
           {
-            "id": "5918eaeada9c3712",
+            "id": "f1ef11e655ade428",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -77,7 +80,36 @@
             }
           },
           {
-            "id": "61842d7fb3f0a83e",
+            "id": "acc39a7c713e32c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Conceitos/Fisica/Eletrodinamica.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6635442001f5144a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Conceitos/Fisica/Eletrodinamica.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34f2d602ad0dc1ed",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -88,129 +120,41 @@
             }
           },
           {
-            "id": "b22457c49b7235d1",
+            "id": "1afc6d31fd937626",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Conceitos/Fisica/Eletrodinamica.md"
+              }
+            }
+          },
+          {
+            "id": "f3b7fd40cf80cdc2",
             "type": "leaf",
             "state": {
               "type": "todo",
               "state": {}
-            }
-          },
-          {
-            "id": "8052ebe3830fcefa",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 3,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "path:Sec",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    },
-                    {
-                      "query": "path:Conceitos",
-                      "color": {
-                        "a": 1,
-                        "rgb": 44262
-                      }
-                    },
-                    {
-                      "query": "path:Pessoas",
-                      "color": {
-                        "a": 1,
-                        "rgb": 7353343
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 0.777798798130425,
-                  "lineSizeMultiplier": 3.04676162920098,
-                  "collapse-forces": false,
-                  "centerStrength": 0.0173603383040285,
-                  "repelStrength": 7.03983975072335,
-                  "linkStrength": 0.829290006677053,
-                  "linkDistance": 95,
-                  "scale": 0.7132754626224501,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
-            "id": "84ab65ba529362b8",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "7d2ce7e439e42683",
-        "type": "tabs",
-        "dimension": 35.02626970227671,
-        "children": [
-          {
-            "id": "1dad546673d9b590",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "7ef9c8862bda658e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 260.33331298828125
+    "width": 300,
+    "collapsed": true
   },
   "active": "1821cfbd4dd591f8",
   "lastOpenFiles": [
-    "Conceitos/Biologia/Citologia/Membrana Plasmática.md",
+    "Conceitos/Fisica/Eletrodinamica.md",
+    "Conceitos/Fisica/Movimento → Cinemática.md",
     "Conceitos/Biologia/Citologia/Citologia.md",
-    "Conceitos/Biologia/Citologia/Transporte ativo e endocitose.md",
-    "Conceitos/Sociologia/Antropologia.md",
-    "Conceitos/Math/Produtos Notáveis e ×.md",
-    "img/Mosaico-fluído.png",
-    "Conceitos/Biologia/Biologia.md",
-    "Pessoas/Itália/Galileu.md",
-    "Conceitos/Geográficos/Biomas.md",
-    "Conceitos/Geográficos/Geografia.md"
+    "Conceitos/Biologia/Citologia/Membrana Plasmática.md",
+    "Conceitos/Geográficos/Geografia.md",
+    "Conceitos/Fisica/Eletrodinâmica/Eletrodinâmica.md",
+    "Pessoas/Inglaterra/Newton.md",
+    "Membrana Plasmática 2.md",
+    "Membrana Plasmática 1.md",
+    "Membrana Plasmática.md"
   ]
 }
