@@ -39,7 +39,7 @@ Terminou com o fim da Roma
 
 ### Medieval -  século XII
 
-Para falarmos sobre idade média temos que ter em mente duas datas: 476ac (Queda do Império romano do Ocidente) até  1453 (Tomada de Constantinopla). A mistura de línguas que aconteceu nas invasões bárbaras e que gerou as línguas neolatinas porém nesa 
+Para falarmos sobre idade média temos que ter em mente duas datas: 476ac (Queda do Império romano do Ocidente) até  1453 (Tomada de Constantinopla). A mistura de línguas que aconteceu nas invasões bárbaras e que gerou as línguas neolatinas, porém nessa época, a leitura e a escrita ficava resguardada para os religiosos de mais alto calão, as línguas latinas foram desenvolvidas pelos nativos pela fala. Portanto as primeiras expressões de arte são por fala.
 
 #### Trovadorismo
 Arte dionisíaca
