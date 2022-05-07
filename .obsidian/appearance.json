@@ -1,6 +1,8 @@
 {
   "cssTheme": "Behave dark",
-  "baseFontSize": 12,
+  "baseFontSize": 14,
   "translucency": false,
-  "interfaceFontFamily": "Nirmala UI"
+  "interfaceFontFamily": "Rubik",
+  "textFontFamily": "Rubik",
+  "monospaceFontFamily": "Fira Code Retina,Fira Code"
 }

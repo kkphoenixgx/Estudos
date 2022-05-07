@@ -5,5 +5,6 @@
   "spellcheckLanguages": [
     "pt-BR",
     "en-CA"
-  ]
+  ],
+  "showFrontmatter": true
 }

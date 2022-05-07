@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0ef4a214a658dd94",
+        "id": "01d665cd65b9055e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -71,7 +71,7 @@
       {
         "id": "b330c9ef0a50ad19",
         "type": "tabs",
-        "dimension": 64.97373029772329,
+        "dimension": 56.34920634920635,
         "children": [
           {
             "id": "5918eaeada9c3712",
@@ -151,7 +151,7 @@
                   "repelStrength": 7.03983975072335,
                   "linkStrength": 0.829290006677053,
                   "linkDistance": 95,
-                  "scale": 0.5087618855792676,
+                  "scale": 0.4505081176757821,
                   "close": true
                 }
               }
@@ -173,7 +173,7 @@
       {
         "id": "7d2ce7e439e42683",
         "type": "tabs",
-        "dimension": 35.02626970227671,
+        "dimension": 43.65079365079365,
         "children": [
           {
             "id": "1dad546673d9b590",
@@ -203,14 +203,23 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "0ef4a214a658dd94",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 215.3385009765625
   },
-  "active": "0ef4a214a658dd94",
+  "active": "01d665cd65b9055e",
   "lastOpenFiles": [
     "Conceitos/Linguagens/Inglês/Aulas de Inglês/Resumo, lessons 1-5 Book 9.md",
     "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura e Literatura Brasileira.md",
