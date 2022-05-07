@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Fisica/Vetores.md",
+            "file": "backup/Movimento → Cinemática 1.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Fisica/Vetores.md",
+                "file": "backup/Movimento → Cinemática 1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceitos/Fisica/Vetores.md"
+                "file": "backup/Movimento → Cinemática 1.md"
               }
             }
           }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Fisica/Vetores.md",
+                "file": "backup/Movimento → Cinemática 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Fisica/Vetores.md",
+                "file": "backup/Movimento → Cinemática 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -221,15 +221,15 @@
   },
   "active": "36ee869a701000df",
   "lastOpenFiles": [
+    "backup/Movimento → Cinemática 1.md",
+    "Conceitos/Fisica/Movimento → Cinemática.md",
     "Conceitos/Fisica/Vetores.md",
     "Untitled.md",
     "Conceitos/Fisica/Fisica.md",
     "Sec/17-XVII.md",
     "Conceitos/Math/Fatoração e Raizes.md",
     "Conceitos/Linguagens/Inglês/Aulas de Inglês/Resumo, lessons 1-5 Book 9.md",
-    "Conceitos/Fisica/Movimento → Cinemática.md",
     "Conceitos/Filosofia/Política e a Filosofia.md",
-    "Conceitos/Filosofia/Metafisica na Filosofia.md",
-    "Conceitos/Fisica/Resumo de Cinemática.md"
+    "Conceitos/Filosofia/Metafisica na Filosofia.md"
   ]
 }
