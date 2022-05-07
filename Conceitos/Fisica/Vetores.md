@@ -22,7 +22,13 @@ Um vetor possuí as seguintes características que são definidas pela ponta da 
 
 ## Somando vetores
 
+A soma de vetores é justamente uma soma algebrica simples dos ax desses vetores
 
+![[Pasted image 20220507132002.png]]
+
+semdo s o vetor resultante, temos esse vetor como 10, a mesma coisa com a diminuição. Ela vai ser a diferença desses dois vetores, ou seja, a diminuição desses dois vetores.
+
+![[Pasted image 20220507132115.png]]
 
 
 -----------------------------------------------

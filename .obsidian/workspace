@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "89fac4dd327c7423",
+        "id": "36ee869a701000df",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -219,9 +219,10 @@
     "direction": "horizontal",
     "width": 248.5
   },
-  "active": "89fac4dd327c7423",
+  "active": "36ee869a701000df",
   "lastOpenFiles": [
     "Conceitos/Fisica/Vetores.md",
+    "Untitled.md",
     "Conceitos/Fisica/Fisica.md",
     "Sec/17-XVII.md",
     "Conceitos/Math/Fatoração e Raizes.md",
@@ -229,7 +230,6 @@
     "Conceitos/Fisica/Movimento → Cinemática.md",
     "Conceitos/Filosofia/Política e a Filosofia.md",
     "Conceitos/Filosofia/Metafisica na Filosofia.md",
-    "Conceitos/Fisica/Resumo de Cinemática.md",
-    "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura e Literatura Brasileira.md"
+    "Conceitos/Fisica/Resumo de Cinemática.md"
   ]
 }
