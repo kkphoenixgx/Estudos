@@ -18,7 +18,7 @@ Um vetor possuí as seguintes características que são definidas pela ponta da 
 * |a→| =  *(seria o a com o vetor em cima, mas não tem como fazer no teclado)* É justamente o modulo de comprimento do vetor, não importa onde ele esteja no eixo x, ele sempre vai dar o mesmo valor.
 * ax = a posição x do vetor
 * dy = a posição y do vetor
-* θ 
+* θ = ânguilo
 
 ## Somando vetores
 
@@ -48,7 +48,9 @@ Além do método do paralelograma, temos o método **Poligonal**, é bem simples
 
 ![[Pasted image 20220507133723.png]]
 
-Entretanto existem vetores **ortogonais(perpendiculares)** que formam um ângulo de 90° 
+Entretanto existem vetores **ortogonais (perpendiculares)** que formam um ângulo de 90°, fazem um trâgulo, com isso, devemos aplicar o **[[teorema dos cossenos]]** que diz 
+
+**H = a² + b² - 2 . a . b . cos θ**
 
 ## Exercícios para compreeensão
 
