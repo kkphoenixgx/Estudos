@@ -20,6 +20,9 @@ Um vetor possuí as seguintes características que são definidas pela ponta da 
 * dy = a posição y do vetor
 * θ 
 
+## Somando vetores
+
+
 
 
 -----------------------------------------------

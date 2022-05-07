@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "01d665cd65b9055e",
+        "id": "89fac4dd327c7423",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 191.00521087646484
+    "width": 207.5
   },
   "right": {
     "id": "1f8376e3e70246bb",
@@ -151,7 +151,7 @@
                   "repelStrength": 7.03983975072335,
                   "linkStrength": 0.829290006677053,
                   "linkDistance": 101,
-                  "scale": 0.45050811767578275,
+                  "scale": 0.3213363860503603,
                   "close": true
                 }
               }
@@ -217,19 +217,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.3385009765625
+    "width": 248.5
   },
-  "active": "01d665cd65b9055e",
+  "active": "89fac4dd327c7423",
   "lastOpenFiles": [
     "Conceitos/Fisica/Vetores.md",
+    "Conceitos/Fisica/Fisica.md",
+    "Sec/17-XVII.md",
     "Conceitos/Math/Fatoração e Raizes.md",
     "Conceitos/Linguagens/Inglês/Aulas de Inglês/Resumo, lessons 1-5 Book 9.md",
     "Conceitos/Fisica/Movimento → Cinemática.md",
-    "Conceitos/Fisica/Fisica.md",
     "Conceitos/Filosofia/Política e a Filosofia.md",
     "Conceitos/Filosofia/Metafisica na Filosofia.md",
     "Conceitos/Fisica/Resumo de Cinemática.md",
-    "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura e Literatura Brasileira.md",
-    "Conceitos/Fisica/Eletrodinamica.md"
+    "Conceitos/Linguagens/Português do Brasil/Literatura/Literatura e Literatura Brasileira.md"
   ]
 }
