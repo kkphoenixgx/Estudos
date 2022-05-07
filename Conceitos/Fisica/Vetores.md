@@ -48,6 +48,7 @@ Além do método do paralelograma, temos o método **Poligonal**, é bem simples
 
 ![[Pasted image 20220507133723.png]]
 
+Entretanto existem vetores **ortogonais(perpendiculares)** que formam um ângulo de 90° 
 
 ## Exercícios para compreeensão
 
