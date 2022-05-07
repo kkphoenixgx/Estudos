@@ -1,4 +1,4 @@
-# Resume of lessons 1 to 5 in Book 9
+# Resume of lessons 1-5 in Book 9
 2022-05-03
 tags: #Inglês 
 
@@ -15,7 +15,6 @@ Exemple :  I used to went to baseball games when I was young.
 That ideia can also be expressed using the past tense + phrase + past time
 
 ### **Were like used to**
-
 We can also say that something happened in the past but don't happens anymore using would + past time
 
 Exemple:  We would always be good some time ago
