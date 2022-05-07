@@ -40,7 +40,15 @@ Porém se você quer fazer igual a galera fazia antes de existirem formulas, é 
 * Faça uma linha nesse meio
 * Esse será o seu vetor soma
 
-Além do método do paralelograma, temos o método poligonal
+Além do método do paralelograma, temos o método **Poligonal**, é bem simples, o vetor soma faz um triângulo retângulo
+
+![[Pasted image 20220507133454.png]]
+
+*Nota:  perceba que dá para calcular com esse sendo a hipotenusa*
+
+![[Pasted image 20220507133723.png]]
+
+
 
 
 -----------------------------------------------
