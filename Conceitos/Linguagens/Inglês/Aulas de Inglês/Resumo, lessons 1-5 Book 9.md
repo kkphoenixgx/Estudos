@@ -5,7 +5,6 @@ tags: #Inglês
 ## Lesson 1
 
 ### **Used to** 
-
 In the lesson one we studied that when we are speaking of something that we used to do, we are speaking of something that we generally did in the past but now a days we don't do it anymore.
 
 So the structure we use in English to express that ideia is:

@@ -1,4 +1,6 @@
 {
-  "cssTheme": "Prism",
-  "baseFontSize": 16
+  "cssTheme": "Behave dark",
+  "baseFontSize": 16,
+  "translucency": false,
+  "interfaceFontFamily": "Fira Code Retina"
 }
