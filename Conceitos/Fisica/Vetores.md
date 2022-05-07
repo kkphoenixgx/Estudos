@@ -30,6 +30,18 @@ semdo s o vetor resultante, temos esse vetor como 10, a mesma coisa com a diminu
 
 ![[Pasted image 20220507132115.png]]
 
+O problema é que nem sempre esses vetores estarão alinhados dessa forma simples, na horizontal, eles podem estar na vertival ou até mesmo nas diagonais e quando temos esse tipo de problema, devemos calcular os vetores de uma forma chamada **Paralelograma** qu consiste em criar um paralelograma e vermos que a soma deles, vai ser o vetor do meio
+
+![[Pasted image 20220507132848.png]]
+
+Porém se você quer fazer igual a galera fazia antes de existirem formulas, é simples, segue a receitinha de bolo:
+
+* Cria duas retas fazebdi esse formato de esmeralda até um ponto no plano carteziano;
+* Faça uma linha nesse meio
+* Esse será o seu vetor soma
+
+Além do método do paralelograma, temos o método poligonal
+
 
 -----------------------------------------------
 ## Bibliografia
