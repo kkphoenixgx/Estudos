@@ -49,6 +49,11 @@ Além do método do paralelograma, temos o método **Poligonal**, é bem simples
 ![[Pasted image 20220507133723.png]]
 
 
+## Exercícios para compreeensão
+
+
+![[Pasted image 20220507145150.png]]
+
 
 
 -----------------------------------------------
