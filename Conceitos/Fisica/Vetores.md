@@ -50,7 +50,7 @@ Além do método do paralelograma, temos o método **Poligonal**, é bem simples
 
 Entretanto existem vetores **ortogonais (perpendiculares)** que formam um ângulo de 90°, fazem um trâgulo, com isso, devemos aplicar o **[[teorema dos cossenos]]** que diz 
 
-**H = a² + b² - 2 . a . b . cos θ**
+**H² = a² + b² - 2 . a . b . cos θ**
 
 ## Exercícios para compreeensão
 
