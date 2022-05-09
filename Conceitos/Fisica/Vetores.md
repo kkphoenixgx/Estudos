@@ -24,15 +24,15 @@ Um vetor possuí as seguintes características que são definidas pela ponta da 
 
 A soma de vetores é justamente uma soma algebrica simples dos ax desses vetores
 
-![[Pasted image 20220507132002.png]]
+![[Soma de vetores.png]]
 
 semdo s o vetor resultante, temos esse vetor como 10, a mesma coisa com a diminuição. Ela vai ser a diferença desses dois vetores, ou seja, a diminuição desses dois vetores.
 
-![[Pasted image 20220507132115.png]]
+![[diminuição de vetores.png]]
 
 O problema é que nem sempre esses vetores estarão alinhados dessa forma simples, na horizontal, eles podem estar na vertival ou até mesmo nas diagonais e quando temos esse tipo de problema, devemos calcular os vetores de uma forma chamada **Paralelograma** qu consiste em criar um paralelograma e vermos que a soma deles, vai ser o vetor do meio
 
-![[Pasted image 20220507132848.png]]
+![[Soma de vetores verticais.png]]
 
 Porém se você quer fazer igual a galera fazia antes de existirem formulas, é simples, segue a receitinha de bolo:
 
@@ -42,11 +42,11 @@ Porém se você quer fazer igual a galera fazia antes de existirem formulas, é 
 
 Além do método do paralelograma, temos o método **Poligonal**, é bem simples, o vetor soma faz um triângulo retângulo
 
-![[Pasted image 20220507133454.png]]
+![[Soma de vetores verticais com pitagoras.png]]
 
 *Nota:  perceba que dá para calcular com esse sendo a hipotenusa*
 
-![[Pasted image 20220507133723.png]]
+![[Soma de mais de dois vetores.png]]
 
 Entretanto existem vetores **ortogonais (perpendiculares)** que formam um ângulo de 90°, fazem um trâgulo, com isso, devemos aplicar o **[[teorema dos cossenos]]** que diz 
 
@@ -55,7 +55,7 @@ Entretanto existem vetores **ortogonais (perpendiculares)** que formam um ângul
 ## Exercícios para compreeensão
 
 
-![[Pasted image 20220507145150.png]]
+![[Questão de vetores.png]]
 
 
 
