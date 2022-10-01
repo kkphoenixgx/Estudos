@@ -5,7 +5,7 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "⏳",
+      "🗺",
       "🚶🏻‍♂️",
       "🌆",
       "🎵",
@@ -17,12 +17,14 @@
       "right": 2,
       "bottom": 2,
       "left": 2
-    }
+    },
+    "rules": []
   },
-  "Audio": "🎵",
   "img": "🌆",
   "Lugares": "🏠",
-  "Pessoas": "🚶🏻‍♂️",
   "Conceitos": "🏛",
-  "Sec": "⏳"
+  "Sec": "⏳",
+  "pdfs": "📜",
+  "Mapa Mental Excalidraw": "🗺",
+  "Pessoas e instituições": "🚶🏻‍♂️"
 }

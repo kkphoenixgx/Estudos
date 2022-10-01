@@ -1,5 +1,10 @@
 {
   "legacyEditor": false,
+  "attachmentFolderPath": "img",
   "promptDelete": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "pt-BR"
+  ],
   "alwaysUpdateLinks": true
 }

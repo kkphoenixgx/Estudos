@@ -1,0 +1,21 @@
+{
+  "todoPageName": "",
+  "showChecked": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "compact",
+  "_collapsedSections": [
+    "O que fazer.md",
+    "Untitled.md",
+    "img/Planejamento geral.md",
+    "Planejamento geral.md",
+    "Mapas mentais.md",
+    "Listas de exercício.md"
+  ],
+  "_hiddenTags": []
+}

@@ -1,0 +1,11 @@
+{
+  "legacyEditor": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "pt-BR"
+  ],
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "tabSize": 6,
+  "attachmentFolderPath": "img"
+}

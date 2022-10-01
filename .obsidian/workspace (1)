@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "7c29be6f4b449369",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1788c1342880ae6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "- Acontecimentos/4- Idade Moderna/Brasil/Bandeirantes.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa818222ef432980",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "410be4bf96fe4676",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "a195f223c430c920",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9456c4517c78b881",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b35d1dc174b8b1db",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0c8a06239bb7f987",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5ddb8d395cd46c39",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "5adefb69d18a5e75",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "- Acontecimentos/4- Idade Moderna/Brasil/Bandeirantes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e4e525816fb59530",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "- Acontecimentos/4- Idade Moderna/Brasil/Bandeirantes.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4af5a175a6526287",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "- Acontecimentos/4- Idade Moderna/Brasil/Bandeirantes.md"
+          }
+        }
+      },
+      {
+        "id": "6341bf7d1bf38ff2",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {}
+        }
+      },
+      {
+        "id": "b2dbacb6077dedcd",
+        "type": "leaf",
+        "state": {
+          "type": "reminder-list",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "6341bf7d1bf38ff2",
+  "lastOpenFiles": [
+    "Conceitos/Fisica/Dinâmica/Energias e Potência.md",
+    "img/Exercício Colisão (Bolinhas de sinuca)).png",
+    "Conceitos/Math/Probabilidade/Estatística.md",
+    "- Acontecimentos/4- Idade Moderna/Brasil/Bandeirantes.md",
+    "Planejamento geral.md"
+  ]
+}

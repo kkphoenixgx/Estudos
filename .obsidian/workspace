@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "fc1daa83cb8fbcca",
+    "id": "7c29be6f4b449369",
     "type": "split",
     "children": [
       {
-        "id": "f7696e72a5bb6cf6",
+        "id": "90ea6b9c512ea5ea",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceitos/Fisica/Movimento → Cinemática.md",
+            "file": "Pessoas e instituições/Alemanha/Kant.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -20,15 +20,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "169290f161d925c6",
+    "id": "41679e79d025c880",
     "type": "split",
     "children": [
       {
-        "id": "b6e822dc645a2adb",
+        "id": "b678ff42ddc2a82e",
         "type": "tabs",
         "children": [
           {
-            "id": "4f21e55f16ef6ef6",
+            "id": "0acc3dfd7a5d4c28",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "0e58ecfe5ef021c8",
+            "id": "b61a90779aea6e41",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -51,7 +51,7 @@
             }
           },
           {
-            "id": "a02913e81349774b",
+            "id": "d26911c42d0a8d02",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -62,19 +62,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.5
+    "width": 300
   },
   "right": {
-    "id": "1f8376e3e70246bb",
+    "id": "2d9fd2fbda309f10",
     "type": "split",
     "children": [
       {
-        "id": "b330c9ef0a50ad19",
+        "id": "f3aa39776d0d006a",
         "type": "tabs",
-        "dimension": 56.349206349206355,
         "children": [
           {
-            "id": "5918eaeada9c3712",
+            "id": "d814149a18b78b32",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -82,7 +81,36 @@
             }
           },
           {
-            "id": "61842d7fb3f0a83e",
+            "id": "b671cd84144d8d4e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pessoas e instituições/Alemanha/Kant.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1be2e2bcab37986",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pessoas e instituições/Alemanha/Kant.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f540deb5bf00709",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -93,143 +121,33 @@
             }
           },
           {
-            "id": "b22457c49b7235d1",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "8052ebe3830fcefa",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Conceitos/Fisica/Movimento → Cinemática.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 3,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "path:Sec",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    },
-                    {
-                      "query": "path:Conceitos",
-                      "color": {
-                        "a": 1,
-                        "rgb": 44262
-                      }
-                    },
-                    {
-                      "query": "path:Pessoas",
-                      "color": {
-                        "a": 1,
-                        "rgb": 7353343
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 0.777798798130425,
-                  "lineSizeMultiplier": 3.04676162920098,
-                  "collapse-forces": false,
-                  "centerStrength": 0.0173603383040285,
-                  "repelStrength": 7.03983975072335,
-                  "linkStrength": 0.829290006677053,
-                  "linkDistance": 101,
-                  "scale": 0.2292013594174951,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
-            "id": "84ab65ba529362b8",
+            "id": "87ccc10b99b365db",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceitos/Fisica/Movimento → Cinemática.md"
+                "file": "Pessoas e instituições/Alemanha/Kant.md"
               }
             }
           }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "7d2ce7e439e42683",
-        "type": "tabs",
-        "dimension": 43.650793650793645,
-        "children": [
-          {
-            "id": "1dad546673d9b590",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Conceitos/Fisica/Movimento → Cinemática.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "7ef9c8862bda658e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Conceitos/Fisica/Movimento → Cinemática.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "0ef4a214a658dd94",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 300,
+    "collapsed": true
   },
-  "active": "f7696e72a5bb6cf6",
+  "active": "90ea6b9c512ea5ea",
   "lastOpenFiles": [
-    "Conceitos/Fisica/Movimento → Cinemática.md",
-    "Untitled.md",
-    "backup/Movimento → Cinemática 1.md",
-    "Conceitos/Fisica/Vetores.md",
-    "Conceitos/Fisica/Fisica.md",
-    "Sec/17-XVII.md",
-    "Conceitos/Math/Fatoração e Raizes.md",
-    "Conceitos/Linguagens/Inglês/Aulas de Inglês/Resumo, lessons 1-5 Book 9.md",
-    "Conceitos/Filosofia/Política e a Filosofia.md",
-    "Conceitos/Filosofia/Metafisica na Filosofia.md"
+    "Pessoas e instituições/Áustria/Freud.md",
+    "Pessoas e instituições/Suiça/Rousseau.md",
+    "Planejamento geral.md",
+    "Conceitos/Fisica/Cinemática/Lançamento Horizontal.md",
+    "Conceitos/Fisica/Cinemática/-MRU.md",
+    "Conceitos/Fisica/Cinemática/-MRUV.md",
+    "Conceitos/Linguagens/Português do Brasil/Literatura/Homodeus.md",
+    "Pessoas e instituições/Alemanha/Kant.md",
+    "img/Kant 2.png",
+    "img/Frase 1 de Kant.png"
   ]
 }

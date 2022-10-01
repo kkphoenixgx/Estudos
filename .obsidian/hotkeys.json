@@ -1,104 +1,14 @@
 {
-  "editor:insert-tag": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "."
-    }
-  ],
-  "editor:insert-wikilink": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "L"
-    }
-  ],
-  "workspace:copy-path": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "C"
-    }
-  ],
-  "editor:focus": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "B"
-    }
-  ],
-  "editor:focus-top": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "E"
-    }
-  ],
-  "theme:use-dark": [
+  "insert-template": [
     {
       "modifiers": [
         "Alt",
         "Mod",
         "Shift"
       ],
-      "key": "N"
+      "key": "T"
     }
   ],
-  "theme:use-light": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod",
-        "Shift"
-      ],
-      "key": "L"
-    }
-  ],
-  "switcher:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Tab"
-    }
-  ],
-  "graph:open": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "G"
-    }
-  ],
-  "command-palette:open": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "O"
-    }
-  ],
-  "find-and-replace-in-selection:find-and-replace-in-selection": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "D"
-    }
-  ],
-  "editor:delete-paragraph": [],
   "editor:swap-line-up": [
     {
       "modifiers": [
@@ -107,8 +17,6 @@
       "key": "ArrowUp"
     }
   ],
-  "obsidian-outliner:fold": [],
-  "obsidian-outliner:unfold": [],
   "editor:swap-line-down": [
     {
       "modifiers": [
@@ -117,43 +25,13 @@
       "key": "ArrowDown"
     }
   ],
-  "audio-recorder:start": [
+  "workspace:toggle-pin": [
     {
       "modifiers": [
-        "Alt",
         "Mod",
         "Shift"
       ],
-      "key": "C"
-    }
-  ],
-  "audio-recorder:stop": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod",
-        "Shift"
-      ],
-      "key": "X"
-    }
-  ],
-  "buttons:inline-button": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod",
-        "Shift"
-      ],
-      "key": "B"
-    }
-  ],
-  "buttons:button-maker": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "B"
+      "key": "P"
     }
   ],
   "workspace:close": [
@@ -164,34 +42,40 @@
       "key": "F4"
     }
   ],
-  "workspace:close-others": [
+  "app:open-settings": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "F4"
+      "key": "S"
     }
   ],
-  "obsidian-collapse-all-plugin:collapse-all-collapse": [
+  "file-explorer:move-file": [
     {
       "modifiers": [
         "Alt",
         "Mod",
         "Shift"
       ],
-      "key": "F1"
+      "key": "M"
     }
   ],
-  "obsidian-collapse-all-plugin:collapse-all-expand": [],
-  "insert-template": [
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "obsidian-annotator:toggle-annotation-mode": [
     {
       "modifiers": [
         "Alt",
-        "Mod",
         "Shift"
       ],
-      "key": "T"
+      "key": "L"
     }
   ]
 }

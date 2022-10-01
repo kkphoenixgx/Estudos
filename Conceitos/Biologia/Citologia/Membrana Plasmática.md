@@ -95,15 +95,16 @@ Na osmose, quem entra na célula não é o soluto, é o solvente, o líquido. Pr
 
 **mais comum nas células animais** 
 
+
 #### Osmose em diferentes tipos de células
 
-* Célula animal - não aguenta muito solvente nela
+* **Célula animal** - não aguenta muito solvente nela
 
-A célula animal fica flácida, fica bem aparente, diferentemente da célula animal.
+A célula animal fica flácida, fica bem aparente, diferentemente da célula animal. 
 
-* Célula vegetal - Se estica e aguenta muito solvente
+* **Célula vegetal** - Se estica e aguenta muito solvente
 
-Justamente pela parede celular, a célula vegetal não se rompe, ela fica **turgida**
+Justamente pela parede celular, a célula vegetal não se rompe, ela fica **turgida**.
 
 
 -----------------------------------------------

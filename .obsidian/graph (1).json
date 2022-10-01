@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Conceitos/Linguagens/Português do Brasil/Redação\"",
+      "color": {
+        "a": 1,
+        "rgb": 8650920
+      }
+    },
+    {
+      "query": "path:Conceitos/Math",
+      "color": {
+        "a": 1,
+        "rgb": 13309205
+      }
+    },
+    {
+      "query": "path:Conceitos",
+      "color": {
+        "a": 1,
+        "rgb": 7052006
+      }
+    },
+    {
+      "query": "path:Pessoas",
+      "color": {
+        "a": 1,
+        "rgb": 15379754
+      }
+    },
+    {
+      "query": " path:Lugares",
+      "color": {
+        "a": 1,
+        "rgb": 16757811
+      }
+    },
+    {
+      "query": "path:\"- Acontecimentos\"",
+      "color": {
+        "a": 1,
+        "rgb": 22015
+      }
+    },
+    {
+      "query": "path:Sec",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -2.2,
+  "nodeSizeMultiplier": 1.15,
+  "lineSizeMultiplier": 0.403333333333333,
+  "collapse-forces": true,
+  "centerStrength": 0.223809523809524,
+  "repelStrength": 14,
+  "linkStrength": 1,
+  "linkDistance": 108,
+  "scale": 0.12458685370241554,
+  "close": true
+}

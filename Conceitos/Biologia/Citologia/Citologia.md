@@ -4,7 +4,7 @@ tags: #Biologia
 
 A citologia foi descoberta do século XVII, mesmo que a Biologia, num total, tenha sido consagrada no século XVII, ela já existia, e dentro de suas variantes existe a Citologia, parte essa da Biologia que **estuda as células**.
 
-Com o advento dos telescópios, criados por Galileu, pessoas poderão enfim olhar para as coisas com diferentes olhares, os olhares por um telescópio. Portanto, finalmente com o mundo aberto para novas ideias, [[Hobert Hook]] usou um telescópio em uma madeira, chamada cortiça, essa parecia ter uma estrutura quando se olhava pelo telescópio. E com isso cada vez mais descobertas aguardavam para serem achadas.
+Com o advento dos telescópios, criados por Galileu, pessoas poderão enfim olhar para as coisas com diferentes olhares, os olhares por um telescópio. Portanto, finalmente com o mundo aberto para novas ideias, [[Robert Hooke]] usou um telescópio em uma madeira, chamada cortiça, essa parecia ter uma estrutura quando se olhava pelo telescópio. E com isso cada vez mais descobertas aguardavam para serem achadas.
 
 ## Compostos de uma célula
 

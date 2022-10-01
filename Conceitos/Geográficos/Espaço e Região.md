@@ -3,6 +3,8 @@
 
 Espaço e região são conceitos criados por [[Friedrich Ratzel]], um Geografo da Alemanha, que vão definir o espancionismo Alemão
 
+* **Teoria dos mundos** = divisão dos 3° mundos
+
 > Para entender o espaço, precisamos entender a sociedade. 
 
 <p style="text-align: center" > Sociedade e  Espaço </p>
@@ -22,3 +24,5 @@ Todos espasso possui:
 
 * Paisagem = Realidade natural e Geográfica
 * Lugar = Região Vivida
+
+

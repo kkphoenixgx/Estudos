@@ -1,4 +1,4 @@
 # Latim
 #Linguagem 
 
-O Latim é a lingua falada em [[Roma]]
+O Latim é a lingua falada em Império Romano
