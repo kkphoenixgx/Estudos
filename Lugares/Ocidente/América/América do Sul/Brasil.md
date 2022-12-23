@@ -131,6 +131,32 @@ Em 1929, quando a coroa descobre sobre a mina, ela começa a exigir um contrato,
 
 ![[Pasted image 20220526220544.png]]
 
+### Rio de Janeiro
+
+![[20221027_103442.jpg]]
+
+![[20221110_095746.jpg]]
+☝️ Região dos lagos na Região das baixadas litorâneas
+
+![[20221110_095641 1.jpg]]
+
+![[Recording 20221110100624.webm]]
+
+#### Hidrografia
+
+![[20221110_102536.jpg]]
+
+![[20221110_102316.jpg]]
+
+* Também tem vegetação
+
+![[20221110_103642.jpg]]
+
+### Fluxos Migratórios
+
+![[20221110_101912.jpg]]
+
+![[20221110_102015.jpg]]
 
 ## Mapa mental
 

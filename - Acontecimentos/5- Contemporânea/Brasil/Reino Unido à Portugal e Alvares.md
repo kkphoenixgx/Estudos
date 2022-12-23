@@ -1,6 +1,6 @@
 # Reino Unido à Portugal e Alvares
 2022-09-12
-tags: [[Brasil]] Período Joanino
+tags: Período Joanino [[Período Colonial]]
 
 * Período Colonial quem tá **governando é o Don João**, sem 1.
 

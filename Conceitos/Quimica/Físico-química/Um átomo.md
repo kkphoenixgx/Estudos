@@ -43,7 +43,7 @@ $$V = ⁁ . F$$
 
 <p style="text-align: center"> Velocidade é igual ao comprimento da onda vezes a sua frequência. </p>
 
-Quando citamos comprimento da onda, estamos falando justamente desses polos de onda, a distância entre uma e outra. 
+Quando citamos comprimento da onda, estamos falando justamente desses polos de f 3²onda, a distância entre uma e outra. 
 
 * V = c (3.10⁸ m/s); Velocidade da luz
 * F = hz; Portanto n hz é a mesma coisa que n vezes por segundo

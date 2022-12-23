@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🏢",
       "🗺",
       "🚶🏻‍♂️",
       "🌆",
-      "🎵",
-      "🏠"
+      "🎵"
     ],
     "recentlyUsedIconsSize": 5,
     "extraPadding": {
@@ -26,5 +26,6 @@
   "Sec": "⏳",
   "pdfs": "📜",
   "Mapa Mental Excalidraw": "🗺",
-  "Pessoas e instituições": "🚶🏻‍♂️"
+  "Pessoas e instituições": "🚶🏻‍♂️",
+  "Pessoas e instituições/Alemanha/Escola de Frankfurt.md": "🏢"
 }

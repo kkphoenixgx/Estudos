@@ -8,6 +8,10 @@ tags: [[18-XVIII]], 1789 - 1799, [[Iluminismo]] [[Idade Contemporânea]]
 
 A revolução francesa aconteceu, obviamente, na França, no século [[18-XVIII]], ela marca o final da idade moderna e o começo da idade contemporânea. Muitas das nossas ideias vieram dessa revolução, ela finaliza muitos regimes antigos e consolida o **capitalismo**.
 
+
+* Jacobinos = querem matar todo mundo
+* Girondinos = conservadores
+
 Contexto: **pré-contemporaneidade**:
 
 * Tem um **alto clero** e um **baixo clero**, padre da esquina não é rico.

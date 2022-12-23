@@ -1,6 +1,6 @@
 # Ângulos
 2022-07-13
-tags: [[Geometria Plana]]
+tags: [[-Geometria Plana]]
 
 * **Ângulos congruentes** = Ângulos iguais;
 

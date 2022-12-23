@@ -1,6 +1,6 @@
 # Segundo Reinado
 2022-08-10
-tags: [[Brasil]]
+tags: [[Período Regencial]]
 
 O segundo Reinado é o momento que o Dom Pedro II está no Brasil
 

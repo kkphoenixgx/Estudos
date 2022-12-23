@@ -1,6 +1,6 @@
 # Período Colonial
 2022-09-12
-tags: 1530-1815.
+tags: 1530-1815. [[Período Pré colonial]]
 
 ## Desenvolvimento
 

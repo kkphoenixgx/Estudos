@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "7c29be6f4b449369",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ccc3b9e00bb7af7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e3287cdd8a899ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conceitos/Linguagens/Literatura/Arquitetura Limpa.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e8d08cb8246a707",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21829237e4f0d29d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e42078f8e84fcff8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "921854d7e1a0a697",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2f693e5b0b3541f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Tempo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "397f945be092040d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "27ce21955ea2fd84",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.5
+  },
+  "right": {
+    "id": "d99212db1f3df553",
+    "type": "split",
+    "children": [
+      {
+        "id": "25f2935a9ad0b2ad",
+        "type": "tabs",
+        "dimension": 54.33526011560693,
+        "children": [
+          {
+            "id": "9746c79075373a88",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "01b18a30989e56a2",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8dcf9bde6d35824",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "e4c1c46b4db75e5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6a34cce0aab1729e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:Sec",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "path:Conceitos",
+                      "color": {
+                        "a": 1,
+                        "rgb": 2303
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": -2,
+                  "nodeSizeMultiplier": 1.54666666666667,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.352380952380952,
+                  "repelStrength": 20,
+                  "linkStrength": 1,
+                  "linkDistance": 258,
+                  "scale": 0.06699744995282456,
+                  "close": true
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "bd9504388c2104ce",
+        "type": "tabs",
+        "dimension": 45.664739884393065,
+        "children": [
+          {
+            "id": "5285eb5e105748a4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5199ac35cf9c14b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca53f91b726a47a4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "511dc88659be6e4d",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "9e8d08cb8246a707",
+  "lastOpenFiles": [
+    "Conceitos/Linguagens/Literatura/Arquitetura Limpa.md",
+    "Conceitos/Fisica/Cinemática/-MRU.md",
+    "Conceitos/Fisica/Cinemática/-MRUV.md",
+    "Conceitos/Fisica/Cinemática/Movimento → Cinemática.md",
+    "Conceitos/Fisica/Fisica.md",
+    "Pessoas e instituições/Inglaterra/Newton.md",
+    "Pessoas e instituições/Áustria/Freud.md",
+    "Conceitos/Quimica/Química Organica/Hidrocarbonetos.md",
+    "Planejamento geral.md",
+    "Conceitos/Quimica/Química Organica/Química Orgânica.md"
+  ]
+}

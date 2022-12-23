@@ -1,8 +1,6 @@
 # Proclamação da República
 2022-09-20
-tags: [[Idade Contemporânea]]
-
-
+tags: 1892, [[- Acontecimentos/5- Contemporânea/Brasil/Segundo Reinado]]
 
 ## Desenvolvimento
 
