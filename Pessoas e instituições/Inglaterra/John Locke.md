@@ -5,6 +5,8 @@ annotation-target: locke-john-segundo-tratado-sobre-o-gov-civil.pdf
 2022-08-02
 tags: #Tolerância #juznaturalista 
 
+Locke era o cara que dos direitos humanos, ele fundamentou a base do que conhecemos hoje como direitos individuais do seu humano, como ter uma casa, por exemplo.
+
 * Para John Lock, todos devem se tolerar, todas as religiões devem andar em comunhão.
 
 > Pois nesse estado de perfeita igualdade,  onde naturalmente não há superioridade ou jurisdição de um sobre o outro, o que um pode fazer para garantir essa lei, todos devem ter o direito de fazê-lo.

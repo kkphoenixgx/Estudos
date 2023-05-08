@@ -95,6 +95,14 @@ Preste atenção no gráfico de um paraquedista abrindo um paraquedas em um salt
 
 ## Aprofundamento
 
+### Máquina simples
+
+#### Plano inclinado
+
+##### Mapa mental plano inclinado
+
+![[Mapa mental plano inclinado]]
+
 ### ☕ Problemas comuns
 ####  Sem atrito
 ##### Problemas de blocos
@@ -135,6 +143,7 @@ Não tem - na ultima formula , é só para indicar que espera um resultado negat
 #### Atrito e freios Abs
 
 Quando um freio tem ABS, significa que ele não para completamente ao apertar com toda força o freio, pois ele diminui a intensidade do carro ainda girando a roda e dá mais maneabilidade ao motorista.
+
 
 ## Bibliografia
 

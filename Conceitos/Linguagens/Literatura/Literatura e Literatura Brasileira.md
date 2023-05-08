@@ -223,6 +223,8 @@ Roptura com a escrita academica. Dificil de dizer qual tipo de arte é
 ### Período Nacional
 
 * Romantismo
+	* 1° fase = nacionalista, indianista.
+	* 3° fase = **Condoreirismo**  -> Fala sobre as desigualdades raciais
 * Realismo
 	* Naturalismo
 	* Parnasianismo

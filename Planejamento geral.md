@@ -19,4 +19,11 @@ tags: #IMPORTANT
 * Escrivão que escrevia nos navios → Odiseyna
 * Antropofagia
 
+## Organização pessoal
 
+Empreendedorismo -> 3 páginas por dia e 1 aula;
+Ciências sociais -> Intercalar entre leitura do conteúdo e um vídeo a cada dois dias
+
+***De manhã*** = **2 aulas e 4 páginas** ou **1 aula e em média 17 páginas**
+
+***De tarde*** = Bootcamp da DIO e Aula de ângular

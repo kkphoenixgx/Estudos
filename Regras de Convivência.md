@@ -6,3 +6,4 @@
 3. Lugares são citados, mas não lincados;
 4. Dois eventos com a tag tempo não podem citar a mesma tag. 
 6. Se existir um local que pode ser tratado como conhecimento, os conhecimentos são colocados em relação aos séculos e o local **cita-os**.
+7. Mapas mentais, a partir de 2023, serão feitos nas notas raiz, as vazias que servem de conexão.

@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "5ccc3b9e00bb7af7",
+        "id": "94191f7e6373049a",
         "type": "tabs",
         "children": [
           {
-            "id": "5e3287cdd8a899ee",
+            "id": "cd989b0dc00b4b4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceitos/Linguagens/Literatura/Arquitetura Limpa.md",
+                "file": "Conceitos/Sociologia/Ciências Sociais/Fundamento da sociologia e da antropologia.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "9e8d08cb8246a707",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Tempo",
+                "query": "tag:#Positivismo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +67,15 @@
             }
           },
           {
-            "id": "27ce21955ea2fd84",
+            "id": "434d6858b53a879f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "89958b3c2b7d5e67",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -84,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -120,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Conceitos/Sociologia/Ciências Sociais/Fundamento da sociologia e da antropologia.md"
+              }
             }
           },
           {
@@ -140,6 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Conceitos/Sociologia/Ciências Sociais/Fundamento da sociologia e da antropologia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,7 +179,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 258,
-                  "scale": 0.06699744995282456,
+                  "scale": 0.0656528691060059,
                   "close": true
                 }
               }
@@ -197,6 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Conceitos/Sociologia/Ciências Sociais/Fundamento da sociologia e da antropologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,6 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Conceitos/Sociologia/Ciências Sociais/Fundamento da sociologia e da antropologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,11 +238,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,17 +259,48 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9e8d08cb8246a707",
+  "active": "cd989b0dc00b4b4f",
   "lastOpenFiles": [
-    "Conceitos/Linguagens/Literatura/Arquitetura Limpa.md",
-    "Conceitos/Fisica/Cinemática/-MRU.md",
-    "Conceitos/Fisica/Cinemática/-MRUV.md",
-    "Conceitos/Fisica/Cinemática/Movimento → Cinemática.md",
-    "Conceitos/Fisica/Fisica.md",
-    "Pessoas e instituições/Inglaterra/Newton.md",
-    "Pessoas e instituições/Áustria/Freud.md",
-    "Conceitos/Quimica/Química Organica/Hidrocarbonetos.md",
+    "Conceitos/Sociologia/Ciências Sociais/Origens da sociologia e o positivismo científico.md",
+    "Conceitos/Sociologia/Ciências Sociais/Fundamento da sociologia e da antropologia.md",
+    "Conceitos/Business/Empreendedorismo/Livro-Apostila_Empreendedorismo.md",
+    "Conceitos/Business/Empreendedorismo/Inovação.md",
+    "img/Pasted image 20230507154933.png",
+    "img/Pasted image 20230507154641.png",
+    "Conceitos/Business/Empreendedorismo/Empreendedorismo.md",
+    "Pessoas e instituições/França/Durkhein.md",
+    "img/Pasted image 20230507153134.png",
+    "img/Pasted image 20230507153115.png",
+    "pdfs/durkhein.pdf",
+    "Conceitos/Business/Empreendedorismo/Financias.md",
+    "pdfs/Positivismo.pdf",
+    "pdfs/EMPREENDEDORISMO, INOVAÇÃO E TECNOLOGIA.pdf",
+    "Conceitos/Linguagens/Literatura/livros/Arquitetura Limpa.md",
     "Planejamento geral.md",
-    "Conceitos/Quimica/Química Organica/Química Orgânica.md"
+    "Regras de Convivência.md",
+    "img/Pasted image 20230505190628.png",
+    "Pessoas e instituições/França/Auguste Comte.md",
+    "Mapas mentais.md",
+    "Listas de exercício.md",
+    "Conceitos/Linguagens/Literatura/livros/1984 - George Owell.md",
+    "Conceitos/Linguagens/Literatura/livros/Homodeus.md",
+    "Conceitos/Linguagens/Literatura/livros/Assim Falou Zarathustra.md",
+    "Conceitos/Sociologia/Ciências Sociais/Untitled",
+    "Conceitos/Sociologia/Ciências Sociais/Ciências Sociais.md",
+    "-Templetes/Default Template.md",
+    "-Templetes/Concept.md",
+    "Conceitos/Business/Ciências Sociais/Untitled",
+    "Conceitos/Sociologia/Ciências Sociais/mentalMaps",
+    "Conceitos/Sociologia/Ciências Sociais",
+    "Conceitos/Business/Empreendedorismo/mentalMaps",
+    "Conceitos/Business/Empreendedorismo/Unidades",
+    "Conceitos/Business/Empreendedorismo, Inovação e Tecnologia",
+    "Conceitos/Business/Psicologia Organizacional/Motivação.md",
+    "Conceitos/Business/Psicologia Organizacional/Introdução.md",
+    "Conceitos/Business/Psicologia Organizacional/Inteligência Emocional.md",
+    "Conceitos/Business/Psicologia Organizacional/Inteligência e inteligência emocional.md",
+    "Pessoas e instituições/- Pré-Socrático/Xenofanes 🌄.md",
+    "Conceitos/Math/Geometria/Geometria plana/Polígonos.md",
+    "Conceitos/Math/Análise combinatória/Análise Combinatória.md"
   ]
 }

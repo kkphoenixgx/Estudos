@@ -2,7 +2,7 @@
 2022-06-21
 tags: [[Semântica]]
 
-As funções da linguagem são formas de utilização da linguagem pelo falante
+As funções da linguagem são formas de utilização da linguagem pelo falante.  Os elementos essenciais são: emissor, receptor, mensagem, código, canal e referente.
 
 **Função referencial** -> Terceira pessoa;
 **Função Conativa** -> Verbos no imperativo;

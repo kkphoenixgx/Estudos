@@ -13,7 +13,8 @@
             "state": {
               "type": "graph",
               "state": {}
-            }
+            },
+            "group": "d9cadfb1be98ade9"
           },
           {
             "id": "cd4dc5c44f23d887",
@@ -47,15 +48,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoas e instituições/Belgica/Lévi-strauss.md",
+                "file": "Conceitos/Math/Geometria/Geometria plana/Ângulos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
+      },
+      {
+        "id": "994343ab6892e54e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a4a866074c69cd8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "group": "d9cadfb1be98ade9"
+          }
+        ]
+      },
+      {
+        "id": "a0c2d99675803932",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa0face33851b14a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "group": "d9cadfb1be98ade9"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +162,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Pessoas e instituições/Belgica/Lévi-strauss.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -138,7 +178,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Pessoas e instituições/Belgica/Lévi-strauss.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -149,9 +188,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Pessoas e instituições/Belgica/Lévi-strauss.md"
-          }
+          "state": {}
         }
       },
       {
@@ -161,21 +198,44 @@
           "type": "calendar",
           "state": {}
         }
+      },
+      {
+        "id": "0a1dc372823a798d",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
-  "active": "ed59dd230fd7e416",
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "3613899e44861d5d",
   "lastOpenFiles": [
-    "Pessoas e instituições/Alemanha/Kant.md",
-    "Pessoas e instituições/-Pós-Socrasticos/Aristoteles.md",
-    "Conceitos/Linguagens/Literatura/Arquitetura Limpa.md",
-    "Conceitos/Linguagens/Literatura/1984 - George Owell.md",
-    "Conceitos/Linguagens/Literatura/Assim Falou Zarathustra.md",
-    "Conceitos/Quimica/Físico-química/Matéria.md",
-    "Pessoas e instituições/França/John Locke.md",
+    "Conceitos/Linguagens/Literatura/Literatura e Literatura Brasileira.md",
+    "Conceitos/Linguagens/Português.md",
+    "Conceitos/Linguagens/Português do Brasil/Portugês do Brasil.md",
+    "Conceitos/Quimica/Química Básica/Um átomo.md",
     "Pessoas e instituições/Alemanha/Max Plank.md",
-    "Pessoas e instituições/Alemanha/Nietzsche.md",
-    "Pessoas e instituições/Alemanha/Weber.md"
+    "Conceitos/Quimica/Físico-química/Um átomo.md",
+    "Conceitos/Business/Psicologia Organizacional/Características do comportamento.md",
+    "Conceitos/Business/Psicologia Organizacional/Inteligência Emocional.md",
+    "Conceitos/Business/Psicologia Organizacional/Introdução.md",
+    "Conceitos/Business/Comunicação Empresarial/Aula1.md",
+    "Conceitos/Business/Comunicação Empresarial/Comunicação Empresarial.md"
   ]
 }
