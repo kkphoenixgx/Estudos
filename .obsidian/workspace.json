@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "94191f7e6373049a",
+        "id": "c404e0cf3b3cb2c3",
         "type": "tabs",
         "children": [
           {
-            "id": "cd989b0dc00b4b4f",
+            "id": "f7ecaef78e768380",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conceitos/Sociologia/Ciências Sociais/Fundamento da sociologia e da antropologia.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Positivismo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,11 +54,14 @@
             }
           },
           {
-            "id": "397f945be092040d",
+            "id": "e4c1c46b4db75e5a",
             "type": "leaf",
             "state": {
-              "type": "starred",
-              "state": {}
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -87,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 236.5
   },
   "right": {
     "id": "d99212db1f3df553",
@@ -99,51 +97,13 @@
         "dimension": 54.33526011560693,
         "children": [
           {
-            "id": "9746c79075373a88",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "01b18a30989e56a2",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "c8dcf9bde6d35824",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Conceitos/Sociologia/Ciências Sociais/Fundamento da sociologia e da antropologia.md"
-              }
-            }
-          },
-          {
-            "id": "e4c1c46b4db75e5a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "6a34cce0aab1729e",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Sociologia/Ciências Sociais/Fundamento da sociologia e da antropologia.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 3,
                   "localBacklinks": true,
@@ -152,7 +112,7 @@
                   "showTags": true,
                   "showAttachments": true,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [
                     {
                       "query": "path:Sec",
@@ -179,14 +139,29 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 258,
-                  "scale": 0.0656528691060059,
+                  "scale": 0.08233250508525622,
                   "close": true
                 }
               }
             }
+          },
+          {
+            "id": "72fc2a74a3491939",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-day",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8dcf9bde6d35824",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "bd9504388c2104ce",
@@ -199,7 +174,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Sociologia/Ciências Sociais/Fundamento da sociologia e da antropologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +185,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Sociologia/Ciências Sociais/Fundamento da sociologia e da antropologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,12 +216,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 271.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -256,51 +227,55 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "cd989b0dc00b4b4f",
+  "active": "89958b3c2b7d5e67",
   "lastOpenFiles": [
-    "Conceitos/Sociologia/Ciências Sociais/Origens da sociologia e o positivismo científico.md",
-    "Conceitos/Sociologia/Ciências Sociais/Fundamento da sociologia e da antropologia.md",
-    "Conceitos/Business/Empreendedorismo/Livro-Apostila_Empreendedorismo.md",
-    "Conceitos/Business/Empreendedorismo/Inovação.md",
+    "Conceitos/Math/Matemática Básica/Simplificação.md",
+    "Conceitos/Math/-Matemática.md",
+    "style-settings.json",
+    "Pessoas e instituições/Itália/Galileu.md",
+    "Pessoas e instituições/-Povos/Germanicos/Francos (Império Merovíngio).md",
+    "- Acontecimentos/3- Idade Média/Concentração Urbana.md",
+    "Noções de tempo.md",
+    "Planejamento geral.md",
+    "Sec/Divisões/História/História/Idade Antiga.md",
+    "Sec/Divisões/História/Idade Antiga/Idade Antiga.md",
+    "Pessoas e instituições/-Povos/Incas.md",
+    "- Acontecimentos/4- Idade Moderna/Brasil/Escravatura no mundo e no Brasil.md",
+    "Sec/Divisões/História/História/Idade Moderna.md",
+    "Pessoas e instituições/Áustria/Freud.md",
+    "Pessoas e instituições/Brasil/Florestan Fernandes.md",
+    "Conceitos/Quimica/Química Básica/Principio de Chatier.md",
+    "Conceitos/Quimica/Química Básica/Massa Molecular.md",
+    "- Acontecimentos/3- Idade Média/Criação dos Burgos.md",
+    "- Acontecimentos/3- Idade Média/Armas de Fogo.md",
+    "Pessoas e instituições/- Pré-Socrático/Tales de Mileto 💧.md",
+    "Conceitos/Business/Empreendedorismo/Empreendedorismo.md",
+    "Conceitos/Business/Business.md",
+    "pdfs/EMPREENDEDORISMO, INOVAÇÃO E TECNOLOGIA.pdf",
+    "Regras de Convivência.md",
+    "Lugares/Roma.excalidraw.md",
+    "Pessoas e instituições/Alemanha/Escola de Frankfurt.md",
+    "Pessoas e instituições/Alemanha/Weber.md",
+    "Pessoas e instituições/França/Durkhein.md",
+    "Conceitos/Linguagens/Inglês/Aulas de Inglês/Untitled",
+    "pdfs/Weber.pdf",
+    "img/Pasted image 20230508144224.png",
     "img/Pasted image 20230507154933.png",
     "img/Pasted image 20230507154641.png",
-    "Conceitos/Business/Empreendedorismo/Empreendedorismo.md",
-    "Pessoas e instituições/França/Durkhein.md",
     "img/Pasted image 20230507153134.png",
     "img/Pasted image 20230507153115.png",
     "pdfs/durkhein.pdf",
-    "Conceitos/Business/Empreendedorismo/Financias.md",
     "pdfs/Positivismo.pdf",
-    "pdfs/EMPREENDEDORISMO, INOVAÇÃO E TECNOLOGIA.pdf",
-    "Conceitos/Linguagens/Literatura/livros/Arquitetura Limpa.md",
-    "Planejamento geral.md",
-    "Regras de Convivência.md",
     "img/Pasted image 20230505190628.png",
-    "Pessoas e instituições/França/Auguste Comte.md",
-    "Mapas mentais.md",
-    "Listas de exercício.md",
-    "Conceitos/Linguagens/Literatura/livros/1984 - George Owell.md",
-    "Conceitos/Linguagens/Literatura/livros/Homodeus.md",
-    "Conceitos/Linguagens/Literatura/livros/Assim Falou Zarathustra.md",
     "Conceitos/Sociologia/Ciências Sociais/Untitled",
-    "Conceitos/Sociologia/Ciências Sociais/Ciências Sociais.md",
-    "-Templetes/Default Template.md",
-    "-Templetes/Concept.md",
     "Conceitos/Business/Ciências Sociais/Untitled",
     "Conceitos/Sociologia/Ciências Sociais/mentalMaps",
-    "Conceitos/Sociologia/Ciências Sociais",
-    "Conceitos/Business/Empreendedorismo/mentalMaps",
-    "Conceitos/Business/Empreendedorismo/Unidades",
-    "Conceitos/Business/Empreendedorismo, Inovação e Tecnologia",
-    "Conceitos/Business/Psicologia Organizacional/Motivação.md",
-    "Conceitos/Business/Psicologia Organizacional/Introdução.md",
-    "Conceitos/Business/Psicologia Organizacional/Inteligência Emocional.md",
-    "Conceitos/Business/Psicologia Organizacional/Inteligência e inteligência emocional.md",
-    "Pessoas e instituições/- Pré-Socrático/Xenofanes 🌄.md",
-    "Conceitos/Math/Geometria/Geometria plana/Polígonos.md",
-    "Conceitos/Math/Análise combinatória/Análise Combinatória.md"
+    "Conceitos/Sociologia/Ciências Sociais"
   ]
 }

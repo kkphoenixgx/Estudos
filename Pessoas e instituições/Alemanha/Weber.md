@@ -25,9 +25,9 @@ Para Weber, no caso do Estado contemporâneo, apenas seus agentes podem utilizar
 
 ### Ação social
 
-* Ação do individuo faz a sociedade. O espaço social influência os indivíduos e os indivíduos influenciam a sociedade. Contudo os indivíduos também contribuem para o espaço na medida de suas características.
+* **Ação do individuo faz a sociedade**. O espaço social influência os indivíduos e os indivíduos influenciam a sociedade. Contudo os **indivíduos também contribuem para o espaço na medida de suas características**.
 
-* Ação do indivíduo = o que o indivíduo faz. A motivação que o indivíduo tem para exercer determinada ação.
+* Ação do indivíduo = **o que o indivíduo faz**. A motivação que o indivíduo tem para exercer determinada ação.
 
 Dessa forma, toda ação tem um motivo e cada motivo tem uma ambientação. Portanto o Weber cria os tipos sociais: 
 
@@ -42,9 +42,6 @@ Dessa forma, toda ação tem um motivo e cada motivo tem uma ambientação. Port
 
 -----------------------------------------------
 
-
 ## Bibliografia
 
 https://plataforma.seliga.com.br/aula/598264b0-ec4a-11e9-a1ad-5d1a4d4995cd;missao_id=4e230e10-0c46-11ed-8ef8-fbb4bf72dafa;plano_id=eb89fc90-0c42-11ed-a5ea-fbda77f7ebb9
-
-## Mapa Mental

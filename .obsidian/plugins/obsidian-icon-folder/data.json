@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasMap",
+      "FasBuildingColumns",
       "🏢",
       "🗺",
-      "🚶🏻‍♂️",
-      "🌆",
-      "🎵"
+      "🚶🏻‍♂️"
     ],
     "recentlyUsedIconsSize": 5,
     "extraPadding": {
@@ -19,7 +19,7 @@
       "left": 2
     },
     "rules": [],
-    "emojiStyle": "none",
+    "emojiStyle": "native",
     "extraMargin": {
       "top": 0,
       "right": 4,
@@ -30,10 +30,10 @@
   },
   "img": "🌆",
   "Lugares": "🏠",
-  "Conceitos": "🏢",
+  "Conceitos": "FasBuildingColumns",
   "Sec": "⏳",
   "pdfs": "📜",
-  "Mapa Mental Excalidraw": "🗺",
   "Pessoas e instituições": "🚶🏻‍♂️",
-  "Pessoas e instituições/Alemanha/Escola de Frankfurt.md": "🏢"
+  "Pessoas e instituições/Alemanha/Escola de Frankfurt.md": "🏢",
+  "Mapa Mental": "FasMap"
 }

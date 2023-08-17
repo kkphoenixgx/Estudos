@@ -11,8 +11,10 @@
             "id": "3613899e44861d5d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf-annotator",
+              "state": {
+                "file": "Conceitos/Business/Empreendedorismo/Livro-Apostila_Empreendedorismo.md"
+              }
             },
             "group": "d9cadfb1be98ade9"
           },
@@ -67,6 +69,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Conceitos/Business/Empreendedorismo/Livro-Apostila_Empreendedorismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Conceitos/Business/Empreendedorismo/Livro-Apostila_Empreendedorismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +152,14 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "1dcd5aef34404c83",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -162,6 +174,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Conceitos/Business/Empreendedorismo/Livro-Apostila_Empreendedorismo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -178,6 +191,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Conceitos/Business/Empreendedorismo/Livro-Apostila_Empreendedorismo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -188,7 +202,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Conceitos/Business/Empreendedorismo/Livro-Apostila_Empreendedorismo.md"
+          }
         }
       },
       {

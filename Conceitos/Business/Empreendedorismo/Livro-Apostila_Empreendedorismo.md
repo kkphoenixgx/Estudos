@@ -48,6 +48,8 @@ atividades até mesmo de modificar o modelo de negócios no qual a organização
 ## Bibliografia
 
 
+## Annotator
+
 >%%
 >```annotation-json
 >{"created":"2023-05-05T22:16:50.934Z","text":"Definição de inovação","updated":"2023-05-05T22:16:50.934Z","document":{"title":"EMPREENDEDORISMO, INOVA%C3%87%C3%83O E TECNOLOGIA.pdf","link":[{"href":"urn:x-pdf:f2eb14135bf4e4fbb0f0872e8a0850e0"},{"href":"vault:/pdfs/EMPREENDEDORISMO, INOVA%C3%87%C3%83O E TECNOLOGIA.pdf"}],"documentFingerprint":"f2eb14135bf4e4fbb0f0872e8a0850e0"},"uri":"vault:/pdfs/EMPREENDEDORISMO, INOVA%C3%87%C3%83O E TECNOLOGIA.pdf","target":[{"source":"vault:/pdfs/EMPREENDEDORISMO, INOVA%C3%87%C3%83O E TECNOLOGIA.pdf","selector":[{"type":"TextPositionSelector","start":5462,"end":5703},{"type":"TextQuoteSelector","exact":"As  invenções  são  o resultado  de  atividades  individuais,  e  as  inovações  são  o  resultado  de  ações  coletivas  e institucionais  que  visam  transformar  uma  determinada  invenção  ou  nova  ideia  em  um produto  em  circulação.","prefix":"inovação  é  usar  algo  novo.  ","suffix":"  Portanto,  para  que  uma  nov"}]}]}
@@ -215,3 +217,4 @@ atividades até mesmo de modificar o modelo de negócios no qual a organização
 >%%TAGS%%
 >
 ^4o30yjsf7r
+

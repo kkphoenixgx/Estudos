@@ -1,4 +1,18 @@
 {
   "lyt-mode@@header-style": "lyt-flat-headers",
-  "lyt-mode@@file-explorer-unwrap": false
+  "lyt-mode@@file-explorer-unwrap": false,
+  "chime-theme@@theme-settings": "theme-classic",
+  "chime-theme@@link-style": "link-web",
+  "chime-theme@@code-background": "var(--background-secondary-alt)",
+  "chime-theme@@code-normal": "var(--text-normal)",
+  "chime-theme@@heading-colors": "colorful-headings-alt",
+  "chime-theme@@h1-weight": 1000,
+  "chime-theme@@h1-center": true,
+  "chime-theme@@h2-bottom-border": true,
+  "chime-theme@@h2-weight": 800,
+  "chime-theme@@h3-variant": "petite-caps",
+  "chime-theme@@h4-variant": "small-caps",
+  "chime-theme@@h5-variant": "all-small-caps",
+  "chime-theme@@h6-weight": 300,
+  "chime-theme@@colored-bold-and-italic": true
 }

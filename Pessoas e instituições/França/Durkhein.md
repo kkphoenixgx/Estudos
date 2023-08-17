@@ -39,7 +39,10 @@ A anomia é justamente essa falta de regras gerado pela confusão dessas institu
 
 ### Solidariedade Orgânica
 
-Para Durkheim a coesão da sociedade também depende da quantidade de pessoas da população, quanto menor, menos divergência de ideias ela terá. Porém essa divisão de ideias não irá acabar com a sociedade, essa divisão de ideais fará a sociedade agir como um organismo que as ideias formarão os principais orgãos com funções específicas e interdependências mais complexas. Contrapondo a sociedade mecânica das sociedades pequenas.
+Para Durkheim a coesão da sociedade também depende da quantidade de pessoas da população, quanto menor, menos divergência de ideias ela terá. **Porém essa divisão de ideias não irá acabar com a sociedade, essa divisão de ideais fará a sociedade agir como um organismo que as ideias formarão os principais orgãos com funções específicas e interdependências mais complexas**. Contrapondo a sociedade mecânica das sociedades pequenas.
+
+Mecânica =  pouca divergência de ideias
+Orgânica =  muita divergência de ideias -> Criação de Órgãos de controle, um estado
 
 ### Suicídio Em Durkhein
 
