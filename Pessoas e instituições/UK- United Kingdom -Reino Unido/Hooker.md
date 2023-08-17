@@ -1,6 +1,6 @@
 # Richard Hooker
 2022-08-07
-tags: [[16-XVI]] [[Igreja Anglicana]]
+tags: [acontecimentos do  16-XVI](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2016-XVI.md) [[Igreja Anglicana]]
 
 ![[index.jpg]]
 

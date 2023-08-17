@@ -1,6 +1,6 @@
 # Conjuntos
 2022-06-03
-tags: #math 
+tags: [-Matemática](../-Matemática.md)
 
 * União (U) junta tudo 
 * Intercessão (∩) é só o meio

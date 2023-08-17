@@ -1,6 +1,6 @@
 # Diderot
 2022-07-24
-tags: França, [[18-XVIII]] #materialista
+tags: França, [acontecimentos do  18-XVIII](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2018-XVIII.md) #materialista
 ![[Diderot.png]]
 
 > A razão é para o filosofo o que a graça é para o cristão

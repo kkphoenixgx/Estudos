@@ -1,4 +1,4 @@
 # Astronomia OHHHH
-tags: [[Idade Antiga]]
+tags: Idade Antiga [Física](../../Conceitos/Fisica/Física.md)
 
 A astronomia nasceu com os Sumérios

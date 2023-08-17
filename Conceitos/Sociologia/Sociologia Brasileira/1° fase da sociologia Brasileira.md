@@ -1,6 +1,6 @@
 # 1° fase da sociologia Brasileira
 2022-08-01
-tags: [[Imperialismo]] [[19-XIX]]
+tags: [[Imperialismo]] [acontecimentos do  19-XIX](../../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2019-XIX.md)
 
 * Contexto
     A primeira fase da sociologia brasileira é envolta de um racismo muito pesado que era inclusive aprovado e influenciado pelo estado

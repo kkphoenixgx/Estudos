@@ -1,6 +1,6 @@
 # Economia Açucareira
 2022-07-29
-tags: [[17-XVII]]
+tags: [acontecimentos do  17-XVII](../../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2017-XVII.md)
 
 * Contexto
     * Portugal perde o principal lucro deles, que na época era as Índias, então decidem começar a investir no Brasil desde 1550 e então no começo do século XVII, eles começam a investir na produção de açúcar no Brasil

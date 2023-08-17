@@ -3,7 +3,7 @@ annotation-target:  Assim Falou Zaratrustra - Friedrich Nietzsche.pdf
 ---
 # Nietzsche
 2022-08-13
-tags: [[19-XIX]], Cultura, conhecimento e a vida.
+tags: [acontecimentos do  19-XIX](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2019-XIX.md), Cultura, conhecimento e a vida.
 
 > Nietzsche diz que a filosofia é uma dinamite.
 > O cristianismo é o platonismo das massas ~Nietzsche 

@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c404e0cf3b3cb2c3",
+        "id": "f6ac0522be0aa364",
         "type": "tabs",
         "children": [
           {
-            "id": "f7ecaef78e768380",
+            "id": "148522d8ffce6d43",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Conceitos/Hardware/Sistemas de numeração em computação.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -80,12 +85,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 240.5
   },
   "right": {
     "id": "d99212db1f3df553",
@@ -102,8 +106,9 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Conceitos/Hardware/Sistemas de numeração em computação.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 3,
                   "localBacklinks": true,
@@ -112,7 +117,7 @@
                   "showTags": true,
                   "showAttachments": true,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [
                     {
                       "query": "path:Sec",
@@ -139,7 +144,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 258,
-                  "scale": 0.08233250508525622,
+                  "scale": 0.054888336723504155,
                   "close": true
                 }
               }
@@ -158,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Conceitos/Hardware/Sistemas de numeração em computação.md"
+              }
             }
           }
         ]
@@ -174,6 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Conceitos/Hardware/Sistemas de numeração em computação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,6 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Conceitos/Hardware/Sistemas de numeração em computação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,49 +242,53 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "89958b3c2b7d5e67",
+  "active": "148522d8ffce6d43",
   "lastOpenFiles": [
-    "Conceitos/Math/Matemática Básica/Simplificação.md",
     "Conceitos/Math/-Matemática.md",
-    "style-settings.json",
-    "Pessoas e instituições/Itália/Galileu.md",
-    "Pessoas e instituições/-Povos/Germanicos/Francos (Império Merovíngio).md",
-    "- Acontecimentos/3- Idade Média/Concentração Urbana.md",
+    "Conceitos/Math/Math.md",
+    "Conceitos/Hardware/Sistemas de numeração em computação.md",
     "Noções de tempo.md",
-    "Planejamento geral.md",
-    "Sec/Divisões/História/História/Idade Antiga.md",
-    "Sec/Divisões/História/Idade Antiga/Idade Antiga.md",
-    "Pessoas e instituições/-Povos/Incas.md",
-    "- Acontecimentos/4- Idade Moderna/Brasil/Escravatura no mundo e no Brasil.md",
-    "Sec/Divisões/História/História/Idade Moderna.md",
-    "Pessoas e instituições/Áustria/Freud.md",
-    "Pessoas e instituições/Brasil/Florestan Fernandes.md",
-    "Conceitos/Quimica/Química Básica/Principio de Chatier.md",
-    "Conceitos/Quimica/Química Básica/Massa Molecular.md",
-    "- Acontecimentos/3- Idade Média/Criação dos Burgos.md",
-    "- Acontecimentos/3- Idade Média/Armas de Fogo.md",
-    "Pessoas e instituições/- Pré-Socrático/Tales de Mileto 💧.md",
-    "Conceitos/Business/Empreendedorismo/Empreendedorismo.md",
-    "Conceitos/Business/Business.md",
-    "pdfs/EMPREENDEDORISMO, INOVAÇÃO E TECNOLOGIA.pdf",
+    "Listas de exercício.md",
     "Regras de Convivência.md",
-    "Lugares/Roma.excalidraw.md",
-    "Pessoas e instituições/Alemanha/Escola de Frankfurt.md",
-    "Pessoas e instituições/Alemanha/Weber.md",
-    "Pessoas e instituições/França/Durkhein.md",
-    "Conceitos/Linguagens/Inglês/Aulas de Inglês/Untitled",
-    "pdfs/Weber.pdf",
-    "img/Pasted image 20230508144224.png",
-    "img/Pasted image 20230507154933.png",
-    "img/Pasted image 20230507154641.png",
-    "img/Pasted image 20230507153134.png",
-    "img/Pasted image 20230507153115.png",
-    "pdfs/durkhein.pdf",
-    "pdfs/Positivismo.pdf",
-    "img/Pasted image 20230505190628.png",
-    "Conceitos/Sociologia/Ciências Sociais/Untitled",
-    "Conceitos/Business/Ciências Sociais/Untitled",
-    "Conceitos/Sociologia/Ciências Sociais/mentalMaps",
-    "Conceitos/Sociologia/Ciências Sociais"
+    "Planejamento geral.md",
+    "Conceitos/Hardware/-Hardware.md",
+    "Conceitos/Hardware/Untitled",
+    "Conceitos/Hardware",
+    "Conceitos/Business/Gestão de Processos de Negócio/-Gestão de processos de Negócio.md",
+    "Conceitos/Business/Gestão de Processos de Negócio/mapa-processos.md",
+    "Conceitos/Business/Fundamentos de Administração/-Fundamentos de Adiministração.md",
+    "Conceitos/Business/Fundamentos de Administração",
+    "Conceitos/Business/Gestão de Processos de Negócio",
+    "Conceitos/Software/Programação.md",
+    "Lugares/Ocidente/América/América do Sul/Brasil.md",
+    "img/Pasted image 20230711154157.png",
+    "img/Pasted image 20230711154114.png",
+    "img/Pasted image 20230711153410.png",
+    "img/Pasted image 20230711152835.png",
+    "img/Pasted image 20230711152817.png",
+    "img/Pasted image 20230711152345.png",
+    "Pessoas e instituições/Brasil/Cefet.md",
+    "img/_Fuxograma 2022.1.pdf",
+    "img/Pasted image 20230711140310.png",
+    "Nilo Peçanha.md",
+    "Conceitos/Filosofia/Lógica.md",
+    "img/Pasted image 20230710151943.png",
+    "img/Pasted image 20230710151844.png",
+    "img/Pasted image 20230710151723.png",
+    "Conceitos/Math/Matemática Discreta/-Matemática discreta.md",
+    "Conceitos/Filosofia/Liberdade ou igualdade.md",
+    "Conceitos/Filosofia/Empirista.md",
+    "Conceitos/Filosofia/Política e a Filosofia.md",
+    "Conceitos/Filosofia/Metafisica na Filosofia.md",
+    "Conceitos/Filosofia/Mapa da Filosofia.md",
+    "Conceitos/Filosofia/Untitled",
+    "Mapas mentais.md",
+    "Conceitos/Math/Algebra/Sequências numericas/Sequencias numéricas.md",
+    "Conceitos/Math/Algebra/Sequências numericas/PA.md",
+    "Conceitos/Math/Algebra/Algebra.md",
+    "Conceitos/Math/Matemática Discreta",
+    "Sec/Acontecimentos Dos Séculos",
+    "style-settings.json",
+    "pdfs/Weber.pdf"
   ]
 }

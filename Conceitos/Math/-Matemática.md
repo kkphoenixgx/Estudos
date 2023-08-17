@@ -1,9 +1,6 @@
 # Matemática
-#math
-
-A matemática surge com as civilizações da MESOPOTAMIA, mais especificamente com os Suméria em [[-3 III ac]]
-
-O jogo da matemática, como falaremos dela aqui.
+2023-07-09
+tags: #math 
 
 ## Simbologia
 
@@ -11,6 +8,10 @@ O jogo da matemática, como falaremos dela aqui.
 
 vetor = **^→**. Ou assim:
 $$ x^{→} $$
+
+∑ = somatório, soma de resultados
+
+∴ = Portanto
 
 ## Conversões
 
@@ -68,4 +69,3 @@ Se você já tá mais avançado no tempo de questões:
 
 * https://www.youtube.com/watch?v=R_6Xeo82zak
 * https://www.youtube.com/watch?v=R70v9DGas58
-

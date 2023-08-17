@@ -1,14 +1,7 @@
-# Hobbes
+# Thomas Hobbes
 2022-08-02
-tags: 
-
-## Desenvolvimento
-
------------------------------------------------
-## Bibliografia
-## Mapa Mental# Thomas Hobbes
 2022-07-13
-tags: #Empirista [[16-XVI]]
+tags: #Empirista [acontecimentos do  16-XVI](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2016-XVI.md)
 
 $$O.homem.é.o.lobo.do.homem$$
 

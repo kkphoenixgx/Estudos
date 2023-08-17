@@ -1,6 +1,6 @@
 # Mercantilismo
 2022-08-01
-tags: [[Idade Moderna]]
+tags: Idade Moderna
 
 * Contexto: [[Absolutismo]]
 

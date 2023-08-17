@@ -1,6 +1,6 @@
 # David Hume
 2022-07-24
-tags: #Empirista [[18-XVIII]], Inglês
+tags: #Empirista [acontecimentos do  18-XVIII](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2018-XVIII.md) , Inglês
 ![[Pasted image 20220724025400.png]]
 
 * Antecipa a revolução copernicana de [[Kant]]

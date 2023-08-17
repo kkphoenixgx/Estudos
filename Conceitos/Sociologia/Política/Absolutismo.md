@@ -1,6 +1,6 @@
 # Absolutismo
 2022-07-30
-tags: [[Idade Moderna]], [[Maquiavel]], [[Hobbes]], [[John Locke]] #Política 
+tags: Idade Moderna, [[Maquiavel]], [[Hobbes]], [[John Locke]] #Política 
 
 * Contexto: Passagem dos Grandes Burgueses virarem Reis. Muita guerra de fronteira e casamentos arranjados, 1453 - 1789 literalmente idade Moderna.
 

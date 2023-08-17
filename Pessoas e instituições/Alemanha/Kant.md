@@ -1,6 +1,6 @@
 # Immanuel Kant
 2022-09-25
-tags: [[Iluminismo]], [[18-XVIII]], (1724-1804), formação Calvina, um professor pacato.
+tags: [[Iluminismo]], [acontecimentos do  18-XVIII](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2018-XVIII.md) , (1724-1804), formação Calvina, um professor pacato.
 
 O criador da crítica à razão, o ultimo dos iluministas e ao mesmo tempo o maior deles. Após sua morte em 1804, cria-se a era pós-Kant, a era pós-crítica, pois agora a razão critica ela mesma, a crítica a razão crítica.
 

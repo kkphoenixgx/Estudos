@@ -1,6 +1,6 @@
 # Robert Owen
 2022-08-16
-tags: #socialista-utópico, #Industrial [[19-XIX]], New Armony
+tags: #socialista-utópico, #Industrial [acontecimentos do  19-XIX](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2019-XIX.md), New Armony
 
 Ele entende que os trabalhadores são muito explorados e tenta amenizar essa exploração.
 

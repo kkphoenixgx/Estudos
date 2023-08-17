@@ -1,6 +1,6 @@
 # Frase, Oração e Período
 2023-03-20
-tags: 
+tags: [Linguagens](Linguagens)
 
 ## Desenvolvimento
 

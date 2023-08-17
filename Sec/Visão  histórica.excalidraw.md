@@ -5,7 +5,7 @@ tags:
 
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
-
+[Noções de tempo](../Noções%20de%20tempo.md)
 
 # Text Elements
 8ac ^cCvZJT9c

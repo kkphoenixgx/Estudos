@@ -20,6 +20,7 @@ A divisão de poderes no Brasil é feita a partir do Método de Montesquieu, ou 
 * Judiciário → Pune e se assegura que as leis estão sendo cumpridas
 
 Presidencialismo → Tem presidente
+
 | Esfera    | Legislativo                                                                                                     | Executivo *Long Cell*                      | Judiciário *Long Cell*                           |
 | --------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------------------------------------ |
 | Federal   | Congresso = Câmera dos deputados e congresso nascional → **Deputados Federais** e **Senadores** ( 3 por estado) | Presidencia = **Presidente** e ministérios | STF = 11 ministros (Juízes) de cada **Tribunal** |

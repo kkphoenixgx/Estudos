@@ -1,6 +1,6 @@
 # Gilberto Freyre
 2022-08-08
-tags:  [[20-XX]]
+tags:  [acontecimentos do  20-XX](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2020-XX.md)
 
 * Contexto
     * [[2° fase sociologia brasileira]]

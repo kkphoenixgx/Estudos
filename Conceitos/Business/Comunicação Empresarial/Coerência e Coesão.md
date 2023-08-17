@@ -1,6 +1,6 @@
 # Coerência e Coesão
 2023-03-20
-tags: 
+tags: [Redação](../../Linguagens/Português%20do%20Brasil/Redação/Redação.md)
 
 ## Desenvolvimento
 

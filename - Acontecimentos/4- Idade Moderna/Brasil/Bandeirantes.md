@@ -1,6 +1,6 @@
 # Sertanistas
 2022-08-25
-tags: Entre 16 e 18 - [[17-XVII]]
+tags: Entre 16 e 18 - [acontecimentos do  17-XVII](../../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2017-XVII.md)
 
 O termo bandeirantes nasceu nas tribos tupi-guarani que erguiam bandeiras toda vez que iriam guerrear contra outra tribo, então os Paulistas que iam para a mata capturar índios e tinham índios dentro de seus grupos, erguiam bandeiras também para mostrar que iriam à mata, daí o termo bandeirantes.
 

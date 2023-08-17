@@ -1,6 +1,6 @@
 # Maias
 2022-08-05
-tags: [[1 - I]] ,América , Índios da América Central
+tags: [acontecimentos do  1 - I](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%201%20-%20I.md) ,América , Índios da América Central
 
 ![[Screenshot_20220805-134749_Chrome 1.jpg]]
 

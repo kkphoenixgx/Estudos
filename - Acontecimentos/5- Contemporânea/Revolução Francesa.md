@@ -1,12 +1,12 @@
 # Revolução Francesa
 2022-08-11
-tags: [[18-XVIII]], 1789 - 1799, [[Iluminismo]] [[Idade Contemporânea]]
+tags: [acontecimentos do  18-XVIII](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2018-XVIII.md) , 1789 - 1799, [[Iluminismo]] Idade Contemporânea
 *  + de 20.000 mortes
 > Um capítulo da história da ascensão da burguesia
 
 * Lembre-se que direito natural na revolução francesa, mantem-se na origem mesmo, não é John Locke
 
-A revolução francesa aconteceu, obviamente, na França, no século [[18-XVIII]], ela marca o final da idade moderna e o começo da idade contemporânea. Muitas das nossas ideias vieram dessa revolução, ela finaliza muitos regimes antigos e consolida o **capitalismo**.
+A revolução francesa aconteceu, obviamente, na França, no século [XVIII](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2018-XVIII.md), ela marca o final da idade moderna e o começo da idade contemporânea. Muitas das nossas ideias vieram dessa revolução, ela finaliza muitos regimes antigos e consolida o **capitalismo**.
 
 
 * Jacobinos = querem matar todo mundo

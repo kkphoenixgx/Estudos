@@ -1,6 +1,6 @@
 # Revolução Inglesa
 2022-08-18
-tags: [[Guerra dos 100 anos]], Guerra das duas rosas [[17-XVII]]
+tags: [[Guerra dos 100 anos]], [[Guerra das duas rosas]] [acontecimentos do  17-XVII](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2017-XVII.md)
 
 1626 → Dinastia Stuart, não gosta muito dos puritanos (comerciante)
 1628 → Carlos primeiro → Petição de direitos

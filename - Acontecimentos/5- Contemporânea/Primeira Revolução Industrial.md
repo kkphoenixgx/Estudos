@@ -1,6 +1,6 @@
 # Primeira Revolução Industrial
 
-A primeira revolução Industrial é a ERA DAS MÁQUINAS, mas ainda não é exterminador do futuro, *ainda*,  aconteceu no século [[18-XVIII]]
+A primeira revolução Industrial é a ERA DAS MÁQUINAS, mas ainda não é exterminador do futuro, *ainda*,  aconteceu no século [XVIII](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2018-XVIII.md)
 
 I - É de conhecimento público que tanto "armazém" quanto "oficina" **são termos que caracterizam a Inglaterra como potência mundial no século XIX.** Além do poder naval, comercial e fabril, **o país conta com influência direta sobre a ação de outros países em expansão.**
 

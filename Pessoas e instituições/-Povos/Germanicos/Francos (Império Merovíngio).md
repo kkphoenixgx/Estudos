@@ -1,6 +1,6 @@
 # Francos (Império Merovíngio)
 2022-05-27
-tags: #germanicos França de [[5 - V]] até [[9- IX]]
+tags: #germanicos França de [acontecimentos do  5 - V](../../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%205%20-%20V.md) até o século IX
 
 Os francos começaram suas terras onde hoje é a França, e deram luz ao **Império Merovíngio**
 

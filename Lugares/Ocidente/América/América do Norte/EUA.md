@@ -1,5 +1,5 @@
 # EUA
-tag: #Locate sec [[18-XVIII]] de 1775  até 1783.
+tag: #Locate século XVIII - 1775 até 1783.
 
 ## Desenvolvimento
 

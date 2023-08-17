@@ -3,9 +3,7 @@
   "attachmentFolderPath": "img",
   "promptDelete": false,
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "pt-BR"
-  ],
+  "spellcheckLanguages": null,
   "alwaysUpdateLinks": true,
   "readableLineLength": false,
   "showInlineTitle": false,
@@ -33,5 +31,7 @@
     "editor:configure-toolbar",
     "editor:swap-line-up",
     "editor:swap-line-down"
-  ]
+  ],
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
 }

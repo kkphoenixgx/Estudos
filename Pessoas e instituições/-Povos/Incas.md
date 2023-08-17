@@ -1,6 +1,6 @@
 # Império Inca
 2022-08-06
-tags: América América do Sul, Cordilheira dos andes, Bolívia, [[Idade Moderna]]
+tags: América América do Sul, Cordilheira dos andes, Bolívia, Idade Moderna, [acontecimentos do  15-XV](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2015-XV.md)
 
 São na realidade vários povos que acabam se formando e se submetendo.
 

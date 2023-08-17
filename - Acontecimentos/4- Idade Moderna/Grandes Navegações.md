@@ -1,6 +1,6 @@
 # Grandes Navegações
 
-As grandes Navegações aconteceram no [[16-XVI]]
+As grandes Navegações aconteceram no [XVI](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2016-XVI.md)
 
 * Contexto
     * Pequenas cidades.

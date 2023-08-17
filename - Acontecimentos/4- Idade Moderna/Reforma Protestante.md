@@ -1,6 +1,6 @@
 # Reforma Protestante
 2022-06-14
-tags: [[16-XVI]]
+tags: [acontecimentos do  16-XVI](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2016-XVI.md)
 
 Tá tudo mudado, cidade brotando, descobriram novos continentes, cidades brotando, mercado voltando... Dentro disso a igreja também começa a ser questionada, principalmente depois da [[Peste Negra]], tem o [[Padre Nicolau]] também que porra... kkkkkkkk... ai é foda... 
 
@@ -13,7 +13,7 @@ Osso de Jesus vendendo é foda.... Até os próprios católicos já estavam quer
 
 Com a abertura de margem para apontar o dedo para a igreja, alguns o fazem. Contudo esses alguns são justamente alguns e para igreja, alguns são poucos, então dá aquela cortada no pescoço chamando de **herege** e tá tudo certo, por enquanto.
 
-Mas em 1450, século [[15-XV]], com a mídia já existindo por meio de jornais e livros, começa a mais gente ler coisas que criticavam a igreja e isso deu uma levantada no movimento protestante, embora a igreja também usava a mídia, antes somente ela tinha o poder de fala e agora com a mídia em pauta, geral que paga pode falar.
+Mas em 1450, século [XV](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2015-XV.md), com a mídia já existindo por meio de jornais e livros, começa a mais gente ler coisas que criticavam a igreja e isso deu uma levantada no movimento protestante, embora a igreja também usava a mídia, antes somente ela tinha o poder de fala e agora com a mídia em pauta, geral que paga pode falar.
 
 * Frederico II fecha com os burgueses e não deixa os caras entrarem na quebrada. Então já tem um estranhamento entre a igreja e a galera do [[Sacro Império Romano Germânico]], onde hoje é Alemanha, Carlos V também já n conseguia muito bem fazer os nobres gostarem da igreja católica
 
@@ -47,7 +47,7 @@ https://plataforma.seliga.com.br/aula/68b118c0-eac9-11e9-9cde-f3f6a2360997;missa
 
 ## Mapa Mental
 
-Contexto: Final da [[Idade Média]] e começo da [[Idade Moderna]], novas religiões, [[Formação dos Países]]
+Contexto: Final da Idade Média e começo da Idade Moderna, novas religiões, [[Formação dos Países]]
 
 Lutero: Contrária os dogmas Católicos
 Calvino: Busca do enriquecimento 

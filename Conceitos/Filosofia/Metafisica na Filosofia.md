@@ -1,6 +1,6 @@
 # Metafisica na Filosofia
 2022-04-23
-tags: [[-5 V ac]]
+tags: [acontecimentos do V ac](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%20-5%20V%20ac.md)
 
 * Meta fisica → Além do mundo fisico
 

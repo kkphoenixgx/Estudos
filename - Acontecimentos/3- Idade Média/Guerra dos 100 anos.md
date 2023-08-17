@@ -1,6 +1,6 @@
 # Guerra dos 100 anos
 2022-06-14
-tags: [[14-XIV]] [[15-XV]]
+tags: [acontecimentos do  14-XIV](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2014-XIV.md) 
 
 Dura 116 anos. Galera nem sabia mais quando tinha começado. 1337 - 1453. Ingleses vs franceses.
 

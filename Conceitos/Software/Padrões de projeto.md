@@ -1,6 +1,6 @@
 # Padrões de projeto
 2023-04-14
-tags: #GOF #programation 
+tags: #GOF
 
 ![[Pasted image 20230414162054.png]]
 

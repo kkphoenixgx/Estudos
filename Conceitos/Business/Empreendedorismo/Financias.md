@@ -1,6 +1,6 @@
 # Financias
 2022-08-02
-tags: [[Empreendedorismo]] [[21-XXI]]
+tags: [[Empreendedorismo]] acontecimentos do  21-XXI
 
 * Anote todos os seus gastos;
 * Separar as categorias nas 3 colunas.

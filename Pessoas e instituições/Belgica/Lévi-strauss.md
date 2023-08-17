@@ -1,6 +1,6 @@
 # Lévi-strauss
 2022-05-01
-tags: [[Antropologia]] [[20-XX]]
+tags: [[Antropologia]] [acontecimentos do  20-XX](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2020-XX.md)
 
 O levistro foi um antropologo que foi bem importante em sua área. Ele inclusive ajudou a formar a USP aqui no Brasil, em 1935. Nessa mesma época fazendo expedições sobre a cultura indigina, ele fez contato com três tribos e escreveu sua primeira obra prima chamada de Tristes Trópicos, contando essas experiência, obra essa que fundou parte da antropologia como conhecemos, o estruturalismo, que é a média entre a sociologia experimental e a sociologia teórica. 
 Ele é um grande nome da antropologia estrutural, com isso tendo algumas obras bem relevantes

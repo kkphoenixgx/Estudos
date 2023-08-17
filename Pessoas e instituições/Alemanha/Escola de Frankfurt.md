@@ -1,6 +1,6 @@
 # Escola de Frankfurt
 2022-10-19
-tags: [[20-XX]]
+tags: [acontecimentos do  20-XX](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2020-XX.md)
 
 A escola da Frankfurt é uma instituição, um instituto de pesquisas sociais localizada na Alemanha que continha uma série de filósofos. Inclusive, os mais novos estão vivos até a data desse texto.
 São filósofos na época da República de Weimar, que é após a Primeira Guerra Mundial, e somente no momento que eles precisam fugir da Alemanha nazista e fugir para os EUA que eles ganham o renome da Escola de Frankfurt.

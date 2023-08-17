@@ -1,6 +1,6 @@
 # Francis Bacon
 2022-06-24
-tags: Reino Unido - United Kigdom - Londres [[16-XVI]] [[Empirista]]
+tags: Reino Unido - United Kigdom - Londres [século XVI](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2016-XVI.md) [[Empirista]]
 
 Mais comummente chamado de Visconde de Alban em sua época, Francis Bacon é um grande marco para a ciência
 

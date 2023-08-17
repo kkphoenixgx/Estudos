@@ -1,6 +1,6 @@
 # Fatorial
 2022-06-03
-tags: #math [[Princípio da Contagem]]
+tags: [-Matemática](../-Matemática.md) [[Princípio da Contagem]]
 
 $$6! = 6×5×4×3×2×1 = 720$$
 $$n! = n-1 × n-2 × n-3 ...$$

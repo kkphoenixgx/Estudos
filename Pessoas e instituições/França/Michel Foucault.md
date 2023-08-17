@@ -1,6 +1,6 @@
 # Michel Foucault
 2022-09-11
-tags: [[20-XX]], [[Sociologia]]
+tags: [acontecimentos do  20-XX](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2020-XX.md), [[Sociologia]]
 
 *Um estudante da loucura*. Em História da Loucura, ele procura mostrar como o conceito de loucura mudou através dos tempos. Uma de suas ideias fundamentais é que a loucura não é algo da “natureza” ou uma “doença”, como acreditavam os psiquiatras, mas um “fato de cultura”
 

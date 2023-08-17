@@ -1,3 +1,5 @@
+[Inglês](../Inglês.md)
+
 * **praiseworthy** = what deserve of prise;
 * **preposterous** =  contrary of reason of comon sense;
 * **fizzled out** = to gradually finish and end in a disapointing way;

@@ -1,6 +1,6 @@
 # Karl Marx
 2022-08-08
-tags: [[19-XIX]]
+tags: [acontecimentos do  19-XIX](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2019-XIX.md)
 
 > Como diria Karl Marx, se o ser vive em uma sociedade cujo a base é o capitalismo, a super estrutura que fundamentará o indivíduo será capitalista. Dessa forma, nossas mentes estão entrelaçadas com o capitalismo que por seu viés é consumista e individualista. Por isso, a sociedade sofre com uma desigualdade e com ideologias que por si só são danosas a sociedade.
 

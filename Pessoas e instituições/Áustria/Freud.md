@@ -1,6 +1,6 @@
 # Sigmund Freud
 2022-09-19
-tags: [[19-XIX]]
+tags: [XIX](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2019-XIX.md)
 
 * **Mal estar da civilização**
 	* Ele disse que existem homens com o sentimento oceânico, que é o que da voz  às religiões, de se sentir parte de um todo

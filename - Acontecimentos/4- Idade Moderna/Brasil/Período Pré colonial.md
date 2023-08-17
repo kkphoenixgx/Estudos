@@ -1,9 +1,9 @@
 # Período Pré colonial
 2022-07-21
-tags: [[16-XVI]], Brasil, [[Grandes Navegações]]
+tags: [acontecimentos do  16-XVI](../../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2016-XVI.md), Brasil, [[Grandes Navegações]]
 
 * Contexto histórico
-	Portugal no século 16 tinha muito poder. Eles foram os primeiros a fazer explorações marítimas, eles eram conhecidos como o país dos aventureiros. [[16-XVI]]
+	Portugal no século 16 tinha muito poder. Eles foram os primeiros a fazer explorações marítimas, eles eram conhecidos como o país dos aventureiros. [acontecimentos do  16-XVI](../../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2016-XVI.md)
 	*  1500 
 		Pedro Alvares Cabral descobre o Brasil. (Descobrir na época significa que alguém deu poder para alguém falar que uma terra nova será utilizada pelo rei)
 	* Na época, o papa era espanhol. Portanto quando o Colombo chega (Colombo a serviço da Espanha) o papa dá +90% para a Espanha com a **bula inter coetera** mas o papa então depois de discutir com Portugal faz o **[[tratado-de-tordesilhas.webp]]** e divide metade metadina o mundo, esse tratado divide o Planeta em 2, não só a América. E então ninguém aceita isso mas fazer o que... É Portugal na fita baby. **Então em 1500 é a primeira vez que alguém vem para o Brasil com o sentido de posse com uma frota de 1500**

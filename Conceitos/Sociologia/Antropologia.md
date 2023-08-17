@@ -2,7 +2,7 @@
 2022-05-01
 Tag: [[Sociologia]]
 
-A antropologia estuda a variedade cultural dos seres humanos. Ela se inicia com uma escola chamada de Evolucionismo Social no século [[19-XIX]]. Com uma influência gigantesca da biologia e com grande influência do [[Auguste Comte]]. Com isso em mente, temos que a antropologia se divide em três escolas com ideais bem diferentes
+A antropologia estuda a variedade cultural dos seres humanos. Ela se inicia com uma escola chamada de Evolucionismo Social no século [XIX](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2019-XIX.md). Com uma influência gigantesca da biologia e com grande influência do [[Auguste Comte]]. Com isso em mente, temos que a antropologia se divide em três escolas com ideais bem diferentes
 
 ## Evolucionismo Social
 

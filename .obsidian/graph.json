@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:IMPORTANT",
@@ -22,6 +22,13 @@
       }
     },
     {
+      "query": "path:\"Sec/Acontecimentos Dos Séculos\"",
+      "color": {
+        "a": 1,
+        "rgb": 15479392
+      }
+    },
+    {
       "query": "path:Sec/",
       "color": {
         "a": 1,
@@ -29,17 +36,17 @@
       }
     },
     {
-      "query": "tag:#Locate",
-      "color": {
-        "a": 1,
-        "rgb": 14248205
-      }
-    },
-    {
       "query": "path:Acontecimentos",
       "color": {
         "a": 1,
         "rgb": 2113497
+      }
+    },
+    {
+      "query": "tag:#Locate",
+      "color": {
+        "a": 1,
+        "rgb": 14248205
       }
     },
     {
@@ -78,37 +85,86 @@
       }
     },
     {
+      "query": "path:Conceitos/Biologia",
+      "color": {
+        "a": 1,
+        "rgb": 53518
+      }
+    },
+    {
+      "query": "path:Conceitos/Business",
+      "color": {
+        "a": 1,
+        "rgb": 14722304
+      }
+    },
+    {
+      "query": "path:Conceitos/Math",
+      "color": {
+        "a": 1,
+        "rgb": 8716295
+      }
+    },
+    {
+      "query": "path:Conceitos/Fisica",
+      "color": {
+        "a": 1,
+        "rgb": 48526
+      }
+    },
+    {
+      "query": "path:Conceitos/Filosofia",
+      "color": {
+        "a": 1,
+        "rgb": 5197311
+      }
+    },
+    {
+      "query": "path:Conceitos/Geográficos",
+      "color": {
+        "a": 1,
+        "rgb": 16753152
+      }
+    },
+    {
+      "query": "path:Conceitos/Quimica",
+      "color": {
+        "a": 1,
+        "rgb": 3973399
+      }
+    },
+    {
+      "query": "path:Conceitos/Sociologia",
+      "color": {
+        "a": 1,
+        "rgb": 12386442
+      }
+    },
+    {
+      "query": "path:Conceitos/Software",
+      "color": {
+        "a": 1,
+        "rgb": 3405
+      }
+    },
+    {
       "query": "path:Conceitos",
       "color": {
         "a": 1,
         "rgb": 8454282
-      }
-    },
-    {
-      "query": "line:(Fisico)",
-      "color": {
-        "a": 1,
-        "rgb": 13172480
-      }
-    },
-    {
-      "query": "line:(Filosofo)",
-      "color": {
-        "a": 1,
-        "rgb": 7381515
       }
     }
   ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.35641025641026,
-  "lineSizeMultiplier": 0.728205128205128,
-  "collapse-forces": false,
-  "centerStrength": 0.222222222222222,
-  "repelStrength": 13.3052631578947,
+  "nodeSizeMultiplier": 1.2484375,
+  "lineSizeMultiplier": 0.253125,
+  "collapse-forces": true,
+  "centerStrength": 0,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 54,
-  "scale": 0.010949867762377963,
+  "linkDistance": 30,
+  "scale": 0.0078125,
   "close": true
 }

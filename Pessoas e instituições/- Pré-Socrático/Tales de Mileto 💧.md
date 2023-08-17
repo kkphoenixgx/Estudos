@@ -1,5 +1,5 @@
 # Tales de Mileto
-#pré-srcráticos [[-8 VIII ac]]
+Tags: #pré-srcráticos [acontecimentos do  -8 VIII ac](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%20-8%20VIII%20ac.md)
 
 * **Arche** = Origem
 

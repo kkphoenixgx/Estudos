@@ -1,6 +1,6 @@
 # Ciências Sociais
 2023-05-05
-tags: [[-Psicologia Organizacional]] [[Sociologia]]
+tags: -Psicologia Organizacional [[Sociologia]]
 
 ## Organização
 

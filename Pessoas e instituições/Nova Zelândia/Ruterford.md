@@ -1,6 +1,6 @@
 # Ruterford
 2022-06-13
-tags: #Quimica #Fisica [[19-XIX]] [[20-XX]] Nova Zelândia
+tags: #Quimica #Fisica XIX - [XX](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2020-XX.md) Nova Zelândia
 
 ![[Rutherford.png]]
 

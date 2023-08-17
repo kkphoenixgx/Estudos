@@ -1,6 +1,6 @@
 # Geometria
 2022-07-13
-tags:  #math 
+tags: [-Matemática](../-Matemática.md)
 
 A geometria é a ciência da matemática que estuda formas e suas relações matemáticas.
 

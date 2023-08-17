@@ -1,6 +1,6 @@
 # Regra de Três
 2022-05-13
-tags: #math 
+tags: [-Matemática](../../-Matemática.md)
 
 * Quando definir um fixo em uma regra de três composta, você faz o fixo com os não fixos.
 

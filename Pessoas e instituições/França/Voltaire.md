@@ -1,6 +1,6 @@
 # Voltaire
 2022-07-24
-tags: França [[17-XVII]], [[Iluminismo]]
+tags: França [acontecimentos do  17-XVII](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2017-XVII.md), [[Iluminismo]]
 
 * É um grande defensor da liberdade de expressão.
 ![[Pasted image 20220724005919.png]]

@@ -1,6 +1,6 @@
 # Marx Weber
 2022-08-10
-tags: #Sociologia [[19-XIX]], mais puxado para as humanas 1864-1920
+tags: #Sociologia [acontecimentos do  19-XIX](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2019-XIX.md), mais puxado para as humanas 1864-1920
 
 * Sociologia clássica -> [[Durkhein]], [[Karl Marx]] e [[Weber]]
 

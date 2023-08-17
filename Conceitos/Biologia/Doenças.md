@@ -1,6 +1,6 @@
 # Epidemias e Doenças
 2022-06-18
-tags: 
+tags: [Biologia](Biologia.md)
 
 * Epidemia = Um pico gigantesco de uma doença em todo o mundo (Terra)
 * Endemia = Numero de casos bem alto em um determinado lugar (Brasil)

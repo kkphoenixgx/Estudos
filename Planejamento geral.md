@@ -1,6 +1,6 @@
 #  Planejamento geral
 2022-04-27
-tags: #IMPORTANT
+tags: #IMPORTANT [Concept](-Templetes/Concept.md) [Default Template](-Templetes/Default%20Template.md)
 
 #todo 
 - [ ] Faz um simulado 

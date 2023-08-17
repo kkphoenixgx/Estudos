@@ -32,7 +32,7 @@ Defunto autor = um morto que escreve
 
 Clima de chuva = clima chuvoso.
 
-![[Adsjetivos 2]]
+![[Adjetivos 2]]
 
 . O grau comparativo de superioridade é feito de dois modos .
 

@@ -1,6 +1,6 @@
 # Escravatura
 2022-08-16
-tags: [[Idade Moderna]], porém na Idade Antiga já tinha escravatura.
+tags: [acontecimentos do  15-XV](../../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2015-XV.md) Idade Moderna, porém na Idade Antiga já tinha escravatura.
 
 * Contexto
 	* 1441 - [[Antônio Gonçalves]] captura 6 escravos do Saara e leva para Portugal.

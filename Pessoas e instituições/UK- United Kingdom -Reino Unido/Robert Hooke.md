@@ -1,6 +1,6 @@
 # Robert Hooke
 2022-06-12
-tags: #Biologia, [[17-XVII]]
+tags: #Biologia, [acontecimentos do  17-XVII](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2017-XVII.md)
 
 ![[Robert Hooke image.png]]
 

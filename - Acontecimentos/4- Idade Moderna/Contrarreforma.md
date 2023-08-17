@@ -1,6 +1,6 @@
 # Contrarreforma
 2022-07-14
-tags: [[16-XVI]]
+tags: [acontecimentos do  16-XVI](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2016-XVI.md)
 
 É a reforma da Igreja Católica, que tinha como função principia conseguir retomar o poder que foi perdido na [[Reforma Protestante]]. Em meio a um século de mudanças 
 

@@ -1,6 +1,6 @@
 # Funções
 2022-04-27
-tags: #math
+tags: [-Matemática](../-Matemática.md)
 
 Uma variável é quando temos várias respostas para algo, já uma incógnita só possui um valor, na qual ainda não sabemos.
 

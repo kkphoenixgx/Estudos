@@ -1,6 +1,6 @@
 # Zenão de Cítio
 2022-07-11
-tags: Império Romano #Estoicismo [[5 - V]]
+tags: Império Romano #Estoicismo [acontecimentos do  5 - V](../../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%205%20-%20V.md)
 
 * ataraxia = tranquilidade
 

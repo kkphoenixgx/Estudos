@@ -1,6 +1,6 @@
 # Renascimento
 2022-06-14
-tags: [[Literatura e Literatura Brasileira#Renascimento Século XIV]], [[15-XV]] 
+tags: Literatura e Literatura Brasileira#Renascimento Século XIV, [acontecimentos do  15-XV](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2015-XV.md) 
 
 O Renascimento surge na Itália, pois era onde estava a Grécia. 1453, pois antes disso já tinha comércio e com o comércio começam as trocas de cultura, lerem os livros antigos; as comparações de quem é mais parecido com quem...
 Outro fator importante é que para os comerciantes começarem a serem vistos como pessoas de respeito, eles começam a financiar a arte, financiar obras de arte para também influenciar as pessoas do pensamento que eles querem. Contratar eles para fazer o que eles acham legal, pintar coisas humanas para que os humanos sejam visto como o foco, o  **Mecenato**.

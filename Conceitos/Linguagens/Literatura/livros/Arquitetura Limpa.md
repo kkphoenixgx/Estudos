@@ -3,7 +3,7 @@ annotation-target:  arquitetura-limpa.pdf
 ---
 # Anotações do Arquitetura Limpa
 2022-12-07
-tags: #programation #uncleBob
+tags: Programação #uncleBob
 
 ## -Cap 2: 
 

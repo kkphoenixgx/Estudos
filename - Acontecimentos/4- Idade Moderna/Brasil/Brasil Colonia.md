@@ -1,6 +1,6 @@
 # Brasil Colônia 
 2022-05-26
-tags: [[16-XVI]] 1530 adiante.
+tags: [XVI](../../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2016-XVI.md)- 1530 adiante.
 
 Período na qual o Brasil começa a ser colonizado por Portugal.
 

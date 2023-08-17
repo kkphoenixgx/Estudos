@@ -1,6 +1,6 @@
 # Adam Smith
 2022-07-24
-tags: [[18-XVIII]]
+tags: [acontecimentos do  18-XVIII](../../Sec/Acontecimentos%20Dos%20Séculos/acontecimentos%20do%20%2018-XVIII.md)
 
 ![[Adam Smith.png]]
 

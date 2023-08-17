@@ -1,4 +1,3 @@
 # Lei das terras 
-[[19-XIX]]
 
-Distribuição fundiária não é qualitativa no Brasil
+[Lei das terras](Brasil/Lei%20das%20terras.md)

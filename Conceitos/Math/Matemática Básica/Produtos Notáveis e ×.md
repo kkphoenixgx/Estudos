@@ -1,5 +1,5 @@
 # Produtos Notáveis e as regras da Multiplicação
-#math 
+Tags: [-Matemática](../-Matemática.md)
 
 Os produtos notáveis são muito úteis para as transformações e facilitas muitas coisas na hora de calcular, o segredo do jogo não é fazer contas rápido é como não fazer contas, a ideia é simplificar ao máximo tudo, de modo que façamos contas simples, mesmo que trabalhosas, lógicas.  
 Então vamos dividi-las em duas partes, pois precisamos saber as duas regras da multiplicação para entendermos produtos notáveis.
