@@ -1,6 +1,5 @@
 [
   "obsidian-admonition",
-  "calendar",
   "obsidian-icon-folder",
   "obsidian-excalidraw-plugin",
   "obsidian-latex-suite",
@@ -11,5 +10,8 @@
   "obsidian-fullscreen-plugin",
   "obsidian-style-settings",
   "google-calendar",
-  "homepage"
+  "homepage",
+  "obsidian-completr",
+  "obsidian-functionplot",
+  "spoiler-block-obsidian"
 ]

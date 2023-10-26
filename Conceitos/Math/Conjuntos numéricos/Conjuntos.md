@@ -126,5 +126,10 @@ Portanto, 75% das crianças da escola tomaram as duas vacinas.
 
 
 -------------------------------------------------------
+### Intervalos
+
+`[ A` →Intervalo Fechado, entra A na notação
+`( A` →Intervalo Aberto, entra a partir de A na notação
+
 ## Bibliografia
 ## Mapa Mental

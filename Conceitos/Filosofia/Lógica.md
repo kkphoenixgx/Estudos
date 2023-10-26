@@ -151,6 +151,14 @@ Veja agora a tabela completa acima, vamos substituir (A ⇒ B) por seu respectiv
 Inclusive, perceba que (A ⇒ B) ⋀ (B ⇒ A) tem o mesmo resultado da [tabela do ⇔](Lógica.md#Tabela%20⇔), então podemos falar com segurança que:
 > (A ⇒ B) ⋀ (B ⇒ A) é igual à A⇔B
 
+#### Definições entre preposições
+
+Levando em conta que podemos definir que uma FBF é equivalente a outra quando as tabelas verdade delas são iguais, devemos nos atentar as seguintes categorias de FBF, a priori, todas as FBF possuem as seguintes FBFs: ( Leve em conta a seguinte base: **p → q**, ou seja, qualquer frase que tenha a segunda preposição como dependente)
+
+* Recíproca: `q → p` = O resultado de `q` como verdadeiro, leva a execução de p como verdadeiro
+* Contrária: `~p → ~q` = O resultado de `p` como falso, leva a execução de `q` como falso
+* Contrapositiva: `~q → ~p` = O resultado de `q` como falso, leva a execução de p como falso
+
 ### Tautologia
 
 É uma fórmula que é sempre verdadeira, independentemente dos valores lógicos atribuídos as suas proposições. Sempre vai dar verdadeiro em tudo...
@@ -162,7 +170,7 @@ Uma clássica tautologia, veja:
 
 ![](../../img/Pasted%20image%2020230710145814.png)
 
-### Equivalência tautológica
+#### Equivalência tautológica
 
 Uma equivalência tautológica é quando podemos dizer A⇔B, sendo A uma fbf ou B fbf, tanto as longas quanto as compridas, tanto faz, o ponto é que ⇔ sempre será uma equivalência tautológica. Pois toda vez que falarmos: A ⇔ B, estamos dizendo que sempre que A == true, B ==  true; A == false, B ==  false... Portanto, temos uma equivalência tautológica
 
@@ -186,6 +194,11 @@ O Oposto da tautologia
 ![](../../img/Pasted%20image%2020230710151723.png)
 
 ![](../../img/Pasted%20image%2020230710151844.png)
+
+### Contingência
+
+Uma contingência é uma proposição cujo valor lógico é sempre variável... 
+
 
 ## Exercícios
 

@@ -15,7 +15,7 @@ Porém essa parte da Antropologia vê as outras culturas como um estágio de pro
 
 Para eles a europa estava nesse último estágio e que todas as civilizações rumariam a tal proposito um dia. Porém lembre do Neocolonialismo do [[Imperialismo]]
 
-[[Morgan]], [[Tailor ]], [[Phazer]]. Esses são os principais nomes do Evolucionismo social, eles trazem algumas coisas importantes, mas nada de mais.
+[[../../Pessoas e instituições/Índia/De Morgan]], [[Tailor ]], [[Phazer]]. Esses são os principais nomes do Evolucionismo social, eles trazem algumas coisas importantes, mas nada de mais.
 
 Até que teve [[Franz Boas]] e acabou com o Etnocentrismo, Olhou para as outras culturas e disse, perae, mas geral tem uns aspectos bons, não pode comparar.
 

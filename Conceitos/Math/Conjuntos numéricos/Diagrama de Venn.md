@@ -4,7 +4,7 @@ tags: [[Conjuntos]]
 
 ## Desenvolvimento
 
-O diagrama de Venn, também conhecido como diagrama de Venn-Euler, é uma maneira de representar graficamente um conjunto, para isso utilizamos uma linha fechada que não possui auto intersecção e representamos os elementos do conjunto no interior dessa linha. A ideia do diagrama é facilitar o entendimento nas operações básicas de [[conjuntos]], como: relação inclusão e pertinência, união e intersecção, diferença e conjunto complementar.
+O diagrama de Venn, também conhecido como diagrama de Venn-Euler, é uma maneira de representar graficamente um conjunto, para isso utilizamos uma linha fechada que não possui auto intersecção e representamos os elementos do conjunto no interior dessa linha. A ideia do diagrama é facilitar o entendimento nas operações básicas de [[Conjuntos]], como: relação inclusão e pertinência, união e intersecção, diferença e conjunto complementar.
 
 ### Representações do diagrama de Venn
 

@@ -44,15 +44,70 @@ Leia antes [O Hexadecimal](#O%20Hexadecimal)
 3F:  
 $$3F_{16} = ∑15.16^0 + 3.16^1 = 63 $$
 
+### Convertendo com vírgula
+
+Bom, seguindo a lógica, atrás da unidade seria o -1...
+
+* Binário: (Dessa vez vou fazer a conta da esquerda para direita para ficar mais organizado)
+
+111.001: 
+$$ 111.001= ∑ 1.2² + 1.2¹ + 1.2⁰ + 0.2^{-1} + 0.2^{-2} + 1.2^{-3} $$ $$= (4 + 2 + 1) , (0 + 0 + 0,125) = 7,125$$
+E segue a mesma lógica para todos os outros.
+
 ## Convertendo de decimal para outros sistemas
 
-para fazer essa conversão, usamos o método de divisões sucessivas, onde pegamos o resto das divisões sucessivas e formamos o número na base definida
+para fazer essa conversão, usamos o método de divisões sucessivas, onde pegamos o resto das divisões sucessivas e formamos o número na base definida de trás para frente
+
+![divisões sucessivas](img/divisões%20sucessivas.md)
+
+Nessa forma de conversão, definiremos dois atores principais, o MSB e o LSB:
+
+MSB = Most Significant Bit, o bit mais importante, que seria o último bit;  
+LSB = Last Significant Bit, o bit menos significante.
+
+No exemplo da imagem, temos que o último 1 é o MSB e o primeiro 0 o LSB, e 
+sempre segue essa ordem, o primeiro resto é o LSB e o último quociente o MSB 
+
+### Decimal fracional
+
+Para convertermos um número fracional, ou seja, com casas após a vírgula, devemos isolar a parte decimal e aplicar o método de multiplicações sucessivas
+
+Então veremos o número 17,098: * Fazemos o 17 →* fazemos o 0,098:
+
+17 →
+
+![Exemplo17-DivisS](img/Exemplo17-DivisS.md)
+
+Agora no método de multiplicações sucessivas, pegaremos sempre a maior casa do resultado:
+![Multiplicações sucessivas](img/Multiplicações%20sucessivas.md)
+
+0, 098
 
 
+### Decimal para Octal
 
+Substitua a base por 8 no método de divisões sucessivas:
+
+![divisões sucessivas](img/divisões%20sucessivas.md)
 
 ## Convertendo de sistemas não-decimais para não-decimais
 
+Agora entre bases não decimais, precisamos entender quantos bits de um sistema equivale para outro. Utilizaremos a fórmula base^casas, então quantas casas vamos precisar para chegar na base que queremos converter?
+
+### Octal para binário
+
+A base do octal é 8 e a do binário é 2, então se queremos converter de octal para binário, precisaremos saber quantas casas cada número em octal vale para as casas em binário, teríamos 2^x = 8. E isso logicamente é 3. Dessa forma, precisaremos converter cada número em octal para 3 casas:
+
+27_8 para binário = 
+$$2 7 = 010 + 111 ∴ 10111$$
+
+Perceba que somente juntamos o valor em binário dos dois números e que por ter que ser em 3 casas, adicionamos um zero a frente do 10 que seria 2, logo depois, cortamos ele pois é um zero a esquerda, contudo, isso poderia influenciar se não fosse a primeira casa 
+
+### Binário para Hexadecimal
+
+Mesma lógica do de cima, contudo, 2^4 = 16...
+
+$$10011000 = 9(1001) + 8(1000) = 98$$
 
 ## O Hexadecimal
 
@@ -90,3 +145,6 @@ O Hexadecimal tem uma peculiaridade, suas casas vão até F, sim, depois do 9, t
 | 26                | 1A                    |
 
 
+
+
+## Mapa Mental

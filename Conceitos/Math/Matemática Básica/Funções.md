@@ -13,6 +13,25 @@ Uma variável é quando temos várias respostas para algo, já uma incógnita s�
 
 Uma função é que todos os elementos do domínio tem uma correspondência num domínio. E essa correspondência para esse Domínio só pode ter uma correspondência em um contra domínio
 
+## Paridade das funções
+
+Par:
+> f(-x) = f(x) -> f é par
+
+O que significa dizer que (a, b) Pertence ao gráfico de f, assim como (-a, b) pertence ao gráfico 
+
+
+Ímpar: -f(x) -> f é ímpar
+
+> -f(x) -> f é ímpar
+
+O que significa que (a, b) Pertence ao gráfico de f, assim como (-a, -b) tambem pertence ao gráfico de f. Os pares tem simetria com a origem
+
+## Tipos de função
+
+Sobregetora = A -> B, B = Imagem
+
+Injetora = x1 != x2 => f(x) !÷ f
 
 -----------------------------------------------
 ## Bibliografia

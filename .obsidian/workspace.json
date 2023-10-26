@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f6ac0522be0aa364",
+        "id": "cf312bff4855a8fa",
         "type": "tabs",
         "children": [
           {
-            "id": "148522d8ffce6d43",
+            "id": "fbb32733669343df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conceitos/Hardware/Sistemas de numeração em computação.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "google-calendar-view-week",
+              "state": {}
             }
           }
         ]
@@ -106,7 +101,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Hardware/Sistemas de numeração em computação.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,9 +157,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Conceitos/Hardware/Sistemas de numeração em computação.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -181,7 +173,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos/Hardware/Sistemas de numeração em computação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +184,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Hardware/Sistemas de numeração em computação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,6 +219,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -237,58 +228,57 @@
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false
     }
   },
-  "active": "148522d8ffce6d43",
+  "active": "6a34cce0aab1729e",
   "lastOpenFiles": [
+    "Conceitos/Math/Matemática Discreta/Conjuntos MatDiscreta.sync-conflict-20231023-120823-KTIVQ2K.md",
+    "Conceitos/Math/Matemática Discreta/Contagem em MatDiscreta.md",
+    "Conceitos/Math/Matemática Básica/Princípio da Contagem.md",
+    "Conceitos/Math/Matemática Básica/Porcentagem.md",
+    "Conceitos/Math/Matemática Básica/Funções.md",
+    "Conceitos/Math/Matemática Básica/Fatoração e Raizes.md",
+    "Conceitos/Math/Análise combinatória/Análise Combinatória.md",
+    "Conceitos/Math/Análise combinatória/Fatorial.md",
+    "Conceitos/Math/Probabilidade/Estatística.md",
+    "Conceitos/Math/Probabilidade/Probabilidade.md",
+    "Conceitos/Math/Probabilidade/Probabilidade da união e intercessão.md",
+    "img/Exercícios mat discreta conjuntos em mat discreta.md",
+    "img/Screenshot from 2023-10-20 11-25-23.png",
+    "img/ExerMatConj4.png",
+    "img/ExerMatConj3.png",
+    "img/ExerMatConj2.png",
+    "img/ExerMatConj1.png",
+    "Conceitos/Math/Matemática Discreta/Algebra das preposições.md",
+    "Conceitos/Math/Matemática Discreta/Argumentação.md",
+    "Conceitos/Math/Matemática Discreta/Sentenças abertas.md",
+    "Conceitos/Math/Matemática Discreta/Quantificadores e lógica de predicados.md",
+    "Conceitos/Hardware/img/Drawing 2023-10-23 12.50.44.excalidraw.md",
+    "img/Exemplo3MatDiscretaConjuntosEmMatDiscreta.jpg",
     "Conceitos/Math/-Matemática.md",
-    "Conceitos/Math/Math.md",
+    "Conceitos/Math/Conjuntos numéricos/Diagrama de Venn.md",
+    "Conceitos/Math/Conjuntos numéricos/Conjuntos.md",
+    "Conceitos/Math/Geometria/Polinômios.md",
+    "Conceitos/Math/Matemática Discreta/-Matemática discreta.md",
+    "Conceitos/Math/Matemática Discreta/Conjuntos MatDiscreta.md",
+    "Conceitos/Hardware/Eletrônica digital básica.md",
     "Conceitos/Hardware/Sistemas de numeração em computação.md",
-    "Noções de tempo.md",
-    "Listas de exercício.md",
-    "Regras de Convivência.md",
-    "Planejamento geral.md",
-    "Conceitos/Hardware/-Hardware.md",
-    "Conceitos/Hardware/Untitled",
+    "img/Screenshot_20231022_103157_Chrome 1 1.jpg",
+    "Conceitos/Hardware/img/EFFlipFlops.md",
+    "img/FixaçãoFlipFlops.png",
+    "img/FlipFlopD.png",
+    "img/FlipFLopT.png",
+    "pdfs/Matemática Básica Mark-up.pdf",
+    "Conceitos/Math/Binômio de Newton",
+    "Conceitos/Math/Matemática Discreta/Untitled",
+    "Pessoas e instituições/Índia",
+    "Conceitos/Software/-img",
+    "Conceitos/Hardware/img",
     "Conceitos/Hardware",
-    "Conceitos/Business/Gestão de Processos de Negócio/-Gestão de processos de Negócio.md",
-    "Conceitos/Business/Gestão de Processos de Negócio/mapa-processos.md",
-    "Conceitos/Business/Fundamentos de Administração/-Fundamentos de Adiministração.md",
     "Conceitos/Business/Fundamentos de Administração",
     "Conceitos/Business/Gestão de Processos de Negócio",
-    "Conceitos/Software/Programação.md",
-    "Lugares/Ocidente/América/América do Sul/Brasil.md",
-    "img/Pasted image 20230711154157.png",
-    "img/Pasted image 20230711154114.png",
-    "img/Pasted image 20230711153410.png",
-    "img/Pasted image 20230711152835.png",
-    "img/Pasted image 20230711152817.png",
-    "img/Pasted image 20230711152345.png",
-    "Pessoas e instituições/Brasil/Cefet.md",
-    "img/_Fuxograma 2022.1.pdf",
-    "img/Pasted image 20230711140310.png",
-    "Nilo Peçanha.md",
-    "Conceitos/Filosofia/Lógica.md",
-    "img/Pasted image 20230710151943.png",
-    "img/Pasted image 20230710151844.png",
-    "img/Pasted image 20230710151723.png",
-    "Conceitos/Math/Matemática Discreta/-Matemática discreta.md",
-    "Conceitos/Filosofia/Liberdade ou igualdade.md",
-    "Conceitos/Filosofia/Empirista.md",
-    "Conceitos/Filosofia/Política e a Filosofia.md",
-    "Conceitos/Filosofia/Metafisica na Filosofia.md",
-    "Conceitos/Filosofia/Mapa da Filosofia.md",
-    "Conceitos/Filosofia/Untitled",
-    "Mapas mentais.md",
-    "Conceitos/Math/Algebra/Sequências numericas/Sequencias numéricas.md",
-    "Conceitos/Math/Algebra/Sequências numericas/PA.md",
-    "Conceitos/Math/Algebra/Algebra.md",
-    "Conceitos/Math/Matemática Discreta",
-    "Sec/Acontecimentos Dos Séculos",
-    "style-settings.json",
-    "pdfs/Weber.pdf"
+    "img/_Fuxograma 2022.1.pdf"
   ]
 }

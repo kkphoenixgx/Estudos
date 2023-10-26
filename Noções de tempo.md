@@ -22,6 +22,10 @@ O tempo pode ser dividido pelos grandes Periodos além dos séculos
 * Idade Moderna = XV
 *  Idade Contemporânea = XIII
 
+## Transições no ambiente econômico
+
+![](img/Pasted%20image%2020230926122841.png)
+
 ## Para entendermos uma sociedade
 
 6 elementos para entender qualquer sociedade.

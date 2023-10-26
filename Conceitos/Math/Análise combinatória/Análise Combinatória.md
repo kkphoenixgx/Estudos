@@ -14,7 +14,7 @@ $$Permutação = n!$$
 
 ### Arranjo
 
-O arranjo é quando os itens dos [[Conjuntos]] permutam entre si
+O arranjo é quando os itens dos [[../Conjuntos numéricos/Conjuntos]] permutam entre si
 
 $$Arranjo = \frac{n!}{(n-k)!}$$
 
