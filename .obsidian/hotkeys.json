@@ -1,14 +1,4 @@
 {
-  "insert-template": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod",
-        "Shift"
-      ],
-      "key": "T"
-    }
-  ],
   "editor:swap-line-up": [
     {
       "modifiers": [
@@ -95,6 +85,26 @@
         "Shift"
       ],
       "key": "F"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:undo-close-pane": [],
+  "wikilinks-to-mdlinks-obsidian:toggle-wiki-md-links": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
     }
   ]
 }

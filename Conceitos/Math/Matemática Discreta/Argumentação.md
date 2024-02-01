@@ -1,7 +1,7 @@
 
 # Argumentação
 2023-08-30
-tags: [-Matemática discreta](-Matemática%20discreta.md)
+tags: 
 
 ## Desenvolvimento
 

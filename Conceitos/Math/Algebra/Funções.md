@@ -11,8 +11,9 @@ Uma variável é quando temos várias respostas para algo, já uma incógnita s�
 * Contra Domínio = (CD) Todos os elementos de B
 * Imagem = Todos os elementos de B que tem conexão
 
-{ 1, 2, 3 }
-	[ 1, 3 ] ( -infinito, 7]   
+{ 1, 2, 3 }  
+[ 1, 3 ]   
+( -infinito, 7]   
 
 
 Uma função é que todos os elementos do domínio tem uma correspondência num domínio. E essa correspondência para esse Domínio só pode ter uma correspondência em um contra domínio
@@ -32,7 +33,33 @@ O estudo de sinais nada mais é que entender como a função se comporta, como c
 
 -----------------------------------------------
 
-## Função Modular
+
+## Tipos de função
+
+**Sobregetora** = A -> B, B = Imagem
+
+**Injetora** = x1 != x2 => f(x1) != f(x2). É Interessante dizer que podemos observar se temos dois y no mesmo gráfico, ela só será injetora se não tivermos o mesmo y
+
+Se f é os dois, estamos falando de uma função bigetora. Toda função bijetora admite uma função inversa, geralmente denotada por f^-1, isso é uma notação.
+
+![](../../../img/funcionTypesMat.png)
+
+
+### Funções pares e ímpares
+
+Par:
+> f(-x) = f(x) -> f é par
+
+O que significa dizer que (a, b) Pertence ao gráfico de f, assim como (-a, b) pertence ao gráfico 
+
+
+Ímpar: -f(x) -> f é ímpar
+
+> -f(x) -> f é ímpar
+
+O que significa que (a, b) Pertence ao gráfico de f, assim como (-a, -b) tambem pertence ao gráfico de f. Os pares tem simetria com a origem
+
+### Função Modular
 
 Para entendermos função modular, precisamos entender o que é uma função com mais de uma sentença:
 
@@ -97,8 +124,105 @@ Quanto maior o termo independente, mais afastada a função estará do gráfico,
 Agora, vamos ver um outro caso, quando temos uma ou mais módulos, entenderemos um módulo como uma função, como vimos na definição de módulo, dessa forma, precisaremos tratar cada parte com módulo de uma função como uma função independente fazendo estudo dos sinais, vejamos **f(x) = |x + 2| + | x -1 |**
 
 
+### Função Composta
+
+É uma função que recebe o resultado de outra função. Uma função que faz o x se associar ao y
+
+![](../../../img/Pasted%20image%2020231202164836.png)
 
 
+g ο f = g(f(x))
+
+#### Exercises
+
+![](../../../img/Pasted%20image%2020231202170804.png)
+
+### Funções inversas
+
+Toda função bijetora, tem uma função inversa.
+
+![](../../../img/Pasted%20image%2020231202172102.png)
+
+#### Gráfico da função inversa
+
+
+Segue-se a seguinte definição: 
+
+$$
+f(a)= b ⇔ f^{-1}(b) = a
+$$
+$$
+(a, b) ∈ G_{f} ⇔ (b,a) ∈ G_{-f}
+$$
+Se, em sua função, x = a e y = b → em sua função inversa, x = b e y = a. Desse modo, se (a, b) está no gráfico, (b. a) estará também.
+
+Entendendo que, quando fazemos uma função, levamos x em y, ao fazer a inversa, trazemos y em x. A composta de uma função com a sua inversa sempre será x já que levamos e trazemos de volta.
+
+$$
+(f∘f^{-1})(x) = x
+$$
+$$
+(f^{-1}∘f)(x) = x
+$$
+
+
+* Defina o contra domínio para aceitarmos a função ser bijetora
+* Defina o gráfico da função
+* Definindo pontos do gráfico (a, b), pela definição, (b,a) estará no gráfico também. Poderemos então criar o gráfico
+* Defina (composta de f com f^1 ) (x) = x é ache sua inversa
+
+Interessante também que podemos achar f(x) de f ∘ g se tivermos g já que podemos usar a inversa de g para achar f(x)
+#### Exercício
+
+![](../../../img/Pasted%20image%2020231202175811.png)
+
+![](../../../img/Pasted%20image%2020231202181603.png)
+
+![](../../../img/Pasted%20image%2020231202182045.png)
+### Função Exponencial
+
+> a > 0 a != 1
+
+Função exponencial é quando temos x no ^:
+
+$$f(x) = a^{x} $$
+
+Quando fazemos um gráfico assim, teremos uma função injetora assim:
+
+**Base > 1 = Crescente; Base < 1 = Decrescente**
+
+![](../../../img/Pasted%20image%2020231202184621.png)
+
+Detalhes da função exponencial é que ela é crescente, só terá um valor para y, dessa forma. é injetora e como não deram para mim o domínio, será também sobrejetora, dessa forma, será bijetora e admitirá função inversa.
+
+![](../../../img/Pasted%20image%2020231202215825.png)
+
+#### Exercises
+
+![](../../../img/Pasted%20image%2020231202223237.png)
+
+![](../../../img/Pasted%20image%2020231203155413.png)
+
+### Função Logarítmica 
+
+A função logarítmica de base a nada mais é, por definição, do que a função inversa da função exponencial de base a
+
+![[20231108_184036.jpg]]
+
+Então, por definição, sua imagem será o conjunto dos números reais e seu domínio será o conjunto dos números positivos maiores que 0.  
+Uma ressalva bem importante é que isso só vale para funções com a > 1
+
+Não existe para a < 1;
+
+Para a entre 0 a 1: 
+
+![[20231108_190444.jpg]]
+
+
+## Lista de exercícios
+
+[Listas_Fundamentos da Matematica](../../../pdfs/Listas_Fundamentos%20da%20Matematica.pdf)
+![ExerciciosFundamentosDaMat](../../../-Excalidraw/ExerciciosFundamentosDaMat.md)
 
 ## Bibliografia
 

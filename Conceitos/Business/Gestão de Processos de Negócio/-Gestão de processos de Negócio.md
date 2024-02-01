@@ -87,6 +87,41 @@ Podemos definir tipos de processos/tarefas dentro deles para definirmos algo que
 
 ![[../../../img/20231009_195052.jpg]]
 
+### Aula 6 - Gateways
+
+* Gateway divergente
+
+![[20231023_182858.jpg]]
+
+* Gateway convergente 
+
+![[20231023_182837 1.jpg]]
+
+* Divergente sem Gateway
+
+![[20231023_182817.jpg]]
+
+* Resolvendo o Divergente 
+
+#### Tipos de Gateway 
+
+
+##### Gateway exclusivo 
+
+
+E**x**clusivo irá excluir caminhos, vai ter somente um caminho que vai ser definido por uma condicional
+
+##### Gateway paralelo 
+
+Só irá começar o próximo quando todos os processos concluírem
+
+##### Gateway inclusivo
+
+Tem uma 
+
+## Aula 6 
+
+![[20231030_190630.jpg]]
 
 
 ## Imagens de Referência

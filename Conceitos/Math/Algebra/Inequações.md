@@ -30,6 +30,18 @@ Vale lembrar que quando temos duas equações do segundo grau, podemos fatorar e
 
 ![inequação do segundo grau com quociente](../../../img/inequação%20do%20segundo%20grau%20com%20quociente.md)
 
+
+## Inequações exponenciais
+
+
+![](../../../img/Pasted%20image%2020231203155519.png)
+
+Quando temos uma desigualdade onde as potencias tem bases maiores que 1, o sinal da inequação continua, ao contrário, se inverte.
+
+Vejamos um exercício bem peculiar e junta [Inequações do 2° grau](#Inequações%20do%202°%20grau) com [Inequações exponenciais](#Inequações%20exponenciais): 
+![](../../../img/Pasted%20image%2020231203160330.png)
+
+
 ## Conclusão
 
 ### Inequação do 1° e 2° grau com produto e quociente

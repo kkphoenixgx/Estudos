@@ -1,6 +1,6 @@
 # Algebra das preposições
 2023-08-30
-tags: [-Matemática discreta](-Matemática%20discreta.md) [Lógica](../../Filosofia/Lógica.md)
+tags: [-Matemática discreta](-Matemática%20discreta.md)
 <div style="display:flex; justify-content: center; text-align: center"> ⋀ ⊻ ⋁ ¬ ⇒ ⇔ </div>
 
 Com a algebra das preposições, podemos inferir o que é verdade pelas nossas preposições verdadeiras, num raciocínio lógico-dedutivo.

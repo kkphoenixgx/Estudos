@@ -1,0 +1,56 @@
+# Arthur Schopenhauer
+tags: Alemanha, século 19 - XIX #Romantico 
+
+
+![](../../img/Sem%20título.jpg)
+
+
+<p style="display:flex; justify-content: center; text-align: center" > <i> O meu mundo é minha representação ~Schopenhauer</i></p>
+
+Schopenhauer será a grande quebra ao iluminismo, ele pegará as ideias de Kant e transformará a forma que viveremos o mundo, entenderemos como se quebrou o dogma que a razão seria nosso extremo guia.
+
+<p style="display:flex; justify-content: end; text-align: right" > <i> Toda existência é uma série de sofrimentos ~Schopenhauer</i></p>
+
+Seus livros:
+* [[O mundo como vontade e representação - Livro Schopenhauer]]
+* [[Parerga e Paralipomena - Livro Schopenhauer]]
+* [[Aforismos para a sabedoria da vida - Livro Schopenhauer]]
+
+Morre com mais de 70 anos de colapso pulmonar
+
+## Desenvolvimento
+
+Para entendermos Schopenhauer, precisamos entender:
+
+> O mundo é a minha representação ~Schopenhauer
+
+Indo mais a fundo em Descartes, nós podemos realmente confiar que existimos e que estamos vendo, tudo bem, mas o que vemos e o que entendemos é justamente o que representamos, ou seja, não necessariamente estamos vendo o certo a partir da nossa representatividade, o ser humano vive no que ele é capaz de conhecer dessa realidade, e, parafraseando Kant, a verdade imutável, a verdade verdadeira é subjetiva. Portanto, o mundo é minha representação.
+
+Perceba que não mudamos muito do que Kant diz, para falar a verdade é praticamente a mesma coisa, contudo, a originalidade vem indo mais a fundo.
+
+Parafraseando o mesmo: A vontade é um cego robusto que carrega um aleijado que enxerga. E trazendo para o nosso entendimento neuronal atual, é como se ele tivesse falando do nosso sistema límbico e do córtex frontal. Existe algo que determina a nossa relação com a realidade e esse algo é a vontade. O ser humano não é guiado pela razão, o ser humano é guiado pela vontade, somos guiados por uma força que não é racional.
+
+> A razão cria motivos para justificar esses desejos
+
+E por sermos guiados pela vontade, a vida é sofrimento.
+<p style="display:flex; justify-content: end; text-align: right" > <i> A natureza é ótima para a espécie e terrível para o indivíduo ~Schopenhauer</i></p>
+
+E sobre o porquê, vejamos: A vida é frequentemente insatisfação pois estamos sempre procurando a satisfação de nossas vontades e satisfazer a mesma é como dar uma esmola para um mendigo, num dia ele come e no outro estará com fome de novo. Dessa forma, a vida é insatisfação. Estamos fadados a estar insatisfeitos, numa utopia, os humanos iriam se matar ou guerrear para perder o tédio.
+
+Entendendo isso, para diminuirmos nossa infelicidade, precisamos entender que a satisfação das vontades não é o caminho para nos satisfazermos, o caminho é aprender a não desejar, tornar-se livre das suas vontades, por isso toda grande mente será solitária, abdicando de suas vontades. Por isso ele é Budista, segue a risca a filosofia de abdicar de suas vontades.
+
+### História de Arthur Schopenhauer
+
+Seu nome foi dado por seu pai, pai esse que adoraria que o mesmo se tornasse um comerciante, veja, "Arthur" não muda muito a pronuncia quando se muda de localidade. Embora seu nome seja de um comerciante, Schopenhauer é um exímio pensador e filósofo. O pai de Schopenhauer, era um grande amigo para ele e assim que seu pai morre, ele se torna solitário, suas únicas companhias eram seus nove cachorros, nove podous que tinham o mesmo nome: Átila, que ele dizia que eram seus motivos de estar vivo, para ele, cachorros eram mais transparentes que os turvos humanos.
+
+Ele já deu aula na universidade, chamava [[Hegel]] de repulsivo, dava aulas junto a ele para os alunos matarem a aula do Hegel, contudo, ele quem acabava não tendo alunos, só deu aula por dois semestres, sua carreira por isso foi por água a baixo.
+
+## Bibliografia
+
+https://plataforma.seliga.com.br/aula/1d59a230-ec42-11e9-8277-49e37db16071
+
+[Imagem](data:image/jpeg;base64,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)
+
+
+
+

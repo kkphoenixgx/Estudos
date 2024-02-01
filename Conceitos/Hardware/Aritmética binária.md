@@ -1,3 +1,4 @@
+
 # Aritmética binária
 2023-08-25
 tags: [-Hardware](-Hardware.md)

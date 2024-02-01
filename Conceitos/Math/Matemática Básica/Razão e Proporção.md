@@ -1,6 +1,6 @@
 # Razão e Proporção
 2022-04-20
-tags: [-Matemática](../-Matemática.md)
+tags: [-Matemática Básica](-Matemática%20Básica.md)
 
 ## Desenvolvimento
 

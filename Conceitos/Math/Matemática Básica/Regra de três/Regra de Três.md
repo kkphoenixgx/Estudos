@@ -1,21 +1,21 @@
 # Regra de Três
 2022-05-13
-tags: [-Matemática](../../-Matemática.md)
+tags: [-Matemática Básica](../-Matemática%20Básica.md)
 
 * Quando definir um fixo em uma regra de três composta, você faz o fixo com os não fixos.
 
 ## Desenvolvimento
 
-## Simples
+### Simples
 
-### Diretamente proporcional
+#### Diretamente proporcional
 
 
-### Inversamente proporcional
+#### Inversamente proporcional
 
-## Composto
+### Composta
 
-### Inversamente proporcional composta
+#### Inversamente proporcional composta
 
 ![[Inversamente proporcional composta.png]]
 

@@ -7,7 +7,7 @@ tags: Programação #uncleBob
 
 ## -Cap 2: 
 
-![[20221207_231702.jpg]]
+![20221207_231702.jpg](20221207_231702.jpg)
 
 ## -Cap 3
 programação estruturada é aquela que funciona sem classes e a com classes é a POO (OOP) 
@@ -23,7 +23,7 @@ programação estruturada é aquela que funciona sem classes e a com classes é 
 
 Crie objetos concretos voláteis para não depender diretamente do componente, é melhor que você só dependa de um static method do que da aplicação toda. Melhor, se tiver usando esse mesmo trecho nos dois e tiver como mandar esse trecho para um utils, já fica mais organizado.
 
-![[20221207_232549.jpg]]
+![20221207_232549.jpg](20221207_232549.jpg)
 
 Separar os componentes por abstratos e concretos.
 
@@ -49,8 +49,8 @@ $$D = |A + I -1|$$
 * A (Abstração) = na (numero de classes de um componente) nc (classes abstratas + Interfaces)
 * D (Distância da sequência principal) |A +I -1 |
 
-![[20221209_180258.jpg]]
-![[20221209_180248.jpg]]
+![20221209_180258.jpg](20221209_180258.jpg)
+![20221209_180248.jpg](20221209_180248.jpg)
 
 ## -Cap 16: Independência (dos componentes)
 
@@ -62,8 +62,8 @@ $$D = |A + I -1|$$
 
 ## Cap 17: limites
 
-![[20221226_140519.jpg]]
+![20221226_140519.jpg](20221226_140519.jpg)
 
-![[20221226_140917.jpg]]
-![[20221226_140920.jpg]]
+![20221226_140917.jpg](20221226_140917.jpg)
+![20221226_140920.jpg](20221226_140920.jpg)
 

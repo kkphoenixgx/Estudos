@@ -43,7 +43,7 @@ $$10_{8} = ∑0.8⁰ + 1.8¹ = 8$$
 Leia antes [O Hexadecimal](#O%20Hexadecimal)  
 3F:  
 $$3F_{16} = ∑15.16^0 + 3.16^1 = 63 $$
-
+O maior leva a maior potencia
 ### Convertendo com vírgula
 
 Bom, seguindo a lógica, atrás da unidade seria o -1...
@@ -108,6 +108,12 @@ Perceba que somente juntamos o valor em binário dos dois números e que por ter
 Mesma lógica do de cima, contudo, 2^4 = 16...
 
 $$10011000 = 9(1001) + 8(1000) = 98$$
+
+### Hexadecimal para binário
+
+É fazer o contrário agrupando em 4
+
+$$35 = 0011 + 0110 ∴ 110110$$
 
 ## O Hexadecimal
 

@@ -1,6 +1,6 @@
 # Princípio da Contagem
 2022-06-03
-tags: [-Matemática](../-Matemática.md)
+tags: [-Matemática Básica](-Matemática%20Básica.md)
 
 > De acordo com o princípio fundamental da contagem, se um evento é composto por duas ou mais etapas sucessivas e independentes **, o número de combinações será determinado pelo produto entre as possibilidades de cada conjunto.**
 

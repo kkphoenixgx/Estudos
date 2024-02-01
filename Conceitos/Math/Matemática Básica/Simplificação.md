@@ -1,7 +1,7 @@
 # # Simplificação, ou fatoração algebrica
 
 2022-04-18
-tags: [-Matemática](../-Matemática.md)
+tags: [-Matemática Básica](-Matemática%20Básica.md)
 
 Simplificando expressões, podemos fazer o mesmo que foi descrito em [[Fatoração e Raizes#Fatorando raizes]], na parte de fatoração do a da raiz. Isso é a fatoração de um número e ajuda-nos a transformar os números para os mesmos com expoentes maiores que um, se isso for útil no seu jogo, pode usar essa feature. Então tirando a fatoração, temos mais dois tópicos da fatoração que são bem interessantes de entender
 

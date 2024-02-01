@@ -1,6 +1,8 @@
 # Regras caseiras da casa u.u
 #IMPORTANT 
 
+Antes de usar o repositório, instale os [Plugins](#Plugins) citados, ao contrário, o repositório não vai funcionar como o esperado.
+
 1. Somente pessoas, eventos e principais conceitos citam os acontecimentos do tempo
 2. Somente pessoas importantes aos seus séculos citam acontecimentos do século e só podem citar um;
 3. Lugares são citados, mas não lincados;
@@ -12,4 +14,26 @@
 		<p style="display:flex; justify-content: end; text-align: right" > <i> phrase ~autor</i></p>
 		1. Contudo, mude o máximo de antigas conforme for editando
 		2. Pode mudar a posição se quiser
+
+
+## Plugins
+
+
+Admonition  
+Advanced Tables  
+Annotator  
+Code Editor Shortcuts  
+Completr  
+Dataview  
+Excalidraw  
+Homepage  
+Icon Folder  
+Latex Suite  
+Obsidian Functionplot  
+Style Settings  
+Spoiler Block
+Paste image rename
+Google Calendar //Opcional  
+Image Toolkit  //Opcional  
+Fullscreen mode plugin  //Opcional  
 

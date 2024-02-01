@@ -1,6 +1,6 @@
 # Porcentagem
 2022-05-24
-tags: [-Matemática](../-Matemática.md) [[Regra de Três]]
+tags: [-Matemática Básica](-Matemática%20Básica.md) [[Regra de Três]]
 
 * A% de B é o mesmo que B% de A
 
