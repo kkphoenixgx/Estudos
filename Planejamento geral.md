@@ -3,9 +3,9 @@
 tags: #IMPORTANT [Concept](-Templetes/Concept.md) [Default Template](-Templetes/Default%20Template.md)
 
 #todo 
-- [ ] Faz um simulado 
 - [ ] Revisar logaritmo 
 - [ ] Aprender Função logarítmica
+- [ ] cache backend
 
 ## Recomendações de livros
 
@@ -19,3 +19,5 @@ tags: #IMPORTANT [Concept](-Templetes/Concept.md) [Default Template](-Templetes/
 * Antropofagia
 
 ## Organização pessoal
+
+

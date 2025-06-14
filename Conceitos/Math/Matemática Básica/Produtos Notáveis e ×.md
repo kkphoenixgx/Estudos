@@ -65,3 +65,12 @@ Perceba que temos os resultados -ab e ab, se eu somo ab de um x e depois diminuo
 Com simplesmente a propriedade distributiva, podemos fazer coisas ainda mais complexas, produtos notáveis com 3 termos por exemplo, mas se quiser, vai fundo, você se entendeu tudo consegue. 
 
 Faz aí (a-b) . (a+b) . (a+b).
+
+### Quadrado perfeito
+
+x² -2x +1
+
+a= x
+b= 1
+
+= (x-1)²

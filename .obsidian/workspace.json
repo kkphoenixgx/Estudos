@@ -4,210 +4,107 @@
     "type": "split",
     "children": [
       {
-        "id": "d0e6b98b43df3ee3",
+        "id": "75f903ada2fdf3fd",
         "type": "tabs",
         "children": [
           {
-            "id": "0a7f8cfcf08123bd",
+            "id": "00f324072f6e87ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conceitos/Software/Arquitetura de software.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fae454c104cc0a87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conceitos/Linguagens/Literatura/livros/Arquitetura Limpa.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "21829237e4f0d29d",
+    "id": "35c6c684d3f6ca35",
     "type": "split",
     "children": [
       {
-        "id": "e42078f8e84fcff8",
+        "id": "7196ac0314a533e5",
         "type": "tabs",
         "children": [
           {
-            "id": "921854d7e1a0a697",
+            "id": "fe5a2d638b5984e1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "f2f693e5b0b3541f",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "e4c1c46b4db75e5a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "434d6858b53a879f",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "89958b3c2b7d5e67",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 233.5
   },
   "right": {
-    "id": "d99212db1f3df553",
+    "id": "ed205c4a3aed8595",
     "type": "split",
     "children": [
       {
-        "id": "25f2935a9ad0b2ad",
+        "id": "7deea2235d78ed96",
         "type": "tabs",
-        "dimension": 54.33526011560693,
         "children": [
           {
-            "id": "6a34cce0aab1729e",
+            "id": "3366a756b194cdda",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conceitos/Linguagens/Literatura/livros/Arquitetura Limpa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
-                  "localJumps": 3,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "path:Sec",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    },
-                    {
-                      "query": "path:Conceitos",
-                      "color": {
-                        "a": 1,
-                        "rgb": 2303
-                      }
-                    }
-                  ],
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
                   "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": -2,
-                  "nodeSizeMultiplier": 1.54666666666667,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
-                  "centerStrength": 0.352380952380952,
-                  "repelStrength": 20,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
                   "linkStrength": 1,
-                  "linkDistance": 258,
-                  "scale": 0.0391505037690338,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792589,
                   "close": true
                 }
-              }
-            }
-          },
-          {
-            "id": "72fc2a74a3491939",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-day",
-              "state": {}
-            }
-          },
-          {
-            "id": "c8dcf9bde6d35824",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Conceitos/Linguagens/Literatura/livros/Arquitetura Limpa.md"
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
       },
       {
-        "id": "bd9504388c2104ce",
+        "id": "a74175ae42ef018b",
         "type": "tabs",
-        "dimension": 45.664739884393065,
         "children": [
           {
-            "id": "5285eb5e105748a4",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Conceitos/Linguagens/Literatura/livros/Arquitetura Limpa.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "5199ac35cf9c14b4",
+            "id": "dc7710334bb1fac0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos/Linguagens/Literatura/livros/Arquitetura Limpa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,27 +112,25 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
-            "id": "ca53f91b726a47a4",
+            "id": "7a6f12112a198ab2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "511dc88659be6e4d",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -256,54 +151,54 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fae454c104cc0a87",
+  "active": "00f324072f6e87ce",
   "lastOpenFiles": [
-    "Conceitos/Software/Arquitetura de software.md",
-    "Conceitos/Software/Padrões de projeto.md",
-    "Conceitos/Software/Design Patterns.md",
-    "Conceitos/Math/Matemática Básica/-Matemática Básica.md",
-    "Conceitos/Math/Algebra/Funções.md",
-    "Conceitos/Math/Algebra/Algebra.md",
-    "Conceitos/Math/Matemática Básica/Logarítimos.md",
-    "-Excalidraw/ExerciciosFundamentosDaMat.md",
-    "Conceitos/Math/Matemática Básica/Fatoração e Raizes.md",
-    "Conceitos/Math/Math.md",
-    "Conceitos/Math/-Matemática.md",
-    "Conceitos/Math/Algebra/Inequações.md",
-    "Conceitos/Math/Matemática Discreta/Conjuntos MatDiscreta.sync-conflict-20231023-120823-KTIVQ2K.md",
-    "Untitled.md",
-    "Pessoas e instituições/Alemanha/Schopenhauer.md",
-    "Regras de Convivência.md",
-    "img/Sem título 1.jpg",
-    "img/Sem título.jpg",
-    "Pessoas e instituições/Alemanha/Kant.md",
-    "pdfs/Fundamentos_da_Matematica.pdf",
-    "Conceitos/Math/Algebra/Untitled",
+    "Conceitos/Software/Algorítimo em Grafos.md",
+    "pdfs/slides/Alg em Grafos/aula 7 - Árvores Binárias de Busca.pdf",
+    "pdfs/listas/Grafos Lista de Exercícios - P2.pdf",
+    "pdfs/slides/Alg em Grafos/aula 6 - Árvores Geradoras Mínimas.pdf",
+    "pdfs/provas/p2 GRAFOS 2021_1.pdf",
+    "pdfs/provas/P2-Algoritmos em Grafos.pdf",
+    "pdfs/provas/P2 grafos.jpg",
+    "img/Pasted image 20250609194902.png",
+    "pdfs/slides/Alg em Grafos/aula 5 - introdução a árvores.pdf",
+    "img/AlgorítimoemGrafosArvoresIsomorfas.png",
+    "img/AlgorítimoemGrafosInserir um elemento.png",
+    "img/AlgorítimoemGrafosBuscaEmArvoresBinarias.png",
+    "pdfs/provas/IMG-20250609-WA0041.jpg",
+    "pdfs/provas/p2 2021_1.pdf",
+    "pdfs/listas/Lista de Exercícios - P1.pdf",
+    "pdfs/listas/Listas_Fundamentos da Matematica.pdf",
+    "pdfs/slides/SO/SO_04-Escalonamento.pdf",
+    "Conceitos/Software/Sistemas Operacionais.md",
+    "Conceitos/Software/TrabalhoLab3Escalfone.md",
     "Planejamento geral.md",
-    "pdfs/Listas_Fundamentos da Matematica.pdf",
-    "img/LogarítimosExercicioFuvest2010Questao.png",
-    "img/LogarítimosExercicioFUVEST2010.png",
-    "img/Pasted image 20231203203349.png",
-    "img/FuvestSpExercicioLogDivisao.png",
-    "img/LogarítimoseElevadosALogaritimosComAMesmaBasePropriedade.png",
-    "-Excalidraw/drawboard.md",
-    "img/Pasted image 20231203195135.png",
-    "img/Pasted Image 20231203195030_375.png",
-    "-Excalidraw/Estudos prova mat discreta.md",
-    "pdfs/2020-2 - PROVA 2-DISCRETA 3.pdf",
-    "img/Prova mat discreta.jpg",
-    "Conceitos/Math/Matemática Básica/Regra de três/Regra de Três.md",
-    "Conceitos/Math/Matemática Básica/Porcentagem.md",
-    "Conceitos/Math/Matemática Básica/Princípio da Contagem.md",
-    "Conceitos/Math/Matemática Básica/Produtos Notáveis e ×.md",
-    "Conceitos/Math/Matemática Básica/Razão e Proporção.md",
+    "Noções de tempo.md",
+    "Regras de Convivência.md",
+    "Conceitos/Software/Sistemas Operacionais.sync-conflict-20250605-171621-MHBPU4W.md",
+    "img/SistemasOperacionaisHierarquiaMemorias.png",
+    "img/SistemasOperacionaisEscalonamentoTempoReal.png",
+    "img/SistemasOperacionaisEscalonamentoEmLoteFCFS.png",
+    "img/SistemasOperacionaisRoudRobin.png",
+    "Conceitos/Software/Banco De Dados 2/trabalho2.md",
+    "Untitled.canvas",
+    "Untitled 1.md",
+    "Conceitos/Fisica/Dinâmica/Energias e Potência.md",
+    "Conceitos/Math/Matemática Discreta/-Matemática discreta.md",
+    "Conceitos/Math/Matemática Discreta/Algebra das preposições.md",
+    "Conceitos/Software/Ia/Inteligências Artificiais.md",
+    "Conceitos/Software/Banco de dados 2.md",
+    "Conceitos/Software/-Software e sua metalinguagem.md",
+    "Articles/IA-resumos/-IA.md",
+    "Excalidraw/Fluxograma com horários.md",
+    "Excalidraw/FluxogramaMatérias.md",
+    "Conceitos/Math/Algebra/Funções.sync-conflict-20240903-161323-VBPBOF5.md",
+    "Conceitos/Math/Algebra/Funções.md",
+    "Conceitos/Math/Matemática Básica/Fatoração e Raizes.md",
     "Conceitos/Math/Matemática Básica/Simplificação.md",
-    "Conceitos/Math/Matemática Básica/Funções.canvas",
-    "pdfs/Matemática Básica Mark-up.pdf",
-    "Conceitos/Math/Binômio de Newton",
-    "Conceitos/Math/Matemática Discreta/Untitled",
-    "Pessoas e instituições/Índia",
-    "Conceitos/Software/-img",
-    "Conceitos/Hardware/img"
+    "Excalidraw/Drawing 2024-09-06 19.31.57.excalidraw.md",
+    "Conceitos/Math/Geometria/Geometria plana/Trigononetria.md",
+    "Excalidraw/drawboard.sync-conflict-20240903-161322-VBPBOF5.md",
+    "Conceitos/Math/Matemática Básica/Funções.canvas"
   ]
 }

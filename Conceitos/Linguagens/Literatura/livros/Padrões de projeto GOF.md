@@ -1,6 +1,6 @@
 # Padrões de projeto GOF
 2023-10-30
-tags: [[Design Patterns]]  [[Arquitetura Limpa]]
+tags: [[../../../Software/Design Patterns/Design Patterns]]  [[Arquitetura Limpa]]
 
 * **Padrões de criação** abstraem o processo de instância (pág 91). Isso faz eles serem independentes de como seus objetos são criados. Dessa forma, é importante ter um mediador entre a classe e suas subclasses para a classe ficar com um forOut muito grande
 

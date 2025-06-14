@@ -1,6 +1,6 @@
 # Fundamentos de Sistemas da Informação
 2023-08-27
-tags: [Software e sua metalinguagem](Software%20e%20sua%20metalinguagem.md)
+tags: [-Software e sua metalinguagem](-Software%20e%20sua%20metalinguagem.md)
 
 ## Sistema
 

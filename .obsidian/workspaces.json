@@ -23,15 +23,15 @@
         "direction": "vertical"
       },
       "left": {
-        "id": "21829237e4f0d29d",
+        "id": "35c6c684d3f6ca35",
         "type": "split",
         "children": [
           {
-            "id": "e42078f8e84fcff8",
+            "id": "7196ac0314a533e5",
             "type": "tabs",
             "children": [
               {
-                "id": "921854d7e1a0a697",
+                "id": "fe5a2d638b5984e1",
                 "type": "leaf",
                 "state": {
                   "type": "file-explorer",
@@ -39,66 +39,23 @@
                     "sortOrder": "alphabetical"
                   }
                 }
-              },
-              {
-                "id": "f2f693e5b0b3541f",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "",
-                    "matchingCase": false,
-                    "explainSearch": false,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
-                "id": "e4c1c46b4db75e5a",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
-                  }
-                }
-              },
-              {
-                "id": "434d6858b53a879f",
-                "type": "leaf",
-                "state": {
-                  "type": "bookmarks",
-                  "state": {}
-                }
-              },
-              {
-                "id": "89958b3c2b7d5e67",
-                "type": "leaf",
-                "state": {
-                  "type": "git-view",
-                  "state": {}
-                }
               }
             ]
           }
         ],
         "direction": "horizontal",
-        "width": 240.5
+        "width": 233.5
       },
       "right": {
-        "id": "d99212db1f3df553",
+        "id": "ed205c4a3aed8595",
         "type": "split",
         "children": [
           {
-            "id": "25f2935a9ad0b2ad",
+            "id": "7deea2235d78ed96",
             "type": "tabs",
-            "dimension": 54.33526011560693,
             "children": [
               {
-                "id": "6a34cce0aab1729e",
+                "id": "3366a756b194cdda",
                 "type": "leaf",
                 "state": {
                   "type": "localgraph",
@@ -106,82 +63,39 @@
                     "options": {
                       "collapse-filter": true,
                       "search": "",
-                      "localJumps": 3,
+                      "localJumps": 1,
                       "localBacklinks": true,
                       "localForelinks": true,
-                      "localInterlinks": true,
-                      "showTags": true,
-                      "showAttachments": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
                       "hideUnresolved": false,
-                      "collapse-color-groups": false,
-                      "colorGroups": [
-                        {
-                          "query": "path:Sec",
-                          "color": {
-                            "a": 1,
-                            "rgb": 14701138
-                          }
-                        },
-                        {
-                          "query": "path:Conceitos",
-                          "color": {
-                            "a": 1,
-                            "rgb": 2303
-                          }
-                        }
-                      ],
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
                       "collapse-display": true,
-                      "showArrow": true,
-                      "textFadeMultiplier": -2,
-                      "nodeSizeMultiplier": 1.54666666666667,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
                       "lineSizeMultiplier": 1,
                       "collapse-forces": true,
-                      "centerStrength": 0.352380952380952,
-                      "repelStrength": 20,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
                       "linkStrength": 1,
-                      "linkDistance": 258,
-                      "scale": 0.054888336723504155,
+                      "linkDistance": 250,
+                      "scale": 0.5087618855792589,
                       "close": true
                     }
                   }
-                }
-              },
-              {
-                "id": "72fc2a74a3491939",
-                "type": "leaf",
-                "state": {
-                  "type": "google-calendar-view-day",
-                  "state": {}
-                }
-              },
-              {
-                "id": "c8dcf9bde6d35824",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {}
                 }
               }
             ]
           },
           {
-            "id": "bd9504388c2104ce",
+            "id": "a74175ae42ef018b",
             "type": "tabs",
-            "dimension": 45.664739884393065,
             "children": [
               {
-                "id": "5285eb5e105748a4",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
-                "id": "5199ac35cf9c14b4",
+                "id": "dc7710334bb1fac0",
                 "type": "leaf",
                 "state": {
                   "type": "backlink",
@@ -197,23 +111,17 @@
                 }
               },
               {
-                "id": "ca53f91b726a47a4",
+                "id": "7a6f12112a198ab2",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              },
-              {
-                "id": "511dc88659be6e4d",
-                "type": "leaf",
-                "state": {
-                  "type": "reminder-list",
-                  "state": {}
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "horizontal",
@@ -221,6 +129,7 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "obsidian-excalidraw-plugin:Create new drawing": false,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
           "canvas:Create new canvas": false,
@@ -229,12 +138,12 @@
           "markdown-importer:Open format converter": false,
           "audio-recorder:Start/stop recording": false,
           "workspaces:Manage workspace layouts": false,
-          "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
           "table-editor-obsidian:Advanced Tables Toolbar": false,
           "homepage:Open homepage": false
         }
       },
-      "active": "6a34cce0aab1729e"
+      "active": "fbb32733669343df",
+      "mtime": "2024-08-19T07:34:33-03:00"
     },
     "Roma sturdy": {
       "main": {

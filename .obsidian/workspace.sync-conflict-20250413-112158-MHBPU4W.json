@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "7c29be6f4b449369",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf312bff4855a8fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbb32733669343df",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-week",
+              "state": {}
+            }
+          },
+          {
+            "id": "2b2a1a50521fa133",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Fluxograma com horários.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35c6c684d3f6ca35",
+    "type": "split",
+    "children": [
+      {
+        "id": "7196ac0314a533e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe5a2d638b5984e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "right": {
+    "id": "ed205c4a3aed8595",
+    "type": "split",
+    "children": [
+      {
+        "id": "7deea2235d78ed96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3366a756b194cdda",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Excalidraw/Fluxograma com horários.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792589,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a74175ae42ef018b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc7710334bb1fac0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Fluxograma com horários.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a6f12112a198ab2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Fluxograma com horários.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "2b2a1a50521fa133",
+  "lastOpenFiles": [
+    "Excalidraw/FluxogramaMatérias.md",
+    "Excalidraw/Fluxograma com horários.md",
+    "img/Pasted Image 20240923142300_210.png",
+    "img/FluxogramaMatérias.png",
+    "pdfs/Horários Sistemas de Informação - 2024.1 - com ensalamento (1).pdf",
+    "Conceitos/Math/Algebra/Funções.sync-conflict-20240903-161323-VBPBOF5.md",
+    "Conceitos/Math/Algebra/Funções.md",
+    "Conceitos/Math/Matemática Básica/Fatoração e Raizes.md",
+    "Conceitos/Math/Matemática Básica/Simplificação.md",
+    "Excalidraw/Drawing 2024-09-06 19.31.57.excalidraw.md",
+    "Conceitos/Math/Geometria/Geometria plana/Trigononetria.md",
+    "Excalidraw/drawboard.sync-conflict-20240903-161322-VBPBOF5.md",
+    "pdfs/Fundamentos_da_Matematica.pdf",
+    "pdfs/listas/Listas_Fundamentos da Matematica.pdf",
+    "Conceitos/Math/Matemática Básica/Logarítimos.md",
+    "img/tabela-de-razoes-trigonometricas.webp",
+    "img/Figura-6-Tabela-dos-angulos-notaveis-Fonte-Giovanni-e-Bonjorno-2005_Q320.jpg",
+    "img/circulo-trigonometrico.webp",
+    "img/images.jpg",
+    "Conceitos/Math/Geometria/Geometria plana/-Geometria Plana.md",
+    "Conceitos/Math/Geometria/Geometria Espacial/Geometria Espacial.md",
+    "Conceitos/Math/Geometria/Geometria plana/Ângulos.md",
+    "Untitled.md",
+    "Conceitos/Software/Modelagem de dados/- Modelagem de Dados.md",
+    "Conceitos/Software/Modelagem de dados/exerciseP2.md",
+    "Conceitos/Software/Modelagem de dados/exerciseP2.sync-conflict-20240903-172743-SCFHCJ2.md",
+    "Conceitos/Software/Modelagem de dados/~syncthing~exerciseP2.sync-conflict-20240903-172743-SCFHCJ2.md.tmp",
+    "Conceitos/Software/Modelagem de dados/exerciseP2.sync-conflict-20240903-172700-SCFHCJ2.md",
+    "Conceitos/Software/Modelagem de dados/~syncthing~exerciseP2.sync-conflict-20240903-172700-SCFHCJ2.md.tmp",
+    "Conceitos/Software/Modelagem de dados/exerciseP2.sync-conflict-20240903-172553-SCFHCJ2.md",
+    "Conceitos/Software/Modelagem de dados/~syncthing~exerciseP2.sync-conflict-20240903-172553-SCFHCJ2.md.tmp",
+    "Conceitos/Software/Modelagem de dados/exerciseP2.sync-conflict-20240903-172523-SCFHCJ2.md",
+    "Conceitos/Software/Modelagem de dados/~syncthing~exerciseP2.sync-conflict-20240903-172523-SCFHCJ2.md.tmp",
+    "Conceitos/Software/Modelagem de dados/exerciseP2.sync-conflict-20240903-172112-SCFHCJ2.md",
+    "Conceitos/Software/Modelagem de dados/~syncthing~exerciseP2.sync-conflict-20240903-172112-SCFHCJ2.md.tmp",
+    "Conceitos/Software/Modelagem de dados/exerciseP2.sync-conflict-20240903-172010-SCFHCJ2.md",
+    "Conceitos/Software/Modelagem de dados/~syncthing~exerciseP2.sync-conflict-20240903-172010-SCFHCJ2.md.tmp",
+    "Conceitos/Software/Modelagem de dados/exerciseP2.sync-conflict-20240903-171910-SCFHCJ2.md",
+    "Conceitos/Software/Modelagem de dados/~syncthing~exerciseP2.sync-conflict-20240903-171910-SCFHCJ2.md.tmp",
+    "Conceitos/Software/Modelagem de dados/exerciseP2.sync-conflict-20240903-171820-SCFHCJ2.md",
+    "Conceitos/Software/Modelagem de dados/exerciseP2.sync-conflict-20240903-171710-SCFHCJ2.md",
+    "img/IMG-20240821-WA0043.jpg",
+    "img/Screenshot_20240731_191840_Chrome.jpg",
+    "img/Screenshot_20240830_093539_Chrome.jpg",
+    "img/Screenshot_20240830_093637_Chrome.jpg",
+    "Conceitos/Math/Matemática Básica/Funções.canvas"
+  ]
+}

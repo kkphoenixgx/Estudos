@@ -24,7 +24,7 @@ Na fatoração de expressões Algebricas, podemos usar as regreas básicas das c
 Levando em conta os  [[Produtos Notáveis e ×#a b a-b]], podemos transforma-los de volta ao seu estado original, o que pode resolver muitos problemas bem sinistros de resolver.
 
 100x² - 9 - Podemos refatora-lo assim:  
-(10x + 3) . (10x-3) Pois preste atenção a² = 100, logo a = 10, 3²  = b  
+(10x + 3) . (10x-3) Pois preste atenção a² = 100, logo a = 10 e 3²  = b  
 
 Logo podemos então fazer o inverso do produto notáel, simplificando essa expressão, mas não é só isso
 
@@ -34,7 +34,9 @@ se m² = m.m, Então eu posso falar que
 
 Então podemos fatorar um número e depois juntar as partes necessárias para chegarmos a um resultado satisfatório e mais simples
 
-## Produto de Steving
+## Trinomio quadrado perfeito
+
+https://youtu.be/B_Q_doTKgQo?si=oRaeaXdem0QsQVd8
 
 
 

@@ -22,14 +22,21 @@ Temos que criar um gráfico simplificado com as raízes para fazermos o estudo d
 Da mesma forma que podemos fazer o estudo de sinais de uma função somente, vimos que podemos fazer com somente uma função do segundo grau. Contudo, também podemos aplicar o estudo de sinais de várias funções do 2° grau em produtos e quocientes.
 Vale lembrar que quando temos duas equações do segundo grau, podemos fatorar elas e transforma-las em dois produtos notáveis para fazermos um problema com 2 produtos de equações de primeiro grau
 
+### analisando equações com delta negativo
+
+Simples meu bom, se o delta é negativo, nada vai cortar o x, tudo vai ser acima de x, portanto a função tem sinal positivo sempre.
+
 ### inequação do 2° grau com produtos
 
 ![Inequação do segundo grau de produto](../../../img/Inequação%20do%20segundo%20grau%20de%20produto.md)
+
+Mas funciona com duas de 2° grau tmbm 
 
 ### inequação do 2° grau com quocientes
 
 ![inequação do segundo grau com quociente](../../../img/inequação%20do%20segundo%20grau%20com%20quociente.md)
 
+![](../../../img/Screenshot_20240323_153545_CamScanner.jpg)
 
 ## Inequações exponenciais
 
@@ -40,6 +47,32 @@ Quando temos uma desigualdade onde as potencias tem bases maiores que 1, o sinal
 
 Vejamos um exercício bem peculiar e junta [Inequações do 2° grau](#Inequações%20do%202°%20grau) com [Inequações exponenciais](#Inequações%20exponenciais): 
 ![](../../../img/Pasted%20image%2020231203160330.png)
+
+## Inequações modulares
+
+|x| = x, se x ≥ 0
+-x, se x < 0
+
+Para resolver a inequação, separamos o módulo em dois casos; o primeiro é quando o valor que está dentro do módulo é positivo e o segundo é quando o valor que está dentro do módulo é negativo.
+
+O conjunto de soluções de uma inequação é a união das soluções de cada caso.
+
+$$|x| > 2$$
+
+Quando temos esse tipo de inequação, deveremos dividir em dois casos x e -x
+
++x: x>2
+
+-x: -x>2 = -x>2 (.-1) = x < -2 
+
+Dessa forma, temos que x pode assumir os valores menores que -2 e maiores que 2.
+
+S = (-∞, -2) U (2, -∞)
+
+Caso não esteja acostumado com esse tipo de formatação:
+
+ S: {x Є R | x < -2 ou x > 2}
+
 
 
 ## Conclusão

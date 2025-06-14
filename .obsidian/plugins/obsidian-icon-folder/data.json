@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🎨",
+      "⏲",
+      "📰",
       "⭐",
-      "FasMap",
-      "FasBuildingColumns",
-      "🏢",
-      "🗺"
+      "FasMap"
     ],
     "recentlyUsedIconsSize": 5,
     "extraPadding": {
@@ -36,5 +36,8 @@
   "Pessoas e instituições": "🚶🏻‍♂️",
   "Pessoas e instituições/Alemanha/Escola de Frankfurt.md": "🏢",
   "Mapa Mental": "FasMap",
-  "Regras de Convivência.md": "⭐"
+  "Regras de Convivência.md": "⭐",
+  "Articles": "📰",
+  "- Acontecimentos": "⏲",
+  "Excalidraw": "🎨"
 }

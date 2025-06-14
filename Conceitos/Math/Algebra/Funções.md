@@ -38,7 +38,7 @@ O estudo de sinais nada mais é que entender como a função se comporta, como c
 
 **Sobregetora** = A -> B, B = Imagem
 
-**Injetora** = x1 != x2 => f(x1) != f(x2). É Interessante dizer que podemos observar se temos dois y no mesmo gráfico, ela só será injetora se não tivermos o mesmo y
+**Injetora** = x1 != x2 => f(x1) != f(x2). É Interessante dizer que podemos **observar se temos dois y no mesmo gráfico**, ela só será injetora se não tivermos o mesmo y
 
 Se f é os dois, estamos falando de uma função bigetora. Toda função bijetora admite uma função inversa, geralmente denotada por f^-1, isso é uma notação.
 
@@ -58,6 +58,52 @@ O que significa dizer que (a, b) Pertence ao gráfico de f, assim como (-a, b) p
 > -f(x) -> f é ímpar
 
 O que significa que (a, b) Pertence ao gráfico de f, assim como (-a, -b) tambem pertence ao gráfico de f. Os pares tem simetria com a origem
+
+
+### Função constante
+
+Ela é uma reta no eixo x
+
+### Função Afim
+
+Quando temos um x, ela é uma reta que passa os pontos igualmente igual uma identidade só que ela vai se modificar com coeficientes
+
+Exemplo: f(x) =ax+b
+
+2x-1
+
+| x   | y             |     |
+| --- | ------------- | --- |
+| 0   | 2(0)-1 = -1   |     |
+| 2   | 2.(2)-1 = 3   |     |
+| 1/2 | 2.(1/2)-1 = 0 |     |
+
+
+Portando (0, -1) pertence ao gráfico e (2, 3) tá no gráfico também. Contudo, tem que achar também o ponto de intercessão do gráfico que se define quando igualamos a função a 0
+
+2x-1 = 0
+x = 1/2
+
+Então o ponto 1/2 tem que estar no gráfico.
+
+#### 1/x
+
+1/x = estrelinha
+
+Quanto maior o numerador,maior a distância do centro
+Quanto menor o denominador, mais ele vai se deslocar para a direita, então é o contrário
+A função -1/x vai ser ela nos outros blocos do cartesiano
+E quanto maior o coeficiente, mais ela vai se deslocar para cima
+
+
+### Função ididentidade
+
+f(x) =x
+Uma reta que passa pelo eixo x sendo x =0
+
+Bicetriz dos quadrantes ímpares
+
+
 
 ### Função Modular
 
@@ -121,6 +167,10 @@ Agora vejamos a seguinte função: f(x) = |x -1| + 2. Não podemos analisar do m
 
 Quanto maior o termo independente, mais afastada a função estará do gráfico, sendo o termo independente da função citada o +2. Pois +2 só afeta y, ou seja, só afeta a imagem.
 
+**Para achar o vértice a 0 o módulo.**
+
+
+
 Agora, vamos ver um outro caso, quando temos uma ou mais módulos, entenderemos um módulo como uma função, como vimos na definição de módulo, dessa forma, precisaremos tratar cada parte com módulo de uma função como uma função independente fazendo estudo dos sinais, vejamos **f(x) = |x + 2| + | x -1 |**
 
 
@@ -133,6 +183,21 @@ Agora, vamos ver um outro caso, quando temos uma ou mais módulos, entenderemos 
 
 g ο f = g(f(x))
 
+Pega um x da imagem de f para fazer as duas funções
+
+f(x) = 1/x-1
+g(x) = x²
+
+g ο f  = (1/x-1)² = 1/(x-1)²
+
+Para fazer composições que a imagem de f não está contida em g, você pode modificar a função f para não ter os valores que a função g não tem...
+
+f ο g = f(g(x))  = Não tem resultado, pois x² contem 1 e 1/x-1 não pode ter o 1, então podemos falar sobre a função h(x) que terá imagem de g(x) Sem o 1.
+
+Se liga no que acontece quando temos uma composta estranha como essa
+
+![](../../../img/Screenshot_20240731_191840_Chrome.jpg)
+
 #### Exercises
 
 ![](../../../img/Pasted%20image%2020231202170804.png)
@@ -140,6 +205,8 @@ g ο f = g(f(x))
 ### Funções inversas
 
 Toda função bijetora, tem uma função inversa.
+
+Troca o x pelo y e depois isola o y.
 
 ![](../../../img/Pasted%20image%2020231202172102.png)
 
@@ -172,6 +239,13 @@ $$
 * Defina (composta de f com f^1 ) (x) = x é ache sua inversa
 
 Interessante também que podemos achar f(x) de f ∘ g se tivermos g já que podemos usar a inversa de g para achar f(x)
+
+f(x) = 5x-2
+f ο f^-1 = 5 . f^-1 -2 = x
+5 f^-1 = x+2
+f^-1 = x+2/5
+
+
 #### Exercício
 
 ![](../../../img/Pasted%20image%2020231202175811.png)
@@ -231,3 +305,4 @@ https://plataforma.seliga.com.br/aula/a6e67180-fd06-11ea-8c57-018434849ba6
 ## Mapa mental
 
 ![[Funções Mapa Mental.png]]
+![ExerciciosFundamentosDaMat](../../../Excalidraw/ExerciciosFundamentosDaMat.md)

@@ -25,4 +25,4 @@ https://plataforma.seliga.com.br/aula/03a2e580-fcff-11ea-9360-4f6a2564fdcf
 
 ## Mapa mental
 
-![[Campo Magnético-Excalidraw]]
+![[../../../Excalidraw/Campo Magnético-Excalidraw]]

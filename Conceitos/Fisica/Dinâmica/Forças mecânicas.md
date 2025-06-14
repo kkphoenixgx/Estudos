@@ -101,7 +101,7 @@ Preste atenção no gráfico de um paraquedista abrindo um paraquedas em um salt
 
 ##### Mapa mental plano inclinado
 
-![[Mapa mental plano inclinado]]
+![[../../../Excalidraw/Mapa mental plano inclinado]]
 
 ### ☕ Problemas comuns
 ####  Sem atrito

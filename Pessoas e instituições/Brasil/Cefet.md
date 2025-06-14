@@ -26,3 +26,9 @@ Informações do [site oficial do Cefet/RJ](http://www.cefet-rj.br/index.php/cam
 
 ![_Fuxograma 2022.1](../../img/_Fuxograma%202022.1.pdf)
 
+
+## TCC 
+
+
+* Elicitacao de requisitos para s ideia do tcc
+* Não fala que é fácil, nem que é só isso

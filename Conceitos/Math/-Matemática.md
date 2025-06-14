@@ -8,7 +8,6 @@ tags: #math
 _ = tendo a base x = 1_1 = 1₁
 xVy = pode ser representada algumas vezes como raiz = √x, nesse caso, y=2
 
-
 vetor = **^→**. Ou assim:
 $$ x^{→} $$
 
